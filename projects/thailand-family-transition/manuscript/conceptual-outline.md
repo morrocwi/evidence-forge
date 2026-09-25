@@ -1,175 +1,161 @@
-# Conceptual paper manuscript outline
+# Conceptual paper outline
 
-## Genre
+## 1. The population and family problem
 
-**Theory-Building / Conceptual Model Paper**
+Begin with low fertility, ageing, family burden and child/human-development concerns.
 
-Not:
-- original empirical research
-- systematic review
-- narrative literature summary
+Do not begin by assuming that the solution is a premarital course.
 
-## 1. The phenomenon: services exist, but support may still be hard to use
+## 2. What advanced countries already do
 
-Open with Thailand's low-fertility / family-support context, then introduce the puzzle:
+Compare policy portfolios in Singapore, Norway/Nordic systems, Korea, Japan and other relevant OECD settings:
 
-~~~text
-Why can multiple services exist
-while users still lack continuous, timely, safe access?
-~~~
+- money
+- housing
+- leave
+- childcare
+- work-family reconciliation
+- fertility/infertility support
+- marriage preparation
+- relationship support
+- family services
 
-Contribution target: shift the unit of analysis from **course content** to **support access architecture**.
+Ask what these policies change and what they still fail to explain.
 
-## 2. What current lenses explain — and what they leave unresolved
+## 3. The implicit policy equation
 
-### 2.1 Demographic / pronatalist lens
-Explains birth decline and macro consequences, but does not explain usable family-support access.
+Write the conventional logic mathematically.
 
-### 2.2 Relationship-education lens
-Explains communication and some relationship outcomes, but not full service navigation or safety.
+Then show where it compresses:
 
-### 2.3 Preconception / reproductive-health lens
-Explains health readiness, but does not cover the complete family-support pathway.
+\`\`\`text
+provision
+→ access
+→ capability
+→ action
+→ continuity
+→ outcome
+\`\`\`
 
-### 2.4 Faith-based premarital lens
-Offers trusted culturally legitimate entry points, but scope and referral vary.
+## 4. Where the equation collapses distinct states
 
-### 2.5 Violence / safeguarding lens
-Explains why shared couple access is not always safe.
+Keep separate:
 
-### 2.6 Service-integration lens
-Shows the value of networked systems but does not yet specify the premarital-to-family-life transition architecture.
+- resources vs access
+- access vs capability
+- capability vs realized opportunity
+- formal availability vs take-up
+- course completion vs readiness
+- relationship persistence vs safety
+- many services vs an integrated path
+- low fertility vs low childbearing desire
 
-## 3. Conceptual development approach
+## 5. Reopen the system with Toledo constraints
 
-State explicitly that the paper uses **Theory Synthesis + Conceptual Model** design.
+Use Toledo only as a mathematical/epistemic lens.
 
-Explain:
-- why these literatures were selected,
-- what role each literature plays,
-- how constructs were differentiated,
-- how propositions were derived,
-- what evidence is descriptive versus theoretical.
+Relevant constraints include:
 
-## 4. The hidden assumptions of conventional premarital preparation
+- state transition over time
+- Resources ≠ Access
+- Access ≠ Capability
+- Capability ≠ Realized Opportunity
+- Potential ≠ Exercised ≠ Observed
+- observed difficulty ≠ skill deficit
+- apparent calm does not prove open channels
+- repair has costs
+- human capability depends on care, health, education, nutrition and community
 
-Challenge:
-1. one-time course assumption
-2. same-time-horizon assumption
-3. couple-only assumption
-4. more-content/more-hours assumption
-5. replacement-of-existing-systems assumption
-6. relationship-persistence-equals-success assumption
+## 6. Expanded equation
 
-## 5. New focal construct: Functional Family-Support Access
+Specify:
 
-Differentiate:
+- policy supply
+- person/couple state
+- barrier ledger
+- effective access
+- family-related opportunity
+- safety/private access
+- time horizon
+- referral/re-entry
+- family well-being
+- child/human capability
+- population fertility
 
-~~~text
-structural service availability
-vs
-functional family-support access
-~~~
+## 7. Marriage preparation under two time horizons
 
-Define its dimensions:
-- navigation/discoverability
-- temporal fit
-- safe-space accessibility
-- referral continuity
-- institutional legitimacy
-- persistent re-entry
+Separate:
 
-## 6. The proposed Family-Support Access Architecture
+- urgent/rapid preparation
+- planned/non-urgent preparation
 
-Present:
-- trusted entry nodes
-- universal core
-- rapid pathway
-- planned pathway
-- modular relevance
-- **พื้นที่ปลอดภัย / safe space**
-- shared vs private channels
-- persistent re-entry
-- referral network
+Do not assume one fixed course duration fits both.
 
-## 7. Propositions and mechanisms
+## 8. พื้นที่ปลอดภัย
 
-Develop P1–P10.
+Define operationally:
 
-Each proposition should have:
-- theoretical statement
-- mechanism
+- privacy
+- confidentiality
+- individual access
+- safe disclosure
+- risk assessment
+- protected referral
+
+Explain why a couple-only pathway is insufficient in some cases.
+
+## 9. Existing Islamic and Christian systems
+
+Describe what already exists.
+
+Then examine how existing systems could:
+
+- preserve their own religious/pastoral core;
+- connect to health and reproductive care;
+- recognise mental-health and safety needs;
+- provide or signpost confidential access;
+- refer outside their own scope;
+- allow re-entry after marriage.
+
+Do not describe this as replacing faith-based preparation.
+
+## 10. Competing explanations
+
+Test whether the observed problem can be explained more simply by:
+
+- insufficient content
+- insufficient programme dose
+- insufficient money
+- insufficient childcare
+- labour-market incompatibility
+- housing constraints
+- health-only problems
+- relationship-skills-only problems
+- digital access problems
+- service fragmentation
+
+## 11. Global citation attack
+
+For each equation and claim, require:
+
+- seminal source
+- current synthesis
+- contradictory/null evidence
+- population and geography
 - boundary condition
 - observable implication
+- falsifier
 
-## 8. Existing systems as platforms for extension
+## 12. What the evidence permits us to say
 
-### 8.1 Islamic premarital systems
-Preserve religious identity and core content; extend navigation, safety, health, referral, re-entry.
+State conclusions at the narrowest defensible level.
 
-### 8.2 Christian premarital systems
-Preserve theological/pastoral core; extend safeguarding, health, private access, and referral.
+Avoid announcing novelty. Present the structure and let the comparison with existing literature show what has or has not been added.
 
-### 8.3 Public-health and civil systems
-Use as high-reach or clinical nodes rather than forcing them to become full relationship programmes.
+## 13. Translation only after evidence audit
 
-## 9. Boundary conditions
+Produce three prose layers only after the equations survive citation review:
 
-Address:
-- immediate danger
-- referral capacity
-- institutional trust
-- urgency
-- digital privacy
-- cultural/language differences
-- clinical complexity
-- legal/institutional context
-- coercive participation
-
-## 10. Rival explanations
-
-Compare against:
-- content-deficit model
-- dose model
-- single mandatory curriculum
-- health-only model
-- relationship-skills-only model
-- digital-only model
-- pronatalist model
-- relationship-preservation model
-
-## 11. Theoretical contribution
-
-The paper should claim only what it actually contributes:
-
-### Contribution 1
-Separates **availability** from **functional access**.
-
-### Contribution 2
-Introduces **temporal fit** as a central moderator of premarital preparation.
-
-### Contribution 3
-Makes **safe-space accessibility** a structural construct, not a soft programme feature.
-
-### Contribution 4
-Reconceptualizes religious premarital systems as **trusted entry nodes** in a wider referral ecosystem.
-
-### Contribution 5
-Moves the endpoint from course completion to **persistent re-entry and referral continuity**.
-
-## 12. Research programme
-
-End with falsifiable studies:
-- construct validation
-- service mapping
-- rapid vs planned pathway
-- referral completion
-- safe-space evaluation
-- faith-based implementation
-- longitudinal outcomes
-
-## 13. Conclusion
-
-Return to the central proposition:
-
-Premarital preparation may be more useful when conceptualized not as a one-time educational event, but as a safe and trusted gateway into continuous family-support access.
+1. public language
+2. social-science language
+3. humanities language
