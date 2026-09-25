@@ -25,3 +25,14 @@ blocked_terms_pending_lineage:
   - Human_Conversion
 formalization_status: HOLD_pending_Toledo_lookup
 systematic_review_claim: false
+
+source_layer_schema: "../../schemas/functional-source-layer-stack.md"
+literature_dialogue_schema: "../../schemas/layered-literature-dialogue-table.md"
+source_layers:
+  - L1_taxonomy_discovery
+  - L2_conceptual_orientation
+  - L3_primary_source
+  - L4_identity_provenance
+  - L5_citation_graph
+  - L6_coverage_index
+  - L7_claim_verification
