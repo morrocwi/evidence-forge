@@ -6,7 +6,7 @@ This is a **working theoretical proposal expressed as an optimisation problem**.
 
 It does not claim that one intervention has already been proven to be the globally cheapest. The aim is narrower and more testable:
 
-> Given that many expensive services already exist in government, health systems, schools, religious institutions and NGOs, what is the **minimum additional civil-society layer** needed to make those resources easier to find, safer to use, better connected, and more useful across the family life course?
+> Given that many expensive services already exist in government, health systems, schools, cultural/community institutions—including faith-based institutions—and NGOs, what is the **minimum additional civil-society layer** needed to make those resources easier to find, safer to use, better connected, and more useful across the family life course?
 
 The proposal therefore minimises **new service duplication** and prioritises **connectivity, trust, safe access, navigation, caregiver support, parenting support and re-entry**.
 
@@ -54,7 +54,7 @@ Let existing public/private service capacity be:
 health,\,
 social,\,
 education,\,
-religious,\,
+cultural\ community,\,
 legal,\,
 mental\ health,\,
 child\ protection,\,
@@ -101,6 +101,7 @@ A^{eff},
 Safe,
 W^{caregiver},
 R^{family},
+M^{meaning},
 Q^{child},
 E^{equity}
 \rangle_{i,t}
@@ -113,6 +114,7 @@ where:
 - \(Safe\) = safety, autonomy and confidential help access;
 - \(W^{caregiver}\) = caregiver well-being;
 - \(R^{family}\) = relationship/family functioning and repair capacity;
+- \(M^{meaning}\) = the degree to which family life and support remain coherent with the person's endorsed values, identity, belonging and life purposes without coercive conformity;
 - \(Q^{child}\) = child well-being/development;
 - \(E^{equity}\) = whether vulnerable groups can use the system, not only formally qualify.
 
@@ -132,6 +134,57 @@ Learning
 \]
 
 Caregiver well-being is treated as an enabling condition because caregivers' mental health and social support affect their capacity to provide nurturing care.
+
+
+## 2.1 Culture and meaning are part of the outcome, not decoration
+
+Culture is broader than religion.
+
+For this paper, cultural context may include:
+
+\[
+C^{culture}_{i,t}
+=
+\langle
+Language,\,
+Kinship,\,
+FamilyNorms,\,
+GenderNorms,\,
+ChildbearingMeaning,\,
+CareNorms,\,
+RitualBelief,\,
+Place,\,
+MigrationHistory,\,
+Class,\,
+Generation
+\rangle_{i,t}
+\tag{8a}
+\]
+
+Religion or faith can be one part of this context, but it is not the master category.
+
+Two people who share a religion, ethnicity, village or nationality may still attach different meanings to marriage, childbearing, caregiving and a good life. Culture must therefore be treated as **dynamic, plural and internally contested**, not as a fixed label assigned to a community.
+
+The design must preserve three non-collapse rules:
+
+\[
+CulturalFit \neq CulturalConformity
+\tag{8b}
+\]
+
+\[
+RespectForCulture \neq PreservationOfCoerciveNorms
+\tag{8c}
+\]
+
+\[
+CommunityApproval \neq PersonalMeaning
+\tag{8d}
+\]
+
+A culturally responsive system should help people pursue support that is intelligible and meaningful in their context while protecting autonomy, safety and informed choice.
+
+This matters because reproductive decisions are shaped by social norms, kinship, gender expectations and meanings attached to children and family life, while coercive norms can also restrict reproductive agency.
 
 ---
 
@@ -176,11 +229,21 @@ E^{equity}\ge e^{*}
 \tag{10e}
 \]
 
+\[
+M^{meaning}\ge m^{*}
+\tag{10f}
+\]
+
+\[
+Autonomy\ge a^{autonomy*}
+\tag{10g}
+\]
+
 and:
 
 \[
 SpecialistSubstitution=0
-\tag{10f}
+\tag{10h}
 \]
 
 Equation (10f) is essential. Civil society should not minimise cost by making unqualified volunteers perform the work of doctors, psychologists, child-protection specialists, violence responders or lawyers.
@@ -454,7 +517,7 @@ ProtectedReferral
 \tag{21}
 \]
 
-Volunteers or faith/community workers do not investigate violence. They recognise limits and refer.
+Community, cultural or faith-based workers do not investigate violence. They recognise limits and refer.
 
 ---
 
@@ -492,7 +555,7 @@ Give people a persistent way back:
 - phone;
 - community contact;
 - scheduled check-in;
-- religious/community mentor where appropriate.
+- culturally trusted community mentor or faith/community contact where appropriate.
 
 Re-entry should be possible at:
 
@@ -802,29 +865,70 @@ A 2026 Thai cluster randomised trial tested a blended programme using two brief 
 
 ---
 
-# 12. Existing religious/community systems reduce entry cost
+# 12. Existing cultural/community systems may reduce entry cost
 
-If a mosque, church or community organisation already has:
+The master lens here is **culture**, not religion.
+
+A mosque, church, temple, neighbourhood group, ethnic association, migrant network, women's group, youth organisation, family association or other community institution may already possess some combination of:
 
 - trust;
 - routine contact;
-- physical space;
+- language competence;
+- knowledge of kinship and family norms;
+- physical or digital space;
 - communication channels;
-- volunteers/staff;
-- marriage/family legitimacy;
+- staff/volunteers;
+- legitimacy around family life;
+- locally meaningful ways of discussing marriage, children, care, ageing and responsibility.
 
-then adding a referral/navigation interface **may** cost less than constructing a new institution.
+Faith-based institutions remain important examples, but they are one subset of a wider cultural ecology.
 
-Treat the following as a hypothesis to test rather than an established inequality:
+A culturally embedded node may lower entry burden because it already speaks a language—literal and symbolic—that users understand. But this is not assumed automatically.
+
+Treat the following as a hypothesis to test:
 
 \[
 C(NewInstitution)
-stackrel{?}{>}
-C(AddInterface\ to\ ExistingTrustedNode)
+\stackrel{?}{>}
+C(AddInterface\ to\ ExistingCulturalNode)
 \tag{35}
 \]
 
-Faith-based health literature supports the feasibility of using religious institutions as delivery/contact settings, and Singapore provides an institutional precedent for Muslim premarital/post-marital continuity and referral. However, neither establishes that trust automatically improves uptake or that this route is cheaper in every setting.
+and separately test:
+
+\[
+CulturalLegibility
+\stackrel{?}{\longrightarrow}
+Engagement
+\tag{35a}
+\]
+
+Cultural legibility must never be purchased by suppressing autonomy.
+
+Therefore:
+
+\[
+MeaningCompatibility
+=
+f(
+Values,\,
+Identity,\,
+Belonging,\,
+FamilyMeaning,\,
+Voice,\,
+Autonomy
+)
+\tag{35b}
+\]
+
+subject to:
+
+\[
+Safety\ge threshold
+\quad\land\quad
+Autonomy\ge threshold
+\tag{35c}
+\]
 
 The interface should add:
 
@@ -840,7 +944,9 @@ re\text{-}entry
 \tag{36}
 \]
 
-without requiring religious institutions to provide specialist services outside their competence.
+without requiring cultural/community institutions to provide specialist services outside their competence.
+
+Islamic and Christian premarital systems should therefore be analysed as **specific cultural-institutional cases** within this larger architecture, alongside other community systems.
 
 ---
 
@@ -953,14 +1059,23 @@ Health,\ Nutrition,\ Safety,\ ResponsiveCaregiving,\ Learning,\ Development
 \tag{43}
 \]
 
-## Equity
+## Equity and meaning
 
 Compare outcomes across:
 
 \[
-Income,\ Gender,\ Disability,\ Migration,\ Language,\ DigitalAccess,\ Geography
+Income,\ Gender,\ Disability,\ Migration,\ Language,\ DigitalAccess,\ Geography,\ CulturalContext
 \tag{44}
 \]
+
+Also examine:
+
+\[
+MeaningCoherence,\ Belonging,\ Voice,\ Autonomy,\ CulturalAcceptability
+\tag{44a}
+\]
+
+Do not score cultural conformity as a positive outcome. The relevant question is whether people can pursue valued family lives and obtain support without losing voice, safety or autonomy.
 
 ## Cost
 
@@ -1110,6 +1225,10 @@ Navigation
 +
 Reentry
 +
+CulturalLegibility
++
+MeaningCompatibleSupport
++
 TargetedCommunitySupport
 \right)
 }
@@ -1134,8 +1253,18 @@ Equity\ge threshold
 \]
 
 \[
-SpecialistSubstitution=0
+MeaningCompatibility\ge threshold
 \tag{49d}
+\]
+
+\[
+Autonomy\ge threshold
+\tag{49e}
+\]
+
+\[
+SpecialistSubstitution=0
+\tag{49f}
 \]
 
 and with child well-being evaluated through:
