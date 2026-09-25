@@ -1,53 +1,60 @@
-# Section-to-evidence and theory map
+# Section-to-evidence map
 
-This file controls the transition from evidence to theory.
+This file controls how evidence enters the paper.
 
-| Conceptual-paper section | Function | Evidence basis | Theory status |
+| Section | Main job | Evidence basis | Current status |
 |---|---|---|---|
-| 1. Phenomenon / puzzle | Establish Thailand context and availability-access puzzle | S001, S004, S005 | evidence + problematization |
-| 2. Existing lenses | Show what each literature explains and misses | S003, S004, S006, S007 | synthesis |
-| 3. Conceptual development approach | Explain Theory Synthesis + Model design | methodology sources | method |
-| 4. Hidden assumptions | Problematize conventional premarital model | S004, S006, S007 | theoretical critique |
-| 5. Functional Family-Support Access | Define focal construct | cross-source | new construct |
-| 6. Proposed architecture | Build mechanism | S002, S004, S006, S007 | conceptual model |
-| 7. Propositions | State testable relations | cross-source | propositions |
-| 8. Existing systems as platforms | Islamic / Christian / health / civil extension | S004, S007 | synthesis + propositions |
-| 9. Boundary conditions | Specify when model changes/fails | S003, S004, S007 | theory |
-| 10. Rival explanations | Compete with simpler accounts | S006 + theory | theory |
-| 11. Theoretical contribution | State what is new | all | conceptual contribution |
-| 12. Research programme | Make theory falsifiable | all | test agenda |
-| 13. Conclusion | Narrowest defensible contribution | all | synthesis |
+| 1. Population/family problem | Establish Thailand context | S001, S005 | evidence |
+| 2. International policy responses | Show what advanced systems already do | official Singapore + OECD country evidence | expanding |
+| 3. Implicit policy equation | Reconstruct current policy logic | cross-source | analytical |
+| 4. Collapsed states | Separate provision/access/capability/outcomes | Toledo + access/capability literature | analytical + evidence |
+| 5. Expanded equation | Specify variables and transitions | cross-source | working equation |
+| 6. Urgent vs non-urgent preparation | Test time-horizon differences | relationship education + time/admin-burden literature | weak / priority |
+| 7. พื้นที่ปลอดภัย | Define private/confidential access | WHO + IPV/reproductive-coercion literature | partial |
+| 8. Islamic/Christian existing systems | Describe and compare what already exists | Thailand + Singapore + Malaysia/Indonesia + Christian sources | uneven |
+| 9. Referral/re-entry | Examine continuity and later return | continuity/navigation literature | partial |
+| 10. Family load / capability | Connect stress, resources and real opportunity | capability + family-stress literature | partial |
+| 11. Fertility / well-being / child development | Keep outcomes distinct | demography + family + ECD literature | partial |
+| 12. Competing explanations | Test simpler accounts | all domains | analytical |
+| 13. Global citation audit | Support, counterevidence, boundaries, falsifiers | all | in progress |
+| 14. Conclusion | Narrowest defensible synthesis | only audited claims | not drafted |
 
 ## Evidence gates
 
 ### Gate A — descriptive claim
 Must be traceable to reviewed evidence.
 
-### Gate B — construct definition
-Must explain what the construct includes **and excludes**, and how it differs from adjacent constructs.
+### Gate B — variable definition
+Must state what the variable includes, excludes, and how it differs from neighbouring variables.
 
 ### Gate C — mechanism
-Must explain **why/how**, not merely state correlation.
+Must explain why/how, not merely state correlation.
 
-### Gate D — proposition
-Must be testable and labelled as theoretical until empirically examined.
+### Gate D — working proposition
+Must be testable and clearly separated from empirical findings.
 
 ### Gate E — boundary condition
-Must identify a condition under which a proposition changes, weakens, or fails.
+Must identify when a relation changes, weakens, or fails.
 
 ### Gate F — negative evidence claim
-Use "the current review did not identify..." unless the search design supports a universal absence claim.
+Use “the current structured search did not identify...” unless the search design supports a stronger absence claim.
 
 ### Gate G — causal claim
 Do not upgrade correlational/descriptive evidence to causality.
 
+### Gate H — mathematical form
+A neat equation is not evidence. Every term and relation requires empirical interpretation and citation support.
+
 ## Immediate evidence backlog
 
-1. Verify primary sources behind Thailand Islamic premarital provision.
-2. Verify primary sources behind Christian premarital provision.
-3. Add primary IPV/coercion/safe-confidential-care evidence.
-4. Expand contemporary relationship-education reviews and trials.
-5. Verify Thai family-well-being studies used in S005.
-6. Verify child/human-development evidence used in S005.
-7. Add implementation-science evidence for referral continuity and navigation.
-8. Search whether close analogues of Functional Family-Support Access already exist under other names.
+1. Urgent vs non-urgent marriage preparation / time scarcity.
+2. Administrative burden and benefit/service take-up.
+3. Primary sources behind Thailand Islamic premarital provision.
+4. Higher-authority global Christian premarital literature.
+5. Reproductive coercion and confidential disclosure evidence.
+6. Persistent re-entry / continuity across family transitions.
+7. Capability conversion in family policy.
+8. Family load/resource depletion.
+9. Child/human-development pathways.
+10. Inequality across class, migration, disability, language and digital access.
+11. Adverse effects of mandatory or burdensome premarital requirements.
