@@ -63,3 +63,12 @@ limitations:
 supports:
 does_not_support:
 ```
+
+
+## S008 — How Can AI Expand Human Potential? v6.17-EN
+
+**Source:** Lahtee, Y. (2026). *How Can AI Expand Human Potential? From Reachable Possibilities to Enduring Human Capability.* English parallel edition v6.17-EN, 20 September 2026. SSRN abstract 7491779.  
+**Source type:** theoretical / conceptual preprint.  
+**Use:** conceptual source of record for `projects/human-ai-retained-capability/`; especially assisted performance, knowledge-like candidates, retained knowledge, changed human agent, retention, fading of decisive assistance, transfer, and propositions P5/P8.  
+**Status:** full preprint reviewed for project alignment.  
+**Important limitation:** the document states that it is a PREPRINT and has not undergone peer review. Its bibliography supplies candidate external evidence; those cited sources require independent source-level verification before they count as VERIFIED evidence in Evidence Forge.

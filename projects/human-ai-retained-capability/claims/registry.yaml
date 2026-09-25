@@ -1,0 +1,44 @@
+claims:
+  - claim_id: HARC-A01
+    claim_text: "The anchor preprint distinguishes artifact/output quality from learner capability."
+    status: source_verified
+    claim_type: anchor_document_statement
+    sources: [S008]
+    inference_required: false
+    paper_location: "Section 5.1"
+    external_truth_status: not_established_by_anchor_alone
+
+  - claim_id: HARC-P5
+    claim_text: "Knowledge-like candidates are not learning, and good artifacts are not potential; artifact standing and what remains with the learner should be measured separately."
+    status: proposition_in_anchor
+    claim_type: theoretical_proposition
+    sources: [S008]
+    inference_required: false
+    paper_location: "Section 11, P5"
+    external_truth_status: requires_source_level_testing
+
+  - claim_id: HARC-P8
+    claim_text: "Developed potential should be visible after assistance, with retention, fading of decisive assistance, and transfer as key measures rather than assisted performance alone."
+    status: proposition_in_anchor
+    claim_type: theoretical_proposition
+    sources: [S008]
+    inference_required: false
+    paper_location: "Section 11, P8"
+    external_truth_status: requires_source_level_testing
+
+  - claim_id: HARC-M01
+    claim_text: "The anchor preprint describes retained knowledge as the connector between cycles."
+    status: source_verified
+    claim_type: anchor_document_mechanism
+    sources: [S008]
+    inference_required: false
+    paper_location: "Section 8.3"
+    external_truth_status: theoretical_mechanism_not_empirically_established
+
+  - claim_id: HARC-S01
+    claim_text: "The anchor document is a preprint and states that it has not undergone peer review."
+    status: source_verified
+    claim_type: document_status
+    sources: [S008]
+    inference_required: false
+    paper_location: "Article Status and Knowledge-Making Method"
