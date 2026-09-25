@@ -1,16 +1,33 @@
-# Anchor-paper claim map
+# Anchor-paper claim map — P1–P10
 
 These rows report what the preprint states. They are not external validation of those statements.
 
-| ID | Paper item | Paper status | Evidence task |
+| ID | Proposition / claim | Paper status | Evidence task |
 |---|---|---|---|
-| HARC-A01 | Artifact / output quality is not equivalent to learner capability | conceptual distinction | map direct empirical and theoretical support/challenge |
-| HARC-A02 | Improved AI-supported work should be treated as assisted performance, not automatic evidence of expanded human potential | conceptual inference from cited literature | verify cited empirical sources and counterevidence |
-| HARC-A03 | Retained knowledge connects cycles and changes the next starting state | theoretical mechanism | compare with learning/transfer/transformative-learning literatures |
-| HARC-A04 | Retention, fading of decisive assistance, and transfer are key post-assistance evaluation dimensions | proposed evaluation architecture | map measurement precedents and competing evaluation models |
-| HARC-P5 | Good artifacts and knowledge-like candidates are not learning/potential; artifact and learner status require separate measurement | theoretical proposition | test literature basis and operationalization |
-| HARC-P8 | Verification/practice/action/world-feedback cycles should outperform fluent dialogue on post-assistance capability measures | theoretical proposition | search direct tests; identify absent links; preserve null/adverse evidence |
-| HARC-A05 | The framework should be reduced or abandoned if its traces add nothing beyond existing explanations | explicit falsifiability commitment | maintain prior-work boundary and reduction conditions |
+| HARC-P1 | Problem ownership should change how learners remain with inquiry | theoretical proposition | compare ownership/open-inquiry literature; separate ownership from interest, guidance and authenticity |
+| HARC-P2 | Pivotal terms should alter AI route sets | theoretical proposition | test prompt/term sensitivity; distinguish semantic route change from random/evaluation variance |
+| HARC-P3 | AI may reduce orientation cost faster than it produces expertise | theoretical proposition | compare expertise, boundary crossing and GenAI novice-performance literatures |
+| HARC-P4 | Good cross-domain routing should reveal tools without deleting important facts | theoretical proposition | locate direct tests or retain as theory-led prediction; define route-quality criteria |
+| HARC-P5 | Knowledge-like candidates are not learning; good artifacts are not potential | theoretical proposition | map assisted performance against understanding, retention and transfer; preserve heterogeneous effects |
+| HARC-P6 | Dissonance interrupts recursive confirmation only when treated as something requiring checking | theoretical proposition | compare cognitive-conflict, metacognitive scaffolding and verification-behaviour evidence |
+| HARC-P7 | Independence of verification route should matter more than number of answers | theoretical proposition | compare source-evaluation, sycophancy and verification-quality research; operationalize independence |
+| HARC-P8 | Developed potential should be visible after assistance, not only during it | theoretical proposition | map retention, fading assistance, unaided error detection and transfer; compare automation vs augmentation |
+| HARC-P9 | Institutions lowering verification/practice/referral cost should increase responsible potential development | theoretical proposition | compare capability, epistemic-agency, access-cost and institutional-support literatures |
+| HARC-P10 | History of correction/responsible knowledge use may lead to greater entrusted participation | developmental hypothesis | compare relational trust and entrustment literatures; test cross-domain transport limits |
+| HARC-A05 | Framework should be reduced or abandoned if its traces add nothing beyond existing explanations | explicit theory-level falsifiability commitment | maintain prior-work boundary and theory-level kill criterion |
+
+## Strongest current theory spine
+
+```text
+P5: assisted performance / artifact status ≠ learner status
+          ↓
+P7: verification route quality and independence
+          ↓
+P8: post-assistance retention / fading / transfer
+```
+
+P1–P4 are upstream route-opening propositions.  
+P9–P10 are downstream institutional/social extensions.
 
 ## Rule
 
