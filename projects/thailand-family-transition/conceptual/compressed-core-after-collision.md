@@ -199,17 +199,21 @@ CommunityNorm\neq PersonalMeaning
 
 Most broad theoretical ingredients are already established.
 
-The paper should focus on a smaller set of unresolved relations.
+The paper should focus on a smaller set of unresolved relations, with **premarital** as the primary empirical object. Life-course transitions remain surrounding theory, not the object of study.
 
-## 5.1 Family-transition contact as an access window
+## 5.1 Premarital contact as the focal access window
+
+The empirical object of this paper is **premarital**: the period, practices, services and lived conditions before marriage.
 
 \[
-TransitionContact
+PremaritalContact
 \stackrel{?}{\longrightarrow}
-LaterSupportAccess
+LaterAppropriateSupportAccess
 \]
 
-Marriage is one candidate transition, not a universally privileged one.
+The life-course literature is used to situate premarital as a transition point, but the paper does not study all life transitions equally.
+
+The focal question is whether premarital contact can function as a low-burden, culturally meaningful, safe and capacity-aware entry point into later family support.
 
 ## 5.2 Minimum sufficient support under low temporal feasibility
 
@@ -294,12 +298,12 @@ The paper's value should become visible from how they are connected to the parti
 
 # 7. One-sentence working problem
 
-> Existing resources and services do not automatically become real family opportunities; the practical question is how structural resources, access conditions, safety, culture and service capacity interact at family transitions to shape later family and child well-being.
+> Existing resources and services do not automatically become real family opportunities; the practical question is how structural resources, access conditions, safety, culture and service capacity interact during the **premarital period** to shape later family and child well-being.
 
 ---
 
 # 8. One-sentence working proposal
 
-> Test whether existing transition contacts can provide a minimum safe orientation, a reliable route back, and capacity-aware referral into wider support—without replacing structural policy, specialist care, cultural plurality or individual autonomy.
+> Test whether **premarital contacts** can provide non-deferrable orientation, safe/private access, a reliable route back, and capacity-aware referral into wider support—without replacing structural policy, specialist care, cultural plurality or individual autonomy.
 
 These sentences are working anchors, not final manuscript prose.
