@@ -1,0 +1,25 @@
+project_id: HARC
+name: "Human–AI Retained Capability"
+status: scaffold
+genre: conceptual_theory_building
+design:
+  - theory_synthesis
+  - theory_adaptation
+  - conceptual_model
+future_target:
+  - formal_theory
+  - executable_theory
+core_distinction: "Assisted Performance != Retained Human Capability"
+central_question: "What capability remains attributable to a human after AI assistance is reduced or removed?"
+evidence_method:
+  - structured_search
+  - integrative_theory_synthesis
+  - claim_evidence_matrix
+  - citation_chaining
+  - citation_audit
+  - theory_evidence_falsifier_matrix
+systematic_review_claim: false
+source_registry: "../../sources/registry.md"
+claim_registry: "../../claims/registry.yaml"
+claim_prefix: "C-HARC-"
+source_prefix: "S-HARC-"
