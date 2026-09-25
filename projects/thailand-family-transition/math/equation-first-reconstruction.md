@@ -1,8 +1,10 @@
-# Equation-first reconstruction: low fertility, marriage preparation, and family-support systems
+# Equation-first reconstruction: premarital conditions, low fertility, and family-support systems
 
 ## Working status
 
-This is a **technical working file for a conceptual paper**.
+This is a **technical working file for a conceptual paper whose primary empirical object is premarital**: the period, services, preparation practices and lived conditions before marriage.
+
+The wider life course is used as explanatory context and as a downstream trajectory. Fertility, family well-being and child development are downstream outcomes/readouts rather than co-equal objects of study.
 
 It begins with equations and system structure before ordinary-language explanation. It does **not** name a new theory, create a branded acronym, or claim novelty in advance. The structure is exposed so that readers can judge it themselves.
 
@@ -1319,9 +1321,11 @@ Population\ fertility
 | violence response | safety + protection |
 | parenting programmes | care skill + child development |
 
-The question becomes:
+The focal question becomes:
 
-> At which transition does provision fail to become effective access, capability, safe action, continuity, or realized opportunity — and for whom?
+> During the **premarital period**, where does provision fail to become effective access, capability, safe action, continuity, or realized family opportunity — and for whom?
+
+Later transitions are examined mainly to test whether premarital contact has downstream value or provides a usable route back.
 
 ---
 
