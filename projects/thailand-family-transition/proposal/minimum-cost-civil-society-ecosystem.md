@@ -458,28 +458,28 @@ Volunteers or faith/community workers do not investigate violence. They recognis
 
 ---
 
-## 6.6 Warm referral rather than information dumping
+## 6.6 Progressive referral intensity
 
-A low-cost referral ladder:
+Use a referral ladder as a **design sequence to test**, not as an assumed effectiveness ranking:
 
 \[
 Information
-<
+\rightarrow
 Signposting
-<
+\rightarrow
 WarmReferral
-<
+\rightarrow
 AccompaniedReferral
 \tag{22}
 \]
 
-Use the least intensive step that is adequate.
+A systematic review of warm handoffs found only five eligible studies and three reported improved service receipt. The evidence is therefore promising but limited.
+
+Use the least intensive step that is adequate, then escalate when risk, literacy, complexity, prior referral failure or access barriers justify additional support.
 
 For ordinary needs, signposting may be enough.
 
-For high-risk, low-literacy or hard-to-navigate cases, use warm or accompanied referral.
-
-This creates **progressive intensity** rather than giving every family the most expensive support.
+For harder-to-navigate or high-risk cases, warm or accompanied referral may be worth the additional cost, but referral completion and marginal cost must be measured.
 
 ---
 
@@ -623,20 +623,18 @@ Functions:
 - complex medical/fertility care;
 - legal protection.
 
-The cost logic is:
+The cost logic to test is:
 
 \[
 UniversalLightTouch
 +
 TargetedIntensity
-<
+stackrel{?}{<}
 UniversalHighIntensity
 \tag{25}
 \]
 
-when targeting and referral work adequately.
-
-This inequality is a working economic proposition and must be evaluated rather than assumed.
+This is an open economic proposition. It should only be retained if targeting, referral, outcomes and total programme costs—including supervision and coordination—show a genuine advantage.
 
 ---
 
@@ -732,9 +730,9 @@ which this project rejects.
 
 # 10. Use trained community members, but do not exploit them
 
-Evidence from low- and middle-income countries shows that properly trained lay counsellors can improve selected mental-health outcomes.
+Evidence from low- and middle-income countries shows that trained community workers can improve selected service-use, behavioural and process outcomes, while clinical and cost-effectiveness results vary across domains.
 
-But low cost must not mean unpaid, unsupported labour.
+But low cost must not mean unpaid, unsupported labour, and community delivery should not be assumed inherently affordable.
 
 Let:
 
@@ -800,7 +798,7 @@ TargetedParentingSupport
 
 may be more financially plausible than delivering a full multi-session programme universally.
 
-A 2026 Thai cluster randomised trial also provides relevant evidence that blended in-person and online parenting delivery can reduce violence against children, strengthening the case for hybrid delivery rather than assuming all support must be face-to-face.
+A 2026 Thai cluster randomised trial tested a blended programme using two brief in-person meetings plus facilitated LINE group chats. It **did not show a significant reduction in overall child maltreatment or physical abuse at one-month follow-up**, and the emotional-abuse estimate was higher in the intervention arm; the authors noted this might reflect reporting/awareness effects and called for refinement and longer-term testing. The study therefore supports the **feasibility of blended delivery**, not a claim that hybrid delivery has already been shown to reduce violence in this Thai trial.
 
 ---
 
@@ -815,20 +813,18 @@ If a mosque, church or community organisation already has:
 - volunteers/staff;
 - marriage/family legitimacy;
 
-then adding a referral/navigation interface may cost less than constructing a new institution.
+then adding a referral/navigation interface **may** cost less than constructing a new institution.
 
-Formally:
+Treat the following as a hypothesis to test rather than an established inequality:
 
 \[
 C(NewInstitution)
->
+stackrel{?}{>}
 C(AddInterface\ to\ ExistingTrustedNode)
 \tag{35}
 \]
 
-in many plausible settings.
-
-But this must be tested locally.
+Faith-based health literature supports the feasibility of using religious institutions as delivery/contact settings, and Singapore provides an institutional precedent for Muslim premarital/post-marital continuity and referral. However, neither establishes that trust automatically improves uptake or that this route is cheaper in every setting.
 
 The interface should add:
 
@@ -1094,7 +1090,7 @@ The proposal should be weakened if evidence shows that:
 
 The lowest-cost role for civil society is unlikely to be building a second welfare state.
 
-A more plausible first function is to make the existing ecosystem **legible, connected, safe, re-enterable and capable of escalating intensity only when needed**.
+A more plausible **first hypothesis to test** is whether civil society creates more value by making the existing ecosystem **legible, connected, safe, re-enterable and capable of escalating intensity only when needed** before creating additional high-cost specialist capacity.
 
 In compact form:
 
