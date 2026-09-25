@@ -1,30 +1,67 @@
-# Search plan — first pass
+# Search plan — P1–P10 strengthening pass
 
-## Focal propositions
+## Genre
 
-### P5
-The quality of AI-assisted outputs and what remains with the learner should be measured separately.
+This is evidence grounding for a **theoretical / conceptual academic article**. It is not an effectiveness systematic review and not an empirical research paper.
 
-### P8
-Cycles including verification, practice, action and world feedback should produce better post-assistance retention, tool choice, process control, error detection and transfer than fluent dialogue alone.
+## Priority
+
+### Core propositions
+- P5 artifact/performance versus learner status
+- P7 verification independence / quality
+- P8 post-assistance retention, fading and transfer
+
+### Upstream route propositions
+- P1 problem ownership
+- P2 pivotal terms and route-set change
+- P3 orientation versus expertise
+- P4 constraint-preserving cross-domain routing
+
+### Downstream extension propositions
+- P9 verification/practice/referral infrastructure
+- P10 entrusted participation
 
 ## Search families
 
 Run separate support and challenge families for:
 
-1. AI assistance + learning retention
-2. AI assistance + transfer after withdrawal / reduced support
-3. cognitive effort / cognitive offloading + later independent performance
-4. self-regulated learning / metacognitive support + GenAI
-5. automation dependence / skill degradation
-6. delayed testing after AI-assisted learning
-7. human–AI system performance versus individual capability
-8. empirical null or adverse results
+1. problem ownership / open inquiry / authentic problem / student agency
+2. prompt sensitivity / semantic perturbation / route diversity
+3. interactional expertise / novice-expert / GenAI expertise gap
+4. boundary crossing / problem framing / constraint preservation
+5. AI-assisted performance / learner understanding / delayed retention
+6. cognitive conflict / reflective dissonance / metacognitive scaffolding
+7. source independence / verification success / sycophancy / multiple models
+8. AI withdrawal / fading assistance / transfer / unaided assessment
+9. verification cost / capability conversion / shared epistemic agency / institutional support
+10. relational trust / entrustment / autonomy / longitudinal trustworthiness
 
-## Seed sources from the preprint
+## Mandatory challenge searches
 
-The preprint's references [2], [13], [32], [35], and [36] are **candidate starting points only**. They are not VERIFIED in this workspace until the original sources are opened and claim-matched.
+For every proposition, explicitly search for:
+
+- null effects
+- reversal effects
+- boundary failures
+- rival mechanisms
+- measurement artifacts
+- domain-specific counterexamples
+
+## Review method
+
+Use Glosa architecture-first comparative review.
+
+Per node / proposition, relations are only:
+
+- SUPPORTS
+- CHALLENGES
+- EXTENDS
+- PENDING when source reading is insufficient
+
+No source becomes VERIFIED from this session alone; same-session maker review cannot self-certify claim match.
 
 ## Stop rule
 
-Do not stop because supporting papers are plentiful. Stop according to the frozen search plan, and record whether challenge-family searches were attempted and what they returned.
+Stop according to a frozen query set / saturation decision, not because a supporting narrative feels coherent.
+
+A proposition with no direct evidence after a real search remains theory-led and is labelled accordingly rather than filled with adjacent citations.
