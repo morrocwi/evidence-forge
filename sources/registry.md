@@ -33,6 +33,19 @@ This registry begins with sources already under review for the Thailand family-t
 **Use:** problem architecture linking demographic change, family quality, reproductive health, child development, and human development.  
 **Status:** working synthesis; embedded citations require source-level verification before manuscript use.
 
+## S006 — Marriage and relationship education evidence
+
+**Source type:** selected meta-analyses and systematic reviews.  
+**Use:** communication, relationship quality, programme heterogeneity, digital delivery, dosage, and limits of premarital education evidence.  
+**Status:** reviewed from published abstracts/full text where available.
+
+## S007 — WHO-aligned preconception and safe/confidential care
+
+**Source type:** WHO policy/guidance/context documents.  
+**Use:** biomedical-behavioural-social preconception framing; privacy, confidentiality, survivor-centred response, safe space, referral.  
+**Status:** reviewed.  
+**Important limitation:** the WHO 2024 preconception consultation report is a meeting report, not a WHO guideline or formal position paper.
+
 ## Provenance rule
 
 Each evidence note added later should include:
