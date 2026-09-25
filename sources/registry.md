@@ -25,7 +25,13 @@ This registry begins with sources already under review for the Thailand family-t
 
 **Source type:** working literature and service-landscape synthesis.  
 **Use:** mapping civil registration, public health, family services, faith-based provision, mental health, violence response, and parenting systems.  
-**Status:** working synthesis; claims require source-level verification before manuscript use.
+**Status:** working synthesis; embedded citations require source-level verification before manuscript use.
+
+## S005 — Low fertility, family quality, and human development review
+
+**Source type:** working evidence and policy review.  
+**Use:** problem architecture linking demographic change, family quality, reproductive health, child development, and human development.  
+**Status:** working synthesis; embedded citations require source-level verification before manuscript use.
 
 ## Provenance rule
 
