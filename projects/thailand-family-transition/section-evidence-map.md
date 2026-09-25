@@ -1,45 +1,53 @@
-# Section-to-evidence map
+# Section-to-evidence and theory map
 
-This file controls what evidence is allowed to support each manuscript section.
+This file controls the transition from evidence to theory.
 
-| Section | Main question | Current evidence nodes | Current status |
+| Conceptual-paper section | Function | Evidence basis | Theory status |
 |---|---|---|---|
-| 1. Problem / significance | What is the demographic and family problem? | S001, S005 | usable with source checking |
-| 2. Current intervention landscape | Where does Thailand already intervene? | S004 | working; source-level verification needed |
-| 3. Premarital transition | Why consider this life stage? | S004 + later relationship evidence | incomplete |
-| 4. Relationship evidence | What do premarital/relationship interventions change? | pending source-level nodes | incomplete |
-| 5. Preconception & reproductive health | What health dimensions matter? | S003, S005 | partial |
-| 6. Thailand service landscape | What systems exist and where are the gaps? | S004 | working |
-| 7. Fragmentation synthesis | What cross-system problem emerges? | S001, S002, S003, S004, S005 | hypothesis |
-| 8. Candidate architecture | What should be tested? | S004 + fragmentation synthesis | proposition |
-| 9. Implications | What could this mean for family/nursing/service systems? | S001–S005 | preliminary |
-| 10. Research agenda | What must be measured next? | S004 + synthesis | preliminary |
-| 11. Limitations | What cannot this review claim? | all | required |
-| 12. Conclusion | What is the narrowest defensible synthesis? | all verified nodes | not drafted |
+| 1. Phenomenon / puzzle | Establish Thailand context and availability-access puzzle | S001, S004, S005 | evidence + problematization |
+| 2. Existing lenses | Show what each literature explains and misses | S003, S004, S006, S007 | synthesis |
+| 3. Conceptual development approach | Explain Theory Synthesis + Model design | methodology sources | method |
+| 4. Hidden assumptions | Problematize conventional premarital model | S004, S006, S007 | theoretical critique |
+| 5. Functional Family-Support Access | Define focal construct | cross-source | new construct |
+| 6. Proposed architecture | Build mechanism | S002, S004, S006, S007 | conceptual model |
+| 7. Propositions | State testable relations | cross-source | propositions |
+| 8. Existing systems as platforms | Islamic / Christian / health / civil extension | S004, S007 | synthesis + propositions |
+| 9. Boundary conditions | Specify when model changes/fails | S003, S004, S007 | theory |
+| 10. Rival explanations | Compete with simpler accounts | S006 + theory | theory |
+| 11. Theoretical contribution | State what is new | all | conceptual contribution |
+| 12. Research programme | Make theory falsifiable | all | test agenda |
+| 13. Conclusion | Narrowest defensible contribution | all | synthesis |
 
 ## Evidence gates
 
 ### Gate A — descriptive claim
-May enter manuscript when directly traceable to a reviewed primary source.
+Must be traceable to reviewed evidence.
 
-### Gate B — synthesis claim
-Requires at least two independently grounded sources or a clearly labelled working synthesis.
+### Gate B — construct definition
+Must explain what the construct includes **and excludes**, and how it differs from adjacent constructs.
 
-### Gate C — negative evidence claim
-Statements such as "no evidence exists" require a documented search scope. Until then write "the current review did not identify..." rather than universal absence.
+### Gate C — mechanism
+Must explain **why/how**, not merely state correlation.
 
-### Gate D — design proposition
-Architecture proposals must be labelled as proposals for testing, not proven interventions.
+### Gate D — proposition
+Must be testable and labelled as theoretical until empirically examined.
 
-### Gate E — causal claim
-Requires an appropriate causal design; cross-sectional, correlational, or descriptive evidence cannot be upgraded to causality.
+### Gate E — boundary condition
+Must identify a condition under which a proposition changes, weakens, or fails.
+
+### Gate F — negative evidence claim
+Use "the current review did not identify..." unless the search design supports a universal absence claim.
+
+### Gate G — causal claim
+Do not upgrade correlational/descriptive evidence to causality.
 
 ## Immediate evidence backlog
 
-1. Primary sources behind Thailand premarital service mapping.
-2. Contemporary premarital / relationship-education systematic reviews and trials.
-3. Safety/IPV/coercion primary evidence.
-4. Preconception/fertility-literacy evidence.
-5. Thailand family-well-being studies cited in S005.
-6. Child-development/human-capital sources cited in S005.
-7. Policy and implementation evidence for referral continuity.
+1. Verify primary sources behind Thailand Islamic premarital provision.
+2. Verify primary sources behind Christian premarital provision.
+3. Add primary IPV/coercion/safe-confidential-care evidence.
+4. Expand contemporary relationship-education reviews and trials.
+5. Verify Thai family-well-being studies used in S005.
+6. Verify child/human-development evidence used in S005.
+7. Add implementation-science evidence for referral continuity and navigation.
+8. Search whether close analogues of Functional Family-Support Access already exist under other names.
