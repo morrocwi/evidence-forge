@@ -50,11 +50,23 @@ Components may include:
 
 Safe-space accessibility is distinct from a generally supportive classroom atmosphere.
 
-## C6. Cultural / Institutional Legitimacy
+## C6. Cultural Meaning / Institutional Legitimacy
 
-**Definition:** The extent to which an entry point is regarded by its intended users as trusted, legitimate, and compatible with their institutional, community, or faith context.
+**Definition:** The extent to which an entry point is intelligible, trusted and compatible with the person's lived cultural context and endorsed values.
 
-Islamic and Christian premarital systems may provide legitimacy for specific populations without needing to become substitutes for medical, psychological, legal, or violence-specialist services.
+Cultural context may include language, kinship, family expectations, gender norms, meanings attached to childbearing and caregiving, rituals/beliefs, place, migration history, class and generation.
+
+Religion or faith may be one part of cultural context, but culture is broader than religion. Islamic and Christian premarital systems are examples of culturally embedded institutions, not the only form of cultural legitimacy.
+
+Important distinctions:
+
+~~~text
+cultural fit != cultural conformity
+respect for culture != preservation of coercive norms
+community approval != personal meaning
+~~~
+
+Within-group diversity must be expected rather than treated as error.
 
 ## C7. Referral Continuity
 
@@ -123,3 +135,35 @@ Family readiness is **not** defined as willingness to remain married at all cost
 **Definition:** Separation among relevant services across timing, ownership, entry criteria, information, and referral pathways such that users must reconstruct the support system themselves.
 
 Fragmentation is the main candidate antecedent of low functional access.
+
+
+## C13. Meaning Coherence
+
+**Definition:** The degree to which a person can pursue family life and use support in a way that remains coherent with their endorsed values, identity, belonging and purposes while retaining safety and autonomy.
+
+Meaning coherence is not the same as compliance with family, religious, ethnic or community expectations.
+
+Working relation:
+
+\[
+MeaningCoherence
+=
+f(
+Values,
+Identity,
+Belonging,
+Voice,
+FamilyMeaning,
+Autonomy
+)
+\]
+
+subject to:
+
+\[
+Safety \ge threshold
+\quad\land\quad
+Autonomy \ge threshold
+\]
+
+This construct connects the system to Toledo's explicit inclusion of **meaning** within well-being while preventing cultural adaptation from becoming norm enforcement.
