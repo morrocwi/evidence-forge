@@ -1,0 +1,87 @@
+# Initial claim registry
+# Status vocabulary:
+# verified = directly supported by reviewed primary file
+# working = supported by a working synthesis whose embedded sources need checking
+# hypothesis = cross-source inference to be tested
+# proposition = proposed design, not established effect
+
+claims:
+  - claim_id: C001
+    claim_text: "Thailand recorded 416,574 births and 559,684 deaths in 2025, with negative natural increase continuing for a fifth consecutive year."
+    status: verified
+    claim_type: descriptive
+    sources: [S001]
+    inference_required: false
+    manuscript_sections: [problem]
+
+  - claim_id: C002
+    claim_text: "The IPSR 2026 framing calls for investment in human quality and a family-supportive ecosystem rather than relying only on short-term measures."
+    status: verified
+    claim_type: source_framing
+    sources: [S001]
+    inference_required: false
+    manuscript_sections: [problem, implications]
+
+  - claim_id: C003
+    claim_text: "The Mahidol Model integrated family, community, school, and hospital components in an area-based intervention for adolescent pregnancy."
+    status: verified
+    claim_type: descriptive
+    sources: [S002]
+    inference_required: false
+    manuscript_sections: [thai_precedent, discussion]
+
+  - claim_id: C004
+    claim_text: "Relevant Thai premarital and family-support functions are distributed across multiple institutional systems."
+    status: working
+    claim_type: service_landscape
+    sources: [S004]
+    inference_required: false
+    manuscript_sections: [thailand_landscape]
+    limitations:
+      - "Embedded service-level references require individual verification."
+
+  - claim_id: C005
+    claim_text: "The reviewed Thai evidence does not yet establish that premarital education increases total fertility rate."
+    status: working
+    claim_type: evidence_gap
+    sources: [S004]
+    inference_required: false
+    manuscript_sections: [discussion, limitations]
+    limitations:
+      - "Negative-evidence claim depends on review scope and search completeness."
+
+  - claim_id: C006
+    claim_text: "Fragmentation across timing, ownership, access, and referral may be a more useful service hypothesis than simple absence of content."
+    status: hypothesis
+    claim_type: synthesis
+    sources: [S001, S002, S004]
+    inference_required: true
+    manuscript_sections: [synthesis, discussion]
+
+  - claim_id: C007
+    claim_text: "A future premarital/family-support system should separate shared couple functions from confidential individual safety pathways."
+    status: proposition
+    claim_type: design
+    sources: [S004]
+    inference_required: true
+    manuscript_sections: [architecture, safety]
+
+  - claim_id: C008
+    claim_text: "In the reviewed Siriraj infertility sample, infertility-related stress, resilience, social support, and education level were significant predictors of fertility quality of life."
+    status: verified
+    claim_type: empirical
+    sources: [S003]
+    inference_required: false
+    manuscript_sections: [reproductive_health]
+    limitations:
+      - "Single clinical population; correlational design; no causal inference."
+
+  - claim_id: C009
+    claim_text: "Family quality should not be reduced to family form alone; economic, work-care, help-seeking, and relationship conditions are relevant dimensions."
+    status: working
+    claim_type: synthesis
+    sources: [S005]
+    inference_required: true
+    manuscript_sections: [family_quality]
+    limitations:
+      - "Underlying studies cited in S005 require source-level verification."
