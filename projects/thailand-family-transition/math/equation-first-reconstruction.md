@@ -554,6 +554,7 @@ Care,\,
 Safe,\,
 Nav,\,
 Leg,\,
+Mean,\,
 Cont,\,
 Cap
 \rangle_{i,t}
@@ -571,6 +572,7 @@ where:
 - \(Safe\) = safety, autonomy and confidential help access
 - \(Nav\) = service-navigation knowledge
 - \(Leg\) = institutional/cultural legitimacy
+- \(Mean\) = meaning coherence: compatibility with endorsed values, identity, belonging and life purposes
 - \(Cont\) = referral continuity and ability to return
 - \(Cap\) = practical capability to act
 
@@ -816,9 +818,63 @@ This component definition must be tested against safeguarding evidence.
 
 ---
 
-# 10. Existing Islamic and Christian systems stay inside the equation
+# 10. Culture stays inside the equation
 
-Let \(J\) index trusted entry nodes:
+The master category is cultural context, not religion.
+
+Let:
+
+\[
+C^{culture}_{i,t}
+=
+\langle
+Language,\,
+Kinship,\,
+FamilyNorms,\,
+GenderNorms,\,
+ChildbearingMeaning,\,
+CareNorms,\,
+RitualBelief,\,
+Place,\,
+MigrationHistory,\,
+Class,\,
+Generation
+\rangle_{i,t}
+\tag{44}
+\]
+
+Religion or faith may be one element within this vector for some people. It should not be used as a substitute for the wider cultural system.
+
+Culture is not assumed uniform within a group.
+
+Therefore:
+
+\[
+SameCommunity
+\not\Rightarrow
+SameMeaning
+\tag{45}
+\]
+
+and:
+
+\[
+CulturalFit
+\neq
+CulturalConformity
+\tag{46}
+\]
+
+\[
+RespectForCulture
+\neq
+PreserveCoerciveNorm
+\tag{47}
+\]
+
+A service node can be a clinic, civil office, mosque, church, temple, local association, ethnic/migrant network, school, women's group, youth group or other institution that people actually use.
+
+Let \(J\) index those entry nodes:
 
 \[
 J
@@ -826,21 +882,21 @@ J
 \{
 civil,\,
 health,\,
-Islamic,\,
-Christian,\,
-community,\,
+cultural/community,\,
+faith\text{-}based,\,
+education,\,
 digital,\ldots
 \}
-\tag{44}
+\tag{48}
 \]
 
-Each node has its own legitimate function \(Core_j\).
+Each node has its own legitimate core function \(Core_j\).
 
 Do not require:
 
 \[
 Core_j\rightarrow Uniform\ curriculum
-\tag{45}
+\tag{49}
 \]
 
 Instead:
@@ -851,7 +907,7 @@ Node_j
 Core_j
 +
 Interface_j
-\tag{46}
+\tag{50}
 \]
 
 where:
@@ -867,14 +923,36 @@ mental\text{-}health\ referral,\,
 violence\ referral,\,
 re\text{-}entry
 \}
-\tag{47}
+\tag{51}
 \]
 
-This preserves institutional identity while preventing people from being trapped inside one silo.
+Cultural responsiveness is constrained by autonomy and safety:
 
-Singapore's Muslim Bersamamu process is an existing comparison: contact with the Kadi/Naib Kadi begins before solemnisation, continues through the first two years of marriage, and can include referral to national agencies.
+\[
+MeaningCompatibility
+=
+f(
+Values,\,
+Identity,\,
+Belonging,\,
+Voice,\,
+FamilyMeaning,\,
+Autonomy
+)
+\tag{52}
+\]
 
-The question for Thailand is therefore not whether Islamic or Christian premarital preparation should be replaced, but whether trusted existing systems can connect people to wider health, safety and family-support routes without losing their own role.
+subject to:
+
+\[
+Safety\ge threshold
+\quad\land\quad
+Autonomy\ge threshold
+\tag{53}
+\]
+
+Islamic and Christian premarital systems remain valuable cases, but they are now analysed as specific culturally embedded institutions within a larger ecology rather than as the master classification.
+
 
 ---
 
@@ -979,6 +1057,7 @@ Norms_t,
 Economy_t,
 Biology_t,
 Migration_t,
+CultureMeaning_t,
 Policy_t
 \right)
 \tag{54}
@@ -1067,7 +1146,8 @@ Navigation_{i,t},
 TemporalFit_{i,t},
 SafeAccess_{i,t},
 ReferralContinuity_{i,t},
-InstitutionalLegitimacy_{i,t}
+InstitutionalLegitimacy_{i,t},
+MeaningCompatibility_{i,t}
 \right)
 \tag{59}
 \]
