@@ -68,3 +68,16 @@ No PRISMA claim unless the project is actually conducted as a systematic review.
 - \`conceptual/rival-explanations.md\` — competing explanations
 - \`section-evidence-map.md\` — evidence-to-section control
 - \`claims/registry.yaml\` — claim provenance
+
+
+---
+
+## Canonical working manuscript
+
+Primary draft:
+
+\[
+\texttt{manuscript/manuscript.md}
+\]
+
+The focal empirical object is **premarital**. Singapore is used as an institutional precedent for integrated Marriage & Parenthood support and premarital/postmarital continuity, while the manuscript moves beyond that example to examine conversion conditions, safe/private access, temporal feasibility, cultural meaning, return access, capacity and governance.
