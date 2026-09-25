@@ -1,104 +1,143 @@
-# Thailand family transition: evidence map
+# Thailand family transition — Conceptual Paper
 
-## Working question
+## Genre
 
-How should Thailand understand the connection between low fertility, family quality, reproductive health, child development, and human development, and what role might the transition into marriage or committed family life play as an intervention window?
+**Conceptual / Theory-Building Paper**
 
-## Core design vocabulary
+Working design: **Theory Synthesis + Conceptual Model**.
 
-- **พื้นที่ปลอดภัย / safe space** — a private, confidential route for concerns that cannot safely be handled in a shared couple setting.
-- **Rapid pathway** — minimum safe and informed preparation for couples marrying on a short timeline.
-- **Planned pathway** — deeper modular preparation when time is available.
-- **Persistent re-entry** — ability to return after marriage when fertility, pregnancy, parenting, conflict, mental-health, violence, or separation needs emerge.
-- **Core + extension** — preserve trusted religious or institutional premarital content while expanding navigation, health, safety, and referral functions.
+The project no longer treats the literature review as the final product. Evidence is now used to build, challenge, and delimit a theoretical model.
 
-## Current article spine
+## Core theoretical puzzle
 
-```text
-1. Problem: low fertility + family burden + child/human-development gaps
+~~~text
+SERVICE AVAILABILITY
+        ≠
+FUNCTIONAL FAMILY-SUPPORT ACCESS
+~~~
 
-2. Current policy/intervention landscape
-   -> where intervention currently begins in the life course
+Thailand already contains multiple family-related systems. The conceptual question is why these services may remain difficult to use continuously across time, institutions, and risk contexts.
 
-3. Premarital transition
-   -> why this stage may be an upstream intervention window
-   -> urgent marriage versus planned preparation
+## Proposed reframing
 
-4. Relationship evidence
-   -> communication
-   -> relationship quality
-   -> help-seeking
-   -> online/modular delivery
-   -> heterogeneity of effects
-   -> aggression/coercion/IPV safety cautions
+~~~text
+premarital course
+        ↓
+trusted family-support gateway
+        ↓
+safe + temporally adaptive + re-enterable architecture
+~~~
 
-5. Preconception and reproductive health
-   -> fertility literacy
-   -> infertility
-   -> screening
-   -> ART
-   -> mental health
-   -> biomedical + behavioural + social framing
+## Core constructs
 
-6. Thailand service landscape
-   -> civil registration
-   -> public health
-   -> family services
-   -> Islamic premarital systems
-   -> Christian premarital systems
-   -> mental-health services
-   -> violence-response services
-   -> parenting / child-development systems
+- Structural Service Availability
+- Entry Burden
+- Temporal Fit
+- Navigation Literacy
+- **Safe-Space Accessibility — พื้นที่ปลอดภัย**
+- Cultural / Institutional Legitimacy
+- Referral Continuity
+- Persistent Re-entry
+- Modular Relevance
+- Functional Family-Support Access
+- Family Readiness
+- Service Fragmentation
 
-7. Existing-to-expanded comparison
-   -> what existing systems already do
-   -> what should be preserved
-   -> what should be added
-   -> what should be referred out
+## Core architecture
 
-8. Synthesis
-   -> fragmentation across timing, goals, access points, and referral pathways
+~~~text
+TRUSTED ENTRY NODE
+civil / health / Islamic / Christian / family / digital
+                    |
+                    v
+             UNIVERSAL CORE
+                    |
+        +-----------+-----------+
+        |                       |
+        v                       v
+ RAPID PATHWAY            PLANNED PATHWAY
+ urgent marriage          non-urgent preparation
+        |                       |
+        +-----------+-----------+
+                    |
+                    v
+             PERSISTENT RE-ENTRY
+                    |
+       +------------+------------+
+       |                         |
+       v                         v
+COUPLE CHANNEL          PRIVATE SAFE-SPACE CHANNEL
+       |                         |
+       +------------+------------+
+                    |
+                    v
+          NAVIGATION + REFERRAL
+~~~
 
-9. Candidate intervention architecture
-   -> universal core
-   -> rapid pathway
-   -> planned pathway
-   -> optional modular learning
-   -> พื้นที่ปลอดภัย / safe space
-   -> persistent re-entry
-   -> professional referral
-   -> private safety pathway
+## Religious-system principle
 
-10. Implications
-   -> family
-   -> nursing / health services
-   -> faith-based systems
-   -> child development
-   -> service integration
+Do not replace existing Islamic or Christian premarital systems.
 
-11. Research agenda
-   -> reach
-   -> acceptability
-   -> rapid vs planned pathway uptake
-   -> implementation
-   -> referral completion
-   -> safe-space use
-   -> relationship/family/health outcomes
+Use **core + extension**:
 
-12. Limitations
+- preserve faith-specific meaning and content,
+- add or strengthen navigation,
+- reproductive/preconception referral,
+- mental-health literacy,
+- coercion/violence recognition,
+- **พื้นที่ปลอดภัย / safe space**,
+- confidential individual access,
+- post-marriage re-entry,
+- professional referral.
 
-13. Conclusion
-```
+Faith leaders remain faith/community nodes, not substitutes for physicians, therapists, violence specialists, or lawyers.
+
+## Two-speed principle
+
+### Rapid pathway
+For urgent marriage timelines.
+
+Goal: **minimum safe and informed readiness**, not a compressed long course.
+
+### Planned pathway
+For couples with preparation time.
+
+Goal: deeper modular learning, skills practice, counselling, and referral where needed.
+
+## Evidence discipline
+
+Every statement must remain distinguishable as:
+
+- evidence
+- synthesis
+- assumption
+- construct
+- mechanism
+- proposition
+- boundary condition
+- rival explanation
+- research implication
 
 ## Guardrails
 
 - Do not claim premarital education increases TFR without direct evidence.
 - Do not use divorce reduction as a standalone success indicator.
 - Relationship stability is not equivalent to safety.
-- Keep **พื้นที่ปลอดภัย / safe space** explicit in both architecture and outcome design.
-- Do not force a long-course model on couples with urgent marriage timelines.
-- Do not treat rapid preparation as an inferior compressed version of the long course; it has a different minimum function.
-- Do not replace Islamic or Christian premarital systems; examine how trusted existing systems can become stronger recognition, navigation, and referral nodes.
-- Faith leaders are not substitutes for clinicians, therapists, violence specialists, or lawyers.
-- Distinguish established evidence from design propositions.
-- Treat Thailand's existing systems as fragmented components to be mapped, not presumed failures.
+- Keep **พื้นที่ปลอดภัย / safe space** explicit in architecture and outcome design.
+- Do not force a long-course model on urgent couples.
+- Do not assume one religious or secular entry node is appropriate for everyone.
+- Do not confuse service existence with functional access.
+- Do not convert conceptual propositions into established findings.
+- Faith leaders are not substitutes for specialist services.
+
+## Key project files
+
+- `conceptual/conceptual-core.md`
+- `conceptual/constructs.md`
+- `conceptual/model.md`
+- `conceptual/propositions.md`
+- `conceptual/boundary-conditions.md`
+- `conceptual/rival-explanations.md`
+- `conceptual/research-programme.md`
+- `manuscript/conceptual-outline.md`
+- `section-evidence-map.md`
