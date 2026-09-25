@@ -14,4 +14,4 @@ This paper distinguishes **AI-assisted performance** from **retained human capab
 
 ## Stronger contribution only if supported
 
-If novelty and lineage audits show that existing theories do not already specify the configuration, the paper may contribute a formal framework for evaluating human capability across baseline, assisted, withdrawal, delayed-retention, and transfer states.
+If the prior-work boundary check and construct-lineage review show that existing theories do not already specify the configuration, the paper may contribute a formal framework for evaluating human capability across baseline, assisted, withdrawal, delayed-retention, and transfer states.
