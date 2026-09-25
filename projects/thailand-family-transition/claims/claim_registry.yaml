@@ -1,0 +1,2 @@
+# claim registry — one entry per claim (id, statement, tier, evidence_ids, status)
+claims: []
