@@ -678,3 +678,20 @@ The three anchored streams should re-enter Round 3 only if new evidence directly
 ## Claim ceiling
 
 This is a first collision pass. It establishes a stronger **theory-boundary decision** than a literature count, but it is not yet a full independent Glosa L7 claim-verification pass.
+
+
+---
+
+# 7. Relation to compressed core on current main
+
+Current `main` already contains:
+
+`conceptual/compressed-core-after-collision.md`
+
+The present file is the **evidence-side justification** for three parts of that compressed core:
+
+- `TemporalFeasibility` belongs under conversion/effective-possibility conditions rather than standing as a separate theory.
+- `KnownReturnRoute + TriggeredContact` belongs under continuity/reenterability and life-course implementation.
+- `Edge/Node/Hybrid` belongs under structure/capacity diagnosis and remains a decision rule.
+
+If the compressed core and this evidence file disagree, the discrepancy should be resolved explicitly rather than silently choosing one.
