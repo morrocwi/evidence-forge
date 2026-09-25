@@ -337,3 +337,95 @@ The architecture now fails if it cannot demonstrate at least one of the followin
 5. predictive validity of bottleneck diagnosis for selecting edge/node/capacity/governance/hybrid investment.
 
 If none of these survives prospective testing, the conceptual paper should be reframed as an integrative application of established frameworks rather than a distinct theoretical architecture.
+
+
+---
+
+# R. Five-lens adversarial adjudication
+
+This section records the cross-disciplinary reviewer attack after theory collision and Round 3.
+
+| Lens | Main attack | Required response | Equation consequence | Decision |
+|---|---|---|---|---|
+| Demography | premarital contact is too proximal to explain population fertility | keep fertility distal; require explicit aggregation mechanism for any population claim | no core change; tighten level boundary | **SURVIVES** |
+| Economics / policy | a premarital layer may be dominated by housing, childcare, cash, protection or capacity investment | compare feasible alternative allocations using full social/user/system cost | keep intervention-choice rule outside state equation | **SURVIVES CONDITIONALLY** |
+| Social science / culture | cultural embeddedness may reproduce hierarchy, stigma or coercive norms and need not improve efficacy | make cultural embeddedness conditional on trust, privacy, autonomy and professional boundaries | no new core variable | **RETAIN / NARROW** |
+| Public health / child-family | premarital effects cannot be read directly as child/family outcomes | separate proximal, intermediate and distal outcomes and lags | add outcome-horizon discipline | **REVISE** |
+| Philosophy / methodology | EffectivePossibility may simply rename capability conversion factors + effective access | absorb into established capability language unless incremental value is demonstrated | prefer `ConversionConditions` in final manuscript | **HIGH-PRIORITY REVISION** |
+
+## Mandatory cross-lens constraints
+
+### 1. Outcome horizon
+
+```text
+PremaritalContact
+→ Y_prox
+→ Y_mid
+→ Y_dist
+```
+
+where fertility and child development are distal.
+
+### 2. Allocation comparator
+
+No intervention recommendation is complete without:
+
+```text
+PremaritalLayer
+vs
+FeasibleAlternativeUseOfResources
+```
+
+### 3. Cultural-node condition
+
+```text
+CulturalEmbeddedness
+≠
+Trust
+≠
+Safety
+≠
+Effectiveness
+```
+
+### 4. Construct-novelty rule
+
+```text
+InternalAnalyticLabel
+≠
+NewConstruct
+```
+
+unless it adds a distinct prediction, measurement distinction or design decision.
+
+### 5. Preferred public-facing spine
+
+```text
+Structural Resources / Conditions
+→ Conversion Conditions
+→ Family Capability
+→ Choice / Action
+→ Outcomes
+```
+
+with:
+
+```text
+Conversion Conditions
+=
+Access
++ Time/Burden
++ Safety/Autonomy
++ Culture/Meaning
++ Capacity/Continuity
+```
+
+## Theory-status consequence
+
+The five-lens review does not justify abandoning the architecture.
+
+It does justify a more conservative contribution claim:
+
+> a premarital-focused integrative conceptual architecture linking established resource, access, capability, life-course, safeguarding, cultural and implementation frameworks around a small set of still-open premarital relations.
+
+The architecture should only be called a distinct theory if those remaining relations demonstrate incremental explanatory or predictive value beyond the parent frameworks.
