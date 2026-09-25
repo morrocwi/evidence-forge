@@ -1,0 +1,27 @@
+project_id: HARC
+name: "Human–AI Enduring Capability evidence companion"
+status: scaffold
+project_type: evidence_companion
+conceptual_source_of_record:
+  title: "How Can AI Expand Human Potential? From Reachable Possibilities to Enduring Human Capability"
+  author: "Yaoharee Lahtee"
+  version: "v6.17-EN"
+  date: "2026-09-20"
+  ssrn_abstract_id: "7491779"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7491779"
+method_source_of_record: "morrocwi/glosa"
+equation_source_of_record: "morrocwi/toledo"
+routing_source_of_record: "morrocwi/main.hub"
+claim_strength_source_of_record: "morrocwi/readout_universe"
+primary_propositions:
+  - P5
+  - P8
+primary_evaluation_terms:
+  - retention
+  - fading_of_decisive_assistance
+  - transfer
+blocked_terms_pending_lineage:
+  - Human_Return
+  - Human_Conversion
+formalization_status: HOLD_pending_Toledo_lookup
+systematic_review_claim: false
