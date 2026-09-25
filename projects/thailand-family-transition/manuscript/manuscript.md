@@ -448,21 +448,23 @@ IntegratedPathway
 
 คำว่า service fragmentation อธิบายสถานการณ์ที่ระบบหลายส่วนไม่เชื่อมต่อกัน แต่เพียงคำนี้ยังไม่พอ เพราะแม้ระบบเชื่อมกันบนกระดาษ ผู้ใช้ก็อาจเข้าไม่ถึง
 
-บทความนี้จึงเสนอการอ่านปัญหาเป็น **conversion problem**:
+บทความนี้จึงเสนอการอ่านปัญหาเป็น **conversion problem** โดยวาง social structure/inequality ไว้ก่อน premarital contact ไม่ใช่เป็นเพียง outcome ภายหลัง:
 
 \[
-StructuralResources
+SocialStructure/Inequality
+\rightarrow
+PremaritalContact
 \rightarrow
 ConversionConditions
 \rightarrow
 FamilyCapability
 \rightarrow
-LifeCourseTrajectory
-\rightarrow
-Family/ChildOutcomes
+AppropriateSupport/Trajectory
 \]
 
-โดย structural resources ประกอบด้วย material resources, social determinants, service availability และ network capacity
+family well-being, nurturing care และ fertility เป็น downstream domains ที่อยู่ห่างจาก premarital ไม่เท่ากัน โดย fertility เป็น distal macro outcome
+
+structural resources ประกอบด้วย material resources, social determinants, service availability และ network capacity ส่วนการแปลงทรัพยากรต้องถูกอ่านผ่าน **social position/structural inequality** ของบุคคลหรือคู่ ไม่ใช่สมมติว่าทุกคนเริ่มจากฐานเดียวกัน
 
 ส่วน conversion conditions ซึ่งเป็นหัวใจของ premarital ในบทความนี้ประกอบด้วยอย่างน้อย:
 
@@ -480,21 +482,22 @@ CulturalMeaning
 **Effective access** ถามว่าผู้ใช้รู้ เข้า และใช้บริการได้จริงหรือไม่  
 **Temporal feasibility** ถามว่าบริการเข้ากับเวลาและภาระของชีวิตจริงหรือไม่  
 **Safety/autonomy** ถามว่าการเข้าถึงเปิดช่องให้บุคคลพูดและตัดสินใจโดยไม่ถูกควบคุมหรือไม่  
-**Cultural meaning** ถามว่าบริการสามารถถูกเข้าใจและใช้ได้ภายในโลกความหมายของบุคคลโดยไม่บังคับ conformity หรือไม่
+**Cultural meaning** ถามทั้งว่าบริการสามารถถูกเข้าใจและใช้ได้ภายในโลกความหมายของบุคคลหรือไม่ และชีวิตครอบครัวแบบใดที่บุคคลเห็นว่ามีคุณค่า
 
 จากนั้นจึงเกิด substantive family capability:
 
 \[
-C^{family}
+C^{family}_{i}
 =
 \Phi(
-StructuralResources,\,
-ConversionConditions,\,
-Personal/RelationalConditions
+StructuralResources_{i},\,
+ConversionConditions_{i},\,
+SocialPosition_{i},\,
+Personal/RelationalConditions_{i}
 )
 \]
 
-Family capability ในที่นี้ไม่ได้หมายถึง “ความพร้อมแต่งงาน” แบบคะแนนเดียว แต่หมายถึงความสามารถที่แท้จริงในการดำเนินชีวิตครอบครัวภายใต้ทางเลือกที่บุคคลให้คุณค่า เช่น การสื่อสาร การจัดการความขัดแย้ง การเข้าถึงสุขภาพ การวางแผนการดูแล การขอความช่วยเหลือ และการปกป้องตนเองเมื่อไม่ปลอดภัย
+Family capability ในที่นี้ไม่ได้หมายถึง “ความพร้อมแต่งงาน” แบบคะแนนเดียว และไม่ควรถูกสร้างเป็น psychometric score ที่ดูดซับทุก outcome เข้าด้วยกัน แต่เป็น **higher-order analytical category** สำหรับพูดถึงชุดความเป็นไปได้จริงที่บุคคลหรือคู่สามารถทำได้และเลือกได้ภายใต้บริบทของตน การวิจัยเชิงประจักษ์ควรวัดองค์ประกอบที่ใกล้กลไกแยกจากกัน เช่น navigation literacy, safe access, appropriate help-seeking, preconception uptake และ referral completion
 
 กรอบนี้สืบทอด logic หลักจาก Capability Approach, access theory และ life-course approach มากกว่าจะประกาศเป็นทฤษฎีใหม่ สิ่งที่ยังต้องทดสอบคือการจัด configuration เหล่านี้รอบวัตถุเฉพาะคือ premarital
 
@@ -1004,18 +1007,18 @@ TargetedIntensityWhenNeeded
 ข้อสังเคราะห์หลักจึงอยู่ที่:
 
 \[
-StructuralResources
+SocialStructure/Inequality
+\rightarrow
+PremaritalContact
 \rightarrow
 ConversionConditions
 \rightarrow
 FamilyCapability
 \rightarrow
-LifeCourseTrajectory
-\rightarrow
-Family/ChildOutcomes
+AppropriateSupport/Trajectory
 \]
 
-โดย premarital conversion conditions ที่ควรให้ความสนใจประกอบด้วย effective access, temporal feasibility, safety/autonomy และ cultural meaning ขณะเดียวกัน referral ต้องไม่ถูกวิเคราะห์แยกจาก availability, capacity, quality และ governance ของระบบปลายทาง
+โดย family well-being, nurturing care และ fertility เป็น downstream domains ที่อยู่ห่างจาก premarital ไม่เท่ากัน และ fertility อยู่ไกลที่สุดในระดับประชากร premarital conversion conditions ที่ควรให้ความสนใจประกอบด้วย effective access, temporal feasibility, safety/autonomy และ cultural meaning ขณะเดียวกัน referral ต้องไม่ถูกวิเคราะห์แยกจาก availability, capacity, quality และ governance ของระบบปลายทาง
 
 จากกรอบนี้ premarital ไม่จำเป็นต้องกลายเป็น “หลักสูตรใหญ่ขึ้น” อาจมีคุณค่ามากกว่าในฐานะ **จุดเชื่อมที่มีภาระต่ำและปลอดภัย** ซึ่งช่วยให้บุคคลรู้ว่าอะไรสำคัญ อะไรไม่ควรถูกเลื่อน จะเข้าถึงความช่วยเหลือแบบส่วนตัวได้อย่างไร และจะกลับเข้าสู่ระบบที่เหมาะสมเมื่อชีวิตเปลี่ยนไปได้ที่ไหน
 
