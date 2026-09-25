@@ -1,6 +1,6 @@
 # Initial claim registry
 # Status vocabulary:
-# verified = directly supported by reviewed primary file
+# verified = directly supported by reviewed primary file/source
 # working = supported by a working synthesis whose embedded sources need checking
 # hypothesis = cross-source inference to be tested
 # proposition = proposed design, not established effect
@@ -62,7 +62,7 @@ claims:
     claim_text: "A future premarital/family-support system should separate shared couple functions from confidential individual safety pathways."
     status: proposition
     claim_type: design
-    sources: [S004]
+    sources: [S004, S007]
     inference_required: true
     manuscript_sections: [architecture, safety]
 
@@ -85,3 +85,59 @@ claims:
     manuscript_sections: [family_quality]
     limitations:
       - "Underlying studies cited in S005 require source-level verification."
+
+  - claim_id: C010
+    claim_text: "Marriage and relationship education has more consistent evidence for communication outcomes than for uniformly improving relationship quality across all premarital populations."
+    status: verified
+    claim_type: review_synthesis
+    sources: [S006]
+    inference_required: false
+    manuscript_sections: [relationship_evidence]
+
+  - claim_id: C011
+    claim_text: "Online relationship education can improve several relationship and individual outcomes, but effects vary across programmes and follow-up periods."
+    status: verified
+    claim_type: review_synthesis
+    sources: [S006]
+    inference_required: false
+    manuscript_sections: [relationship_evidence, architecture]
+
+  - claim_id: C012
+    claim_text: "WHO materials support privacy, confidentiality, survivor-centred care, safety assessment, and referral as core elements of responses to violence."
+    status: verified
+    claim_type: international_guidance
+    sources: [S007]
+    inference_required: false
+    manuscript_sections: [safety, architecture]
+
+  - claim_id: C013
+    claim_text: "A safe space (พื้นที่ปลอดภัย) should be an explicit component of the proposed family-support architecture rather than an implicit feature of a shared couple course."
+    status: proposition
+    claim_type: design
+    sources: [S004, S007]
+    inference_required: true
+    manuscript_sections: [safety, architecture]
+
+  - claim_id: C014
+    claim_text: "Premarital preparation should support both urgent/rapid marriage timelines and non-urgent/planned preparation rather than assuming one uniform course duration."
+    status: proposition
+    claim_type: access_design
+    sources: [S006]
+    inference_required: true
+    manuscript_sections: [architecture, implementation]
+
+  - claim_id: C015
+    claim_text: "Existing Islamic and Christian premarital systems in Thailand can be treated as trusted entry nodes to expand, rather than systems to replace."
+    status: hypothesis
+    claim_type: service_design
+    sources: [S004]
+    inference_required: true
+    manuscript_sections: [faith_based_systems, architecture]
+
+  - claim_id: C016
+    claim_text: "The proposed faith-based upgrade is to preserve religious content while adding or strengthening communication, health navigation, mental-health literacy, safe-space access, confidential referral, and post-marriage re-entry."
+    status: proposition
+    claim_type: design
+    sources: [S004, S006, S007]
+    inference_required: true
+    manuscript_sections: [faith_based_systems, architecture]
