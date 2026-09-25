@@ -454,91 +454,91 @@ AppropriateSupport/Trajectory
 
 ---
 
-# เอกสารอ้างอิง (Working Vancouver List)
+# เอกสารอ้างอิง (Vancouver working list — metadata audited)
 
-1. สถาบันวิจัยประชากรและสังคม มหาวิทยาลัยมหิดล. สถานการณ์ประชากรไทยปี 2569 “พลิกวิกฤตเกิดน้อย–สังคมสูงวัย สู่การลงทุนใน ‘คน’ เพื่ออนาคตประเทศ”. นครปฐม: มหาวิทยาลัยมหิดล; 2569. (in Thai)
+1. สถาบันวิจัยประชากรและสังคม มหาวิทยาลัยมหิดล. สถานการณ์ประชากรไทยปี 2569 “พลิกวิกฤตเกิดน้อย–สังคมสูงวัย สู่การลงทุนใน ‘คน’ เพื่ออนาคตประเทศ”. นครปฐม: สถาบันวิจัยประชากรและสังคม มหาวิทยาลัยมหิดล; 2569. เอกสารทางวิชาการหมายเลข 612. (in Thai)
 
-2. OECD. Society at a Glance 2024: OECD Social Indicators. Paris: OECD Publishing; 2024.
+2. OECD. Society at a Glance 2024: OECD Social Indicators. Paris: OECD Publishing; 2024. doi:10.1787/918d8db3-en.
 
-3. Fluchtmann J, van Veen V, Adema W. Fertility, employment and family policy: a cross-country panel analysis. OECD Social, Employment and Migration Working Papers. Paris: OECD; 2023.
+3. Fluchtmann J, van Veen V, Adema W. Fertility, employment and family policy: a cross-country panel analysis. OECD Social, Employment and Migration Working Papers No. 299. Paris: OECD Publishing; 2023. doi:10.1787/326844f0-en.
 
-4. Ross LJ, Solinger R. Reproductive Justice: An Introduction. Oakland: University of California Press; 2017.
+4. Ross LJ, Solinger R. Reproductive Justice: An Introduction. Oakland (CA): University of California Press; 2017.
 
 5. Sen A. Development as Freedom. New York: Alfred A. Knopf; 1999.
 
-6. Penchansky R, Thomas JW. The concept of access: definition and relationship to consumer satisfaction. Med Care. 1981;19(2):127-140.
+6. Penchansky R, Thomas JW. The concept of access: definition and relationship to consumer satisfaction. Med Care. 1981;19(2):127-140. doi:10.1097/00005650-198102000-00001.
 
-7. Levesque JF, Harris MF, Russell G. Patient-centred access to health care: conceptualising access at the interface of health systems and populations. Int J Equity Health. 2013;12:18.
+7. Levesque JF, Harris MF, Russell G. Patient-centred access to health care: conceptualising access at the interface of health systems and populations. Int J Equity Health. 2013;12:18. doi:10.1186/1475-9276-12-18.
 
-8. Moynihan D, Herd P, Harvey H. Administrative burden: learning, psychological, and compliance costs in citizen-state interactions. J Public Adm Res Theory. 2015;25(1):43-69.
+8. Moynihan D, Herd P, Harvey H. Administrative burden: learning, psychological, and compliance costs in citizen-state interactions. J Public Adm Res Theory. 2015;25(1):43-69. doi:10.1093/jopart/muu009.
 
-9. World Health Organization. Framework to implement a life course approach in practice. Geneva: WHO; 2025.
+9. World Health Organization. Framework to implement a life course approach in practice. Geneva: World Health Organization; 2025. ISBN 978-92-4-011257-5.
 
-10. Bronfenbrenner U, Morris PA. The bioecological model of human development. In: Damon W, Lerner RM, editors. Handbook of Child Psychology. 6th ed. Hoboken: Wiley; 2006.
+10. Bronfenbrenner U, Morris PA. The bioecological model of human development. In: Damon W, Lerner RM, editors. Handbook of Child Psychology. 6th ed. Hoboken (NJ): John Wiley & Sons; 2006. doi:10.1002/9780470147658.chpsy0114.
 
-11. Masarik AS, Conger RD. Stress and child development: a review of the Family Stress Model. Curr Opin Psychol. 2017;13:85-90.
+11. Masarik AS, Conger RD. Stress and child development: a review of the Family Stress Model. Curr Opin Psychol. 2017;13:85-90. doi:10.1016/j.copsyc.2016.05.008.
 
-12. World Health Organization, United Nations Children's Fund, World Bank Group. Nurturing care for early childhood development: a framework for helping children survive and thrive to transform health and human potential. Geneva: WHO; 2018.
+12. World Health Organization, United Nations Children’s Fund, World Bank Group. Nurturing care for early childhood development: a framework for helping children survive and thrive to transform health and human potential. Geneva: World Health Organization; 2018. ISBN 978-92-4-151406-4.
 
-13. World Health Organization. Framework on integrated people-centred health services. Geneva: WHO; 2016.
+13. World Health Organization. Framework on integrated people-centred health services: report by the Secretariat. Geneva: World Health Organization; 2016. Document A69/39.
 
-14. Provan KG, Kenis P. Modes of network governance: structure, management, and effectiveness. J Public Adm Res Theory. 2008;18(2):229-252.
+14. Provan KG, Kenis P. Modes of network governance: structure, management, and effectiveness. J Public Adm Res Theory. 2008;18(2):229-252. doi:10.1093/jopart/mum015.
 
-15. Bernal G, Bonilla J, Bellido C. Ecological validity and cultural sensitivity for outcome research: issues for the cultural adaptation and development of psychosocial treatments with Hispanics. J Abnorm Child Psychol. 1995;23(1):67-82.
+15. Bernal G, Bonilla J, Bellido C. Ecological validity and cultural sensitivity for outcome research: issues for the cultural adaptation and development of psychosocial treatments with Hispanics. J Abnorm Child Psychol. 1995;23(1):67-82. doi:10.1007/BF01447045.
 
-16. Singapore Government. Marriage & Parenthood Measures at National Day Rally 2026. Singapore: Population.gov.sg; 2026.
+16. Singapore Government. Marriage & Parenthood Measures at National Day Rally 2026 [Internet]. Singapore: Population.gov.sg; 2026 Aug 23 [cited 2026 Sep 26]. Available from: https://www.population.gov.sg/marriage-parenthood-measures-at-national-day-rally-2026/
 
-17. Families for Life. Marriage Preparation Programme (MPrep): programme materials and current provider descriptions. Singapore; 2026.
+17. Families for Life. Marriage Preparation Programme (MPrep) [Internet]. Singapore: Families for Life; [cited 2026 Sep 26]. Available from: https://familiesforlife.sg/
 
-18. Families for Life. Cinta Abadi Marriage Preparation Programme. Singapore; 2026.
+18. Families for Life. Cinta Abadi Marriage Preparation Programme [Internet]. Singapore: Families for Life; [cited 2026 Sep 26]. Available from: https://familiesforlife.sg/pages/Programme/CINTA-ABADI-MARRIAGE-PREPARATION-PROGRAMME-CA-PREP
 
-19. Our Marriage Journey, Registry of Muslim Marriages. Face-to-Face session (Bersamamu) with Kadi/Naib Kadi. Singapore; 2026.
+19. Our Marriage Journey, Registry of Muslim Marriages. Face-to-Face (F2F) session (Bersamamu) with Kadi/Naib Kadi [Internet]. Singapore: Government of Singapore; 2026 [updated 2026 Feb 24; cited 2026 Sep 26]. Available from: https://www.marriage.gov.sg/
 
-20. Registry of Muslim Marriages. Milestones and transformation of a Muslim couple’s marriage journey. Singapore; current public guidance.
+20. Registry of Muslim Marriages. Milestones and transformation of a Muslim couple’s marriage journey [Internet]. Singapore: Government of Singapore; [cited 2026 Sep 26]. Available from: https://www.marriage.gov.sg/Muslim_Marriage_Process_-_English_3.pdf
 
-21. Hawkins AJ, Blanchard VL, Baldwin SA, Fawcett EB. Does marriage and relationship education work? A meta-analytic study. J Consult Clin Psychol. 2008;76(5):723-734.
+21. Hawkins AJ, Blanchard VL, Baldwin SA, Fawcett EB. Does marriage and relationship education work? A meta-analytic study. J Consult Clin Psychol. 2008;76(5):723-734. doi:10.1037/a0012584.
 
-22. Fawcett EB, Hawkins AJ, Blanchard VL, Carroll JS. Do premarital education programs really work? A meta-analytic study. Fam Relat. 2010;59:232-239.
+22. Fawcett EB, Hawkins AJ, Blanchard VL, Carroll JS. Do premarital education programs really work? A meta-analytic study. Fam Relat. 2010;59(3):232-239. doi:10.1111/j.1741-3729.2010.00598.x.
 
-23. Hawkins AJ, Stanley SM, Blanchard VL, Albright M. Exploring programmatic moderators of the effectiveness of marriage and relationship education programs: a meta-analytic study. Behav Ther. 2012;43(1):77-87.
+23. Hawkins AJ, Stanley SM, Blanchard VL, Albright M. Exploring programmatic moderators of the effectiveness of marriage and relationship education programs: a meta-analytic study. Behav Ther. 2012;43(1):77-87. doi:10.1016/j.beth.2010.12.006.
 
-24. Williamson HC, Trail TE, Bradbury TN, Karney BR. Does premarital education decrease or increase couples’ later help-seeking? J Fam Psychol. 2014.
+24. Williamson HC, Trail TE, Bradbury TN, Karney BR. Does premarital education decrease or increase couples’ later help-seeking? J Fam Psychol. 2014;28(1):112-117. doi:10.1037/a0034984.
 
-25. Williamson HC, Hammett JF, Ross JM, Karney BR, Bradbury TN. Premarital education and later relationship help-seeking. J Fam Psychol. 2018;32(2):276-281.
+25. Williamson HC, Hammett JF, Ross JM, Karney BR, Bradbury TN. Premarital education and later relationship help-seeking. J Fam Psychol. 2018;32(2):276-281. doi:10.1037/fam0000383.
 
-26. Williamson HC, Rogge RD, Cobb RJ, Johnson MD, Lawrence E, Bradbury TN. Risk moderates the outcome of relationship education: a randomized controlled trial. J Consult Clin Psychol. 2015;83(3):617-629.
+26. Williamson HC, Rogge RD, Cobb RJ, Johnson MD, Lawrence E, Bradbury TN. Risk moderates the outcome of relationship education: a randomized controlled trial. J Consult Clin Psychol. 2015;83(3):617-629. doi:10.1037/a0038621.
 
-27. Karantzas GC, Curtis A, Knox L, et al. Do relationship education programs reduce relationship aggression? A meta-analytic study. Clin Psychol Rev. 2023;104:102285.
+27. Karantzas GC, Curtis A, Knox L, Staiger PK, Head T, Toumbourou JW, et al. Do relationship education programs reduce relationship aggression? A meta-analytic study. Clin Psychol Rev. 2023;104:102285. doi:10.1016/j.cpr.2023.102285.
 
-28. World Health Organization. Preconception care: maximizing the gains for maternal and child health. Geneva: WHO; 2013.
+28. World Health Organization. Preconception care: maximizing the gains for maternal and child health. Geneva: World Health Organization; 2013. WHO reference no. WHO/FWC/MCA/13.02.
 
-29. Hussein N, Kai J, Qureshi N. The effects of preconception interventions on improving reproductive health and pregnancy outcomes in primary care: a systematic review. Eur J Gen Pract. 2016;22:42-52.
+29. Hussein N, Kai J, Qureshi N. The effects of preconception interventions on improving reproductive health and pregnancy outcomes in primary care: a systematic review. Eur J Gen Pract. 2016;22(1):42-52. doi:10.3109/13814788.2015.1099039.
 
-30. Pedro J, Brandão T, Schmidt L, Costa ME, Martins MV. What do people know about fertility? A systematic review on fertility awareness and its associated factors. Ups J Med Sci. 2018;123:71-81.
+30. Pedro J, Brandão T, Schmidt L, Costa ME, Martins MV. What do people know about fertility? A systematic review on fertility awareness and its associated factors. Ups J Med Sci. 2018;123(2):71-81. doi:10.1080/03009734.2018.1480186.
 
-31. Na Nakhon S, Limvorapitux P, Vichinsartvichai P. Knowledge regarding factors that influence fertility in Thai reproductive-age population living in urban area: a cross-sectional study. Clin Exp Reprod Med. 2018;45(1):38-43.
+31. Na Nakhon S, Limvorapitux P, Vichinsartvichai P. Knowledge regarding factors that influence fertility in Thai reproductive-age population living in urban area: a cross-sectional study. Clin Exp Reprod Med. 2018;45(1):38-43. doi:10.5653/cerm.2018.45.1.38.
 
-32. Vilaiphan P, Suphapeetiporn K, Phupong V, Shotelersuk V. An exceptionally low percentage of Thai expectant mothers and medical personnel with folic acid knowledge and peri-conceptional consumption urges an urgent education program and/or food fortification. Int J Food Sci Nutr. 2007;58(4):297-303.
+32. Vilaiphan P, Suphapeetiporn K, Phupong V, Shotelersuk V. An exceptionally low percentage of Thai expectant mothers and medical personnel with folic acid knowledge and peri-conceptional consumption urges an urgent education program and/or food fortification. Int J Food Sci Nutr. 2007;58(4):297-303. doi:10.1080/09637480701217131.
 
-33. World Health Organization. Health care for women subjected to intimate partner violence or sexual violence: a clinical handbook. Geneva: WHO; 2014.
+33. World Health Organization. Health care for women subjected to intimate partner violence or sexual violence: a clinical handbook. Geneva: World Health Organization; 2014. WHO reference no. WHO/RHR/14.26.
 
-34. Grace KT, Anderson JC. Reproductive coercion: a systematic review. Trauma Violence Abuse. 2018;19(4):371-390.
+34. Grace KT, Anderson JC. Reproductive coercion: a systematic review. Trauma Violence Abuse. 2018;19(4):371-390. doi:10.1177/1524838016663935.
 
-35. Reinprayoon D, Bunyavejchevin S. Premarital counseling clinic at Chulalongkorn Hospital. J Med Assoc Thai. 1998;81(12):993-997.
+35. Reinprayoon D, Bunyavejchevin S. Premarital counseling clinic at Chulalongkorn Hospital. J Med Assoc Thai. 1998;81(12):993-997. PMID:9916389.
 
-36. เรืองกาญจนเศรษฐ์ ส, และคณะ. มหิดลโมเดล: รูปแบบการป้องกันและแก้ไขปัญหาการตั้งครรภ์ของวัยรุ่นในพื้นที่อย่างบูรณาการ. วารสารวิชาการสาธารณสุข. 2563;29(1). (in Thai)
+36. เรืองกาญจนเศรษฐ์ ส, อรุณากูร จ, สกุลศรี ธ, เสรี พ, รตินธร อ, ภัคภิญโญ อ, และคณะ. มหิดลโมเดล: รูปแบบการป้องกันและแก้ไขปัญหาการตั้งครรภ์ของวัยรุ่นในพื้นที่อย่างบูรณาการ. วารสารวิชาการสาธารณสุข. 2563;29(1):75-90. (in Thai)
 
-37. Cordova JV, et al. The Marriage Checkup: a randomized controlled trial of annual relationship health checkups. J Consult Clin Psychol. 2014;82(4):592-604.
+37. Cordova JV, Eubanks Fleming CJ, Morrill MI, Hawrilenko M, Sollenberger JW, Harp AG, et al. The Marriage Checkup: a randomized controlled trial of annual relationship health checkups. J Consult Clin Psychol. 2014;82(4):592-604. doi:10.1037/a0037097.
 
-38. Trillingsgaard T, et al. A randomized controlled trial of the Marriage Checkup adapted for private practice. J Consult Clin Psychol. 2016;84(12):1145-1152.
+38. Trillingsgaard T, Nørr Fentz H, Hawrilenko M, Cordova JV. A randomized controlled trial of the Marriage Checkup adapted for private practice. J Consult Clin Psychol. 2016;84(12):1145-1152. doi:10.1037/ccp0000141.
 
-39. Pinquart M, Teubert D. A meta-analytic study of couple interventions during the transition to parenthood. Fam Relat. 2010;59:221-231.
+39. Pinquart M, Teubert D. A meta-analytic study of couple interventions during the transition to parenthood. Fam Relat. 2010;59(3):221-231. doi:10.1111/j.1741-3729.2010.00597.x.
 
-40. Rocks S, et al. Cost and effects of integrated care: a systematic literature review and meta-analysis. Eur J Health Econ. 2020.
+40. Rocks S, Berntson D, Gil-Salmerón A, Kadu M, Ehrenberg N, Stein V, et al. Cost and effects of integrated care: a systematic literature review and meta-analysis. Eur J Health Econ. 2020;21(8):1211-1221. doi:10.1007/s10198-020-01217-5.
 
-41. Bernardo BM, et al. The efficacy and cost-effectiveness of patient navigation programs across the cancer continuum: a systematic review. Cancer. 2019.
+41. Bernardo BM, Zhang X, Beverly Hery CM, Meadows RJ, Paskett ED. The efficacy and cost-effectiveness of patient navigation programs across the cancer continuum: a systematic review. Cancer. 2019;125(16):2747-2761. doi:10.1002/cncr.32147.
 
-42. Kiely B, et al. Effect of social prescribing link workers on health outcomes and costs for adults in primary care and community settings: a systematic review. BMJ Open. 2022;12:e062951.
+42. Kiely B, Croke A, O’Shea M, Boland F, O’Shea E, Connolly D, et al. Effect of social prescribing link workers on health outcomes and costs for adults in primary care and community settings: a systematic review. BMJ Open. 2022;12(10):e062951. doi:10.1136/bmjopen-2022-062951.
 
 ---
 
