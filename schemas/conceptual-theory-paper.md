@@ -2,7 +2,7 @@
 
 ## Target genre
 
-This project is now being developed as a **Conceptual / Theory-Building Paper**, not as a narrative review and not as an empirical research article.
+This project is being developed as a **Conceptual / Theory-Building Paper**, not as a narrative review and not as an empirical research article.
 
 The evidence base remains essential, but literature is used as material for theory construction rather than as the manuscript's endpoint.
 
@@ -10,39 +10,46 @@ The evidence base remains essential, but literature is used as material for theo
 
 ### Jaakkola (2020)
 
-Jaakkola identifies four common conceptual-paper designs:
+Four common conceptual-paper designs:
 
 1. Theory synthesis
 2. Theory adaptation
 3. Typology
 4. Model
 
-For this project, the strongest fit is a **hybrid of Theory Synthesis + Model**:
+## Current design choice
 
-- **Theory synthesis** because the paper connects demographic change, family systems, relationship education, reproductive health, safety, faith-based preparation, and service navigation.
-- **Model** because the intended contribution is a new explanatory architecture linking constructs, mechanisms, contingencies, and outcomes.
+**Working design: Theory Adaptation + Theory Synthesis + Conceptual Model.**
 
-### Academy of Management Review guidance
+Why:
 
-A theory paper should explain:
+- **Theory adaptation** — established theories of access, navigation, and continuity already explain much of the generic service-access problem. This project adapts them to the transition into marriage and early family life.
+- **Theory synthesis** — the paper connects demographic change, relationship education, reproductive health, safeguarding, faith-based premarital systems, family navigation, and service integration.
+- **Conceptual model** — the intended contribution is a testable architecture linking entry conditions, temporal fit, safe-space access, institutional legitimacy, re-entry, referral continuity, and family-support outcomes.
 
-- **what** the relevant constructs are,
-- **how** they relate,
-- **why** those relationships should occur,
-- **when** the proposed relationships should or should not hold.
+## Theory-paper requirement
+
+The paper must answer:
+
+- **what** are the relevant constructs?
+- **how** do they relate?
+- **why** should those relationships occur?
+- **when** should the proposed relationships hold or fail?
+- **what rival explanation could account for the same phenomenon?**
+- **what observation would weaken or falsify the model?**
 
 ## Required architecture
 
 ~~~text
-Phenomenon / problem
+Phenomenon / puzzle
     ↓
-What current framings explain
+Established theories
     ↓
-What they leave unresolved
+What those theories already explain
     ↓
-Hidden assumptions
+What remains unresolved in the marriage/family-transition context
     ↓
-New / revised constructs
+Adapted / focal constructs
     ↓
 Mechanisms
     ↓
@@ -61,23 +68,29 @@ Research programme
 
 ## Contribution standard
 
-The paper should not claim novelty merely because multiple literatures are placed side by side.
+Do not claim novelty merely because several literatures are placed side by side.
 
-A defensible conceptual contribution requires at least one of:
+A defensible contribution must reside in at least one of:
 
-- a construct not previously distinguished clearly,
-- a mechanism that reconciles previously separated findings,
-- a new relation among established constructs,
+- a new contextual adaptation that changes theoretical predictions,
+- a newly specified mechanism,
+- a new configuration of established constructs,
 - a boundary condition that explains heterogeneity,
-- a model that reorganizes how the phenomenon is studied,
+- a new relation among established constructs,
+- a model that changes the unit of analysis,
 - propositions that can be empirically challenged.
 
-## Current design choice
+## Current working contribution
 
-**Working design:** Theory Synthesis + Conceptual Model.
+The paper does **not** claim to invent access, navigation, continuity, or family navigation.
 
-**Working phenomenon:** Existing premarital/family-related services may be present yet functionally difficult to access across time, institutions, and risk contexts.
+It proposes a **Family-Transition Gateway Model** in which an existing premarital touchpoint becomes a safe, temporally adaptive, culturally legitimate, and re-enterable gateway into wider family support.
 
-**Working theoretical contribution:** Reframe premarital preparation from a one-time educational event into a **safe, temporally adaptive, culturally legitimate, re-enterable access architecture** for family support.
+The strongest candidate additions are:
 
-This is a working theoretical direction, not yet a validated theory.
+1. **rapid vs planned preparation** as a temporal bifurcation;
+2. **couple vs private safe-space access** as a safety bifurcation;
+3. **core + extension through trusted Islamic/Christian and other institutional nodes**;
+4. **persistent re-entry anchored to the premarital gateway across later family-life events**.
+
+This remains a working theoretical model, not a validated theory.
