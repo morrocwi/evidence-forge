@@ -207,7 +207,7 @@ Economic evaluation shows some components are irrelevant or materially double-co
 
 ---
 
-## M6 — Faith/community institutions can be delivery or contact sites, but trust-to-uptake causality is not established
+## M6 — Cultural/community institutions can be delivery or contact sites, but cultural legitimacy-to-uptake causality is not established
 
 **Sources**
 
@@ -220,18 +220,18 @@ Economic evaluation shows some components are irrelevant or materially double-co
 
 **Direct support**
 
-Faith institutions have been used as health-promotion settings and can reach communities. Singapore demonstrates that Muslim religious marriage officials can provide pre/post-marriage contact and referral to national agencies.
+Faith institutions have been used as health-promotion settings and can reach communities. They should be interpreted here as one subset of culturally embedded community institutions. Singapore demonstrates that Muslim religious marriage officials can provide pre/post-marriage contact and referral to national agencies.
 
 **Does not support**
 
-- that religious trust automatically improves service uptake;
-- that mosque/church delivery is preferable to secular entry;
+- that cultural or religious familiarity automatically improves service uptake;
+- that any one cultural node is preferable to secular or other community entry points;
 - that the Singapore design causes better marriage or child outcomes;
-- that Christian and Muslim systems function identically.
+- that members of one cultural or religious community hold uniform family meanings.
 
 **Revised claim**
 
-Treat religious/community institutions as **candidate existing entry points** whose reach, trust, safety and referral performance must be measured locally.
+Treat cultural/community institutions—including faith-based institutions—as **candidate existing entry points** whose reach, cultural legibility, trust, safety, autonomy and referral performance must be measured locally.
 
 **Falsifier**
 
@@ -495,7 +495,7 @@ TimingSensitiveSupport
 | CHW/community navigation can improve service use | moderate |
 | CHW/community delivery is cost-effective | moderate, domain-dependent |
 | warm referral > signposting | limited |
-| faith-based node improves uptake | open |
+| culturally embedded node improves uptake | open |
 | post-marriage re-entry improves outcomes | open |
 | urgent vs planned marriage preparation requires different pathways | open |
 | targeted intensity cheaper/better than universal high intensity | open |
@@ -513,3 +513,74 @@ TimingSensitiveSupport
 5. Do not claim community workers are inherently cheap; cost, affordability, supervision and equity must be measured.
 6. Keep the “edges before nodes” rule as a **diagnostic sequence**, not a proven economic theorem.
 7. Preserve child well-being and caregiver well-being as endpoints because their evidence base is substantially stronger than the direct fertility link.
+
+
+---
+
+## M15 — Culture shapes fertility, reproductive agency and care preferences; culture must not be reduced to religion
+
+**Sources**
+
+- Debavalya N, Chongvatana N. *Interrelationship of culture and fertility: a review of Thai experience* (1981).
+- UNFPA. *State of World Population 2025: The Real Fertility Crisis*.
+- Ouahid H et al. *The influence of gender norms on women's sexual and reproductive health outcomes: a systematic review* (2025).
+- *Realization of Short-Term Fertility Intentions in a Comparative Perspective: Which Macro-Level Conditions Matter?* (2024).
+- WHO materials on respectful, person-centred maternal care and positive experiences of care.
+- Review literature on relationships and meaning in life.
+
+**Direct support**
+
+- Fertility and reproductive behaviour are shaped by family systems, kinship, social and gender norms, regional/subcultural differences, and meanings attached to family size and childbearing.
+- Cross-national fertility intentions and their realization vary with normative systems, including gender roles, partnership/family forms, desired family size and expected timing of family events.
+- Cultural and gender norms can either support or constrain reproductive autonomy and healthcare access.
+- WHO person-centred care explicitly emphasizes respect for people's values, preferences, beliefs and sociocultural expectations.
+- Meaning in life is associated with well-being, while the strength and form of that relationship can vary across cultural contexts.
+
+**Important non-collapse rules**
+
+\[
+Culture \neq Religion
+\]
+
+\[
+CulturalFit \neq CulturalConformity
+\]
+
+\[
+RespectForCulture \neq PreserveCoerciveNorms
+\]
+
+\[
+CommunityNorms \neq IndividualMeaning
+\]
+
+**Implication**
+
+The proposal should model culture as a contextual and meaning-bearing variable, not as a religious checkbox.
+
+Relevant dimensions include:
+
+- language;
+- kinship;
+- family and gender norms;
+- meanings attached to marriage, children and caregiving;
+- ritual/belief;
+- migration history;
+- place;
+- class;
+- generation;
+- identity and belonging.
+
+**Boundary**
+
+Cultural adaptation must remain constrained by safety, autonomy and informed choice. A culturally familiar practice is not automatically beneficial.
+
+**Observable implication**
+
+The same service design may differ in uptake, perceived legitimacy, meaning, and referral completion across communities—and within the same community.
+
+**Falsifier**
+
+If cultural/meaning variables add no explanatory value after structural and economic conditions are accounted for, they should be simplified or removed from the model.
+
+**Status: Strong that culture/norms matter; open regarding the exact operational model**
