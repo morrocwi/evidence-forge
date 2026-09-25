@@ -1,143 +1,70 @@
-# Thailand family transition — Conceptual Paper
+# Thailand family transition — conceptual paper workspace
 
-## Genre
+## Current working direction
 
-**Conceptual / Theory-Building Paper**
+The project is being developed as a **conceptual paper grounded in equations, structured literature search, and claim-level evidence control**.
 
-Working design: **Theory Synthesis + Conceptual Model**.
+The paper will not introduce a branded theory name or acronym. It will present the problem, equations, evidence, limits and implications directly.
 
-The project no longer treats the literature review as the final product. Evidence is now used to build, challenge, and delimit a theoretical model.
+## Current sequence
 
-## Core theoretical puzzle
+\`\`\`text
+1. Reconstruct the demographic/family problem
+2. Reconstruct policy approaches already used internationally
+3. Express the implicit policy logic mathematically
+4. Identify collapsed variables and hidden transitions
+5. Use Toledo non-collapse constraints to reopen the system
+6. Write the expanded equation system
+7. Attack every term with global citations
+8. Retain contradictory evidence and boundary conditions
+9. Only then translate into ordinary social-science / humanities language
+\`\`\`
 
-~~~text
-SERVICE AVAILABILITY
-        ≠
-FUNCTIONAL FAMILY-SUPPORT ACCESS
-~~~
+## Core non-collapse spine
 
-Thailand already contains multiple family-related systems. The conceptual question is why these services may remain difficult to use continuously across time, institutions, and risk contexts.
+\`\`\`text
+Policy supply
+    ≠
+Effective access
+    ≠
+Family capability
+    ≠
+Realized family opportunity
+    ≠
+Population fertility
+\`\`\`
 
-## Proposed reframing
+## Required distinctions
 
-~~~text
-premarital course
-        ↓
-trusted family-support gateway
-        ↓
-safe + temporally adaptive + re-enterable architecture
-~~~
+- **พื้นที่ปลอดภัย / safe space** must be explicit.
+- Shared couple access must be distinguished from confidential individual access.
+- Urgent/rapid marriage preparation must be distinguished from planned/non-urgent preparation.
+- Existing Islamic and Christian premarital systems should be examined as existing institutional assets, not erased or replaced automatically.
+- Religious, health, civil, community and digital systems may keep different core functions while sharing navigation/referral interfaces.
+- Course completion is not treated as equivalent to family readiness.
+- Relationship persistence is not treated as equivalent to safety.
+- Formal service availability is not treated as equivalent to real access.
+- Fertility is not treated as equivalent to family well-being or child development.
 
-## Core constructs
+## Evidence workflow
 
-- Structural Service Availability
-- Entry Burden
-- Temporal Fit
-- Navigation Literacy
-- **Safe-Space Accessibility — พื้นที่ปลอดภัย**
-- Cultural / Institutional Legitimacy
-- Referral Continuity
-- Persistent Re-entry
-- Modular Relevance
-- Functional Family-Support Access
-- Family Readiness
-- Service Fragmentation
+\`\`\`text
+Structured search
+→ integrative synthesis
+→ claim–evidence matrix
+→ backward/forward citation chaining
+→ claim-level citation audit
+→ counterevidence / boundary audit
+\`\`\`
 
-## Core architecture
+No PRISMA claim unless the project is actually conducted as a systematic review.
 
-~~~text
-TRUSTED ENTRY NODE
-civil / health / Islamic / Christian / family / digital
-                    |
-                    v
-             UNIVERSAL CORE
-                    |
-        +-----------+-----------+
-        |                       |
-        v                       v
- RAPID PATHWAY            PLANNED PATHWAY
- urgent marriage          non-urgent preparation
-        |                       |
-        +-----------+-----------+
-                    |
-                    v
-             PERSISTENT RE-ENTRY
-                    |
-       +------------+------------+
-       |                         |
-       v                         v
-COUPLE CHANNEL          PRIVATE SAFE-SPACE CHANNEL
-       |                         |
-       +------------+------------+
-                    |
-                    v
-          NAVIGATION + REFERRAL
-~~~
+## Key files
 
-## Religious-system principle
-
-Do not replace existing Islamic or Christian premarital systems.
-
-Use **core + extension**:
-
-- preserve faith-specific meaning and content,
-- add or strengthen navigation,
-- reproductive/preconception referral,
-- mental-health literacy,
-- coercion/violence recognition,
-- **พื้นที่ปลอดภัย / safe space**,
-- confidential individual access,
-- post-marriage re-entry,
-- professional referral.
-
-Faith leaders remain faith/community nodes, not substitutes for physicians, therapists, violence specialists, or lawyers.
-
-## Two-speed principle
-
-### Rapid pathway
-For urgent marriage timelines.
-
-Goal: **minimum safe and informed readiness**, not a compressed long course.
-
-### Planned pathway
-For couples with preparation time.
-
-Goal: deeper modular learning, skills practice, counselling, and referral where needed.
-
-## Evidence discipline
-
-Every statement must remain distinguishable as:
-
-- evidence
-- synthesis
-- assumption
-- construct
-- mechanism
-- proposition
-- boundary condition
-- rival explanation
-- research implication
-
-## Guardrails
-
-- Do not claim premarital education increases TFR without direct evidence.
-- Do not use divorce reduction as a standalone success indicator.
-- Relationship stability is not equivalent to safety.
-- Keep **พื้นที่ปลอดภัย / safe space** explicit in architecture and outcome design.
-- Do not force a long-course model on urgent couples.
-- Do not assume one religious or secular entry node is appropriate for everyone.
-- Do not confuse service existence with functional access.
-- Do not convert conceptual propositions into established findings.
-- Faith leaders are not substitutes for specialist services.
-
-## Key project files
-
-- `conceptual/conceptual-core.md`
-- `conceptual/constructs.md`
-- `conceptual/model.md`
-- `conceptual/propositions.md`
-- `conceptual/boundary-conditions.md`
-- `conceptual/rival-explanations.md`
-- `conceptual/research-programme.md`
-- `manuscript/conceptual-outline.md`
-- `section-evidence-map.md`
+- \`math/equation-first-reconstruction.md\` — main technical file
+- \`method/citation-and-evidence-workflow.md\` — evidence-control method
+- \`conceptual/constructs.md\` — working variables and distinctions
+- \`conceptual/boundary-conditions.md\` — limits
+- \`conceptual/rival-explanations.md\` — competing explanations
+- \`section-evidence-map.md\` — evidence-to-section control
+- \`claims/registry.yaml\` — claim provenance
