@@ -1,5 +1,11 @@
 # Conceptual paper outline
 
+## Focal object
+
+The primary object of study is **premarital**: the period before marriage, premarital preparation, premarital services, and the conditions under which people can convert available support into safe and meaningful family capability.
+
+The wider life course, fertility, parenting and child development are downstream contexts/outcomes used to test the significance of the premarital period. They are not co-equal objects of study.
+
 ## 1. The population and family problem
 
 Begin with low fertility, ageing, family burden and child/human-development concerns.
@@ -82,14 +88,20 @@ Specify:
 - child/human capability
 - population fertility
 
-## 7. Marriage preparation under two time horizons
+## 7. Premarital temporal feasibility
 
-Separate:
+Treat the premarital period as the focal intervention window.
 
-- urgent/rapid preparation
-- planned/non-urgent preparation
+Do not reduce timing to a fixed urgent/non-urgent binary. Examine:
 
-Do not assume one fixed course duration fits both.
+- time available before marriage;
+- work and care burden;
+- stress and travel;
+- programme effort;
+- which premarital functions cannot safely be deferred;
+- which deeper modules can occur later.
+
+Do not assume one fixed course duration fits all couples.
 
 ## 8. พื้นที่ปลอดภัย
 
@@ -104,20 +116,20 @@ Define operationally:
 
 Explain why a couple-only pathway is insufficient in some cases.
 
-## 9. Existing Islamic and Christian systems
+## 9. Existing premarital systems in cultural context
 
-Describe what already exists.
+Describe existing premarital systems across civil, health, community, cultural and faith-based settings.
 
 Then examine how existing systems could:
 
-- preserve their own religious/pastoral core;
+- preserve their own legitimate core;
 - connect to health and reproductive care;
 - recognise mental-health and safety needs;
-- provide or signpost confidential access;
+- provide or signpost confidential/private access;
 - refer outside their own scope;
-- allow re-entry after marriage.
+- preserve a route back after marriage.
 
-Do not describe this as replacing faith-based preparation.
+Religious systems remain important cases within the broader cultural ecology rather than the master category.
 
 ## 10. Competing explanations
 
