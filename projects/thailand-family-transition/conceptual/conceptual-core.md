@@ -1,84 +1,86 @@
 # Conceptual core
 
+## Working model name
+
+**Family-Transition Gateway Model (FTGM)** — provisional.
+
 ## Working title
 
-**From Premarital Course to Family-Support Architecture: A Conceptual Model for Safe, Temporally Adaptive, and Re-Enterable Support**
+**From Premarital Course to Family-Transition Gateway: A Conceptual Model for Safe, Temporally Adaptive, and Re-Enterable Family Support**
 
 Thai working title:
 
-**จากหลักสูตรก่อนสมรสสู่สถาปัตยกรรมสนับสนุนครอบครัว: แบบจำลองเชิงแนวคิดของระบบที่ปลอดภัย ยืดหยุ่นตามเวลา และกลับเข้าถึงได้ตลอดช่วงชีวิต**
+**จากหลักสูตรก่อนสมรสสู่ประตูเชื่อมการเปลี่ยนผ่านสู่ครอบครัว: แบบจำลองเชิงแนวคิดของระบบสนับสนุนที่ปลอดภัย ยืดหยุ่นตามเวลา และกลับเข้าถึงได้**
 
-Title remains provisional.
+## What is established and therefore not claimed as new
 
-## Phenomenon
+The paper accepts established theory that:
 
-Thailand has multiple institutions that touch family formation and family life:
+- service availability is not identical to access;
+- access depends on fit between users and systems;
+- fragmented systems create navigation problems;
+- continuity matters across providers and organizations;
+- family-navigation models already exist.
+
+The theoretical contribution must therefore be narrower.
+
+## Focal phenomenon
+
+The transition into marriage creates a distinctive service opportunity because several systems may already contact people at or near that point:
 
 - civil registration
 - public health and preconception care
 - Islamic premarital / nikah preparation
 - Christian premarital / pastoral preparation
 - family-development services
-- mental-health services
-- violence-response services
-- fertility and infertility services
-- parenting and child-development services
+- digital services
 
-The theoretical problem is not simply whether these services exist.
+The conceptual puzzle is:
 
-The proposed problem is the distinction between:
+> How can a one-time premarital contact become a durable gateway to family support without becoming a burdensome universal course or erasing existing institutional identities?
 
-~~~text
-SERVICE AVAILABILITY
-        ≠
-EFFECTIVE FAMILY-SUPPORT ACCESS
-~~~
+## Four candidate theoretical extensions
 
-A service can exist institutionally while remaining difficult to discover, unsafe to use privately, mismatched to the user's timing, disconnected from the next service, or inaccessible after the original premarital contact.
-
-## Hidden assumptions to challenge
-
-### Assumption A — premarital preparation is a one-time course
-
-This assumes that relevant knowledge can be delivered before marriage and retained until later life events.
-
-### Assumption B — all couples have similar preparation time
-
-This ignores urgent / rapid marriage timelines.
-
-### Assumption C — couple-facing access is sufficient
-
-This fails when disclosure to the partner may be unsafe.
-
-### Assumption D — more content or more hours necessarily means better preparation
-
-Programme evidence is heterogeneous and not all outcomes improve uniformly.
-
-### Assumption E — existing religious systems must be replaced to modernize premarital preparation
-
-In Thailand, Islamic and Christian premarital systems can instead be treated as trusted institutional entry nodes.
-
-### Assumption F — successful preparation means relationship persistence
-
-Safety evidence requires separating relationship stability from safety.
-
-## Reframing
-
-The focal object is changed from:
+### 1. Temporal bifurcation
 
 ~~~text
-PREMARITAL COURSE
+Rapid / urgent marriage preparation
+vs
+Planned / non-urgent preparation
 ~~~
 
-to:
+The model predicts that useful preparation depends on **temporal fit**, not duration alone.
+
+### 2. Safety bifurcation
 
 ~~~text
-FAMILY-SUPPORT ACCESS ARCHITECTURE
+Shared couple channel
+vs
+Private confidential safe-space channel
 ~~~
 
-Premarital contact becomes a **gateway**, not an endpoint.
+**พื้นที่ปลอดภัย / safe space** is treated as a structural access condition, not merely a supportive atmosphere.
 
-## Proposed architecture
+### 3. Institutional core + extension
+
+Existing Islamic, Christian, health, civil, and community systems retain their own legitimate core functions while adding cross-cutting navigation, safety, referral, and re-entry functions.
+
+### 4. Premarital gateway + persistent re-entry
+
+The premarital encounter does not have to contain every future topic.
+
+It creates an access relationship that can later be reactivated for:
+
+- fertility
+- infertility
+- pregnancy
+- parenting
+- conflict
+- mental health
+- violence/coercion
+- separation
+
+## Architecture
 
 ~~~text
 TRUSTED ENTRY NODE
@@ -91,17 +93,17 @@ TRUSTED ENTRY NODE
         |                       |
         v                       v
  RAPID PATHWAY            PLANNED PATHWAY
- urgent timeline          time for deeper preparation
+ urgent timeline          deeper preparation
         |                       |
         +-----------+-----------+
                     |
                     v
-        PERSISTENT RE-ENTRY ACCESS
+             PERSISTENT RE-ENTRY
                     |
         +-----------+-----------+
         |                       |
         v                       v
-  SHARED COUPLE CHANNEL    PRIVATE SAFE-SPACE CHANNEL
+ SHARED COUPLE CHANNEL    PRIVATE SAFE-SPACE CHANNEL
         |                       |
         +-----------+-----------+
                     |
@@ -113,8 +115,8 @@ TRUSTED ENTRY NODE
  violence / parenting / legal-social support
 ~~~
 
-## Theoretical claim in one sentence
+## Central theoretical statement
 
-The effectiveness of premarital preparation may depend less on the amount of information delivered at one point in time than on whether people can enter through a trusted low-burden node, receive preparation matched to their time horizon, access a **พื้นที่ปลอดภัย / safe space** privately when necessary, and re-enter a navigable referral system when later family needs emerge.
+Premarital preparation may create greater long-term family-support value when it functions as a **gateway** rather than a one-time information event: it should match the couple's time horizon, preserve trusted institutional legitimacy, make a private **พื้นที่ปลอดภัย** structurally accessible, and allow persistent re-entry into appropriate services as family needs change.
 
-This sentence is a **theoretical proposition**, not an empirical conclusion.
+This is a theoretical statement for testing, not an empirical conclusion.
