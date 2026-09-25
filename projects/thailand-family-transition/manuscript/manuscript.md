@@ -192,7 +192,9 @@ CulturalFit \neq CulturalConformity
 
 ประเทศไทยไม่ได้เริ่มจากศูนย์ งาน premarital counselling clinic ที่โรงพยาบาลจุฬาลงกรณ์รายงานการให้ medical counselling, sex education และ family planning counselling ตั้งแต่ข้อมูลช่วง พ.ศ. 2531–2541<sup>35</sup> แต่หลักฐานร่วมสมัยของไทยด้าน relationship, help-seeking, safety, parenting หรือ child outcomes ยังบาง
 
-ในระบบปัจจุบัน องค์ประกอบที่เกี่ยวข้องกับ premarital กระจายอยู่ใน civil registration, preconception/fertility services, family services, mental-health services, violence-response channels, community/digital systems และการเตรียมสมรสในระบบวัฒนธรรม/ศาสนา การมีหลายบริการจึงไม่เท่ากับการมี integrated pathway และยังควรทำ national mapping ก่อนสรุประดับประเทศ
+ในระบบปัจจุบัน ประเทศไทยมีองค์ประกอบที่อาจเชื่อมกับ premarital อยู่แล้วหลายจุด ตัวอย่างเช่น สำนักบริหารการทะเบียนมีระบบจดทะเบียนสมรสและข้อกำหนดด้านคุณสมบัติ/เอกสาร<sup>43</sup> กรมการแพทย์เผยแพร่แนวทางการจัดบริการคลินิกส่งเสริมการมีบุตร<sup>44</sup> กรมกิจการสตรีและสถาบันครอบครัวมีศูนย์พัฒนาครอบครัวในชุมชน (ศพค.) ในฐานะกลไกภาคประชาชนสำหรับการเฝ้าระวัง ป้องกัน แก้ปัญหา ให้คำแนะนำ และส่งเสริมการเรียนรู้แก่ครอบครัว<sup>45</sup> กรมสุขภาพจิตมีสายด่วน 1323 ให้คำปรึกษาปัญหาสุขภาพจิตตลอด 24 ชั่วโมงและระบุการรักษาความลับ<sup>46</sup> ขณะที่กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์มีสายด่วน 1300 และช่องทาง ESS Help Me สำหรับปัญหาสังคมและเหตุฉุกเฉิน<sup>47</sup>
+
+ตัวอย่างเหล่านี้ยืนยันว่าไทยไม่ได้ขาดทรัพยากรทุกด้าน แต่ **ยังไม่ใช่หลักฐานว่าบริการเหล่านี้ถูกเชื่อมเป็น integrated premarital pathway** การมีหลายบริการจึงไม่เท่ากับการมีระบบที่ผู้ใช้ค้นพบ เข้าใช้ ส่งต่อ และกลับมาใช้ใหม่ได้อย่างต่อเนื่อง และยังควรทำ national mapping ก่อนสรุประดับประเทศ
 
 \[
 Thailand \neq SingleCulturalContext
@@ -540,6 +542,16 @@ AppropriateSupport/Trajectory
 
 42. Kiely B, Croke A, O’Shea M, Boland F, O’Shea E, Connolly D, et al. Effect of social prescribing link workers on health outcomes and costs for adults in primary care and community settings: a systematic review. BMJ Open. 2022;12(10):e062951. doi:10.1136/bmjopen-2022-062951.
 
+43. สำนักบริหารการทะเบียน กรมการปกครอง. คู่มือทางการทะเบียน: การจดทะเบียนสมรส [อินเทอร์เน็ต]. กรุงเทพฯ: กรมการปกครอง; [สืบค้นเมื่อ 26 ก.ย. 2569]. Available from: https://www.bora.dopa.go.th/callcenter1548/guidebook (in Thai)
+
+44. กรมการแพทย์ กระทรวงสาธารณสุข. แนวทางการจัดบริการคลินิกส่งเสริมการมีบุตร [อินเทอร์เน็ต]. นนทบุรี: กรมการแพทย์; 1 พ.ค. 2567 [สืบค้นเมื่อ 26 ก.ย. 2569]. Available from: https://www.dms.go.th/Content/Select_Content_Grid_PDF?contentCategoryId=10 (in Thai)
+
+45. กรมกิจการสตรีและสถาบันครอบครัว. ศูนย์พัฒนาครอบครัวในชุมชน (ศพค.) [อินเทอร์เน็ต]. กรุงเทพฯ: กรมกิจการสตรีและสถาบันครอบครัว; 9 ม.ค. 2567 [สืบค้นเมื่อ 26 ก.ย. 2569]. Available from: https://www.dwf.go.th/contents/48879 (in Thai)
+
+46. กรมสุขภาพจิต กระทรวงสาธารณสุข. สายด่วนสุขภาพจิต 1323 [อินเทอร์เน็ต]. นนทบุรี: กรมสุขภาพจิต; [สืบค้นเมื่อ 26 ก.ย. 2569]. Available from: https://dmh.go.th/ (in Thai)
+
+47. สำนักงานปลัดกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์. คู่มือสำหรับประชาชน ประจำปีงบประมาณ พ.ศ. 2569: ช่องทางศูนย์ช่วยเหลือสังคม สายด่วน 1300 และ ESS Help Me [อินเทอร์เน็ต]. กรุงเทพฯ: กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์; 2569 [สืบค้นเมื่อ 26 ก.ย. 2569]. Available from: https://psdg.m-society.go.th/ (in Thai)
+
 ---
 
 ## Editorial notes before submission (v1.3)
@@ -547,7 +559,7 @@ AppropriateSupport/Trajectory
 1. English abstract structural count ≈276 words: within the current 350-word ceiling.
 2. Keywords = 5: within the current journal ceiling.
 3. Main structure compressed to 10 sections; manuscript body has been substantially reduced from v1.2.
-4. In-text citations use superscript Vancouver numbering and all references 1–42 are currently cited.
+4. In-text citations use superscript Vancouver numbering and all references 1–47 are currently cited.
 5. Bibliographic metadata/DOIs have undergone a first reference-by-reference audit; official web sources require a final access-date check on submission day.
 6. References in Thai are marked "(in Thai)."
 7. Formal word count must still be confirmed in the final .docx because Thai word segmentation can differ across software; current journal ceiling for Academic Article/Review is 8,000 words including tables and references.
