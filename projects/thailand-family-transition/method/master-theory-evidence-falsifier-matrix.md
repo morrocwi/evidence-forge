@@ -310,3 +310,30 @@ DoesNotClaimEmpiricalEffect
 Anything else remains in the development repository but does not enter the final paper.
 
 This keeps the internal reasoning system broader than the submitted manuscript.
+
+
+---
+
+# P. Round-3 adjudication update
+
+Evidence Attack Round 3 materially narrows five previously surviving relations.
+
+| ID | Prior working claim | Round-3 adjudication |
+|---|---|---|
+| P1 | family-transition contact → later support access | **Narrow:** premarital education is associated with later relationship-counselling use, but causality and extension to wider family services remain open |
+| P2 | minimum sufficient rapid core | **Downgrade:** no empirically established minimum package; replace with a test of **minimum non-deferrable functions** |
+| P3 | shared couple + private individual channel | **Strengthen but bound:** private individual access has strong safeguarding support in IPV/reproductive-coercion care; premarital dual-channel effectiveness still requires direct testing |
+| P4 | known return route + triggered contact | **Split:** user-initiated return, transition-triggered offer and periodic checkup are different mechanisms; evidence supports continuity/repeated contact, not yet the proposed low-cost triggered model |
+| P5 | edge/node/capacity decision rule | **Expand:** include availability, connectivity, capacity, quality and governance; classification remains a diagnostic proposition rather than a validated family-service algorithm |
+
+## New kill priority
+
+The architecture now fails if it cannot demonstrate at least one of the following problem-specific gains beyond imported parent frameworks:
+
+1. a causal transition-contact gateway to later **appropriate** help-seeking;
+2. an empirically defensible rule for what can safely be deferred under low temporal feasibility;
+3. measurable safety/access gain from a private route alongside shared couple contact;
+4. superior value of triggered/user-initiated return over periodic follow-up for at least some populations;
+5. predictive validity of bottleneck diagnosis for selecting edge/node/capacity/governance/hybrid investment.
+
+If none of these survives prospective testing, the conceptual paper should be reframed as an integrative application of established frameworks rather than a distinct theoretical architecture.
