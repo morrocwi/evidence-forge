@@ -1,101 +1,103 @@
-# ก่อนสมรสในฐานะจุดแปลงต้นน้ำของระบบครอบครัว  
-## จากบทเรียนสิงคโปร์สู่กรอบการเข้าถึงที่ปลอดภัย มีความหมาย และต่อเนื่องสำหรับประเทศไทย
+# ก่อนสมรสในฐานะพื้นที่ต้นน้ำของโอกาสครอบครัว  
+## การเข้าถึง ความปลอดภัย วัฒนธรรม และความต่อเนื่องของระบบสนับสนุนในสังคมเกิดน้อย: จากบทเรียนสิงคโปร์สู่กรอบสำหรับประเทศไทย
 
-**ประเภทบทความ:** บทความเชิงแนวคิด (Conceptual Paper)  
-**สถานะ:** Working Manuscript v0.1  
-**วัตถุหลักของการศึกษา:** Premarital — ช่วงก่อนสมรส บริการก่อนสมรส การเตรียมความพร้อมก่อนสมรส และเงื่อนไขที่ทำให้บุคคล/คู่สามารถเปลี่ยนทรัพยากรที่มีอยู่ให้เป็นศักยภาพในการเริ่มต้นชีวิตครอบครัว
+**Premarital as an Upstream Site of Family Opportunity: Access, Safety, Culture, and Continuity in a Low-Fertility Society—From Singapore’s Institutional Precedent to a Thai Conceptual Framework**
 
----
-
-## บทคัดย่อ
-
-ประเทศไทยกำลังเผชิญภาวะเกิดน้อยอย่างต่อเนื่อง ขณะเดียวกันข้อเสนอเชิงนโยบายร่วมสมัยเริ่มขยับจากการเพิ่มจำนวนการเกิดเพียงอย่างเดียวไปสู่การลงทุนในคุณภาพคนและการสร้างระบบนิเวศที่เอื้อต่อครอบครัว บทความนี้เสนอว่า “ช่วงก่อนสมรส” หรือ premarital ควรถูกพิจารณาในฐานะจุดต้นน้ำที่มีศักยภาพในการเชื่อมบุคคลและคู่เข้าสู่ทรัพยากรด้านครอบครัว สุขภาพ ความปลอดภัย และการพัฒนาเด็กที่กระจายอยู่ในหลายระบบ มากกว่าจะถูกจำกัดความเป็นเพียงหลักสูตรเตรียมแต่งงาน
-
-สิงคโปร์ถูกใช้เป็นตัวอย่างสำคัญของประเทศที่เชื่อมมาตรการ Marriage & Parenthood เข้ากับ housing, leave, childcare, financial support, fertility support และ marriage preparation และในระบบมุสลิมยังมี Bersamamu ซึ่งเริ่มการติดต่อกับ Kadi/Naib Kadi ก่อนพิธีสมรสและดำเนินต่อในช่วงสองปีแรกของชีวิตคู่ อย่างไรก็ตาม บทความนี้ไม่ถือว่าสิงคโปร์เป็นปลายทางของแบบจำลอง แต่ใช้เป็น “institutional precedent” เพื่อถามต่อว่า การมีบริการจำนวนมากและมี continuity บางรูปแบบเพียงพอหรือไม่ หากยังมีช่องว่างระหว่างการมีทรัพยากรกับการที่ผู้คนสามารถใช้ทรัพยากรนั้นได้จริง
-
-บทความสังเคราะห์ Capability Approach, access-to-care, administrative burden, life-course perspective, family stress, nurturing care, integrated people-centred services, network governance, cultural adaptation และ phenomenology เพื่อเสนอแกนวิเคราะห์ที่เล็กลงว่า ทรัพยากรเชิงโครงสร้างต้องผ่าน “เงื่อนไขการแปลง” ก่อนจะกลายเป็นศักยภาพของครอบครัว ได้แก่ การเข้าถึงที่ใช้ได้จริง ความเป็นไปได้ด้านเวลา ความปลอดภัยและอำนาจตัดสินใจ และความหมายทางวัฒนธรรม จากนั้นจึงเคลื่อนไปสู่ trajectory ของชีวิตครอบครัวและผลลัพธ์ด้านความปลอดภัย คุณภาพชีวิตครอบครัว สุขภาวะผู้ดูแล เงื่อนไขการเลี้ยงดูเด็ก และความเสมอภาค โดยให้ fertility เป็นผลลัพธ์ระดับประชากรที่อยู่ปลายทางและไม่เท่ากับความสำเร็จของครอบครัว
-
-สำหรับประเทศไทย บทความเสนอให้ทดสอบ premarital ในฐานะ “low-burden access window” ผ่านสี่โจทย์สำคัญ ได้แก่ (1) อะไรคือหน้าที่ที่ไม่ควรถูกเลื่อนออกไปเมื่อผู้ใช้มีเวลาน้อย (2) ระบบควรมีทั้งช่องทางร่วมของคู่และช่องทางส่วนตัวที่ปลอดภัยหรือไม่ (3) ควรออกแบบเส้นทางกลับเข้าสู่ความช่วยเหลือหลังสมรสอย่างไร และ (4) การส่งต่อควรคำนึงถึงความพร้อมของบริการปลายทาง คุณภาพ ความจุ และ governance อย่างไร กรอบนี้ไม่ได้เสนอหลักสูตรมาตรฐานเดียวสำหรับทุกวัฒนธรรม และไม่ได้อ้างว่าการแทรกแซงก่อนสมรสจะเพิ่มอัตราเจริญพันธุ์โดยตรง แต่เสนอให้ทดสอบว่า premarital สามารถเป็นจุดเชื่อมต้นน้ำที่ช่วยให้ทรัพยากรที่มีอยู่แล้วกลายเป็นโอกาสจริงของครอบครัวและเด็กได้มากขึ้นหรือไม่
-
-**คำสำคัญ:** premarital, ครอบครัว, เด็กเกิดน้อย, การเข้าถึงบริการ, วัฒนธรรม, ความปลอดภัย, capability, civil society, child well-being
+**ประเภทบทความ:** บทความวิชาการเชิงแนวคิด (Academic / Conceptual Article)  
+**รูปแบบ:** จัดตามโครงบทความวิชาการของ Nursing Science Journal of Thailand, Faculty of Nursing, Mahidol University  
+**สถานะ:** Full Working Manuscript v1.1  
+**วัตถุหลัก:** Premarital — ช่วงก่อนสมรสในฐานะช่วงเวลา พื้นที่ทางสังคม และพื้นที่บริการที่บุคคลหรือคู่กำลังเปลี่ยนผ่านเข้าสู่ชีวิตครอบครัว
 
 ---
 
-# 1. บทนำ: จาก “เด็กเกิดน้อย” ไปสู่คำถามว่าครอบครัวสามารถเริ่มต้นชีวิตได้อย่างไร
+## Title Page
 
-รายงานสถานการณ์ประชากรไทยปี 2569 ของสถาบันวิจัยประชากรและสังคม มหาวิทยาลัยมหิดล ระบุว่าในปี 2568 ประเทศไทยมีเด็กเกิด 416,574 คน และมีผู้เสียชีวิต 559,684 คน ทำให้อัตราเพิ่มประชากรติดลบเป็นปีที่ห้าติดต่อกัน รายงานฉบับเดียวกันยังเสนอให้การรับมือกับวิกฤตประชากรก้าวพ้นมาตรการระยะสั้น ไปสู่การลงทุนในคุณภาพคนตั้งแต่ปฐมวัยและการสร้างระบบนิเวศที่เอื้อต่อครอบครัวอย่างต่อเนื่อง (สถาบันวิจัยประชากรและสังคม มหาวิทยาลัยมหิดล, 2569)
+**ชื่อเรื่องภาษาไทย:** ก่อนสมรสในฐานะพื้นที่ต้นน้ำของโอกาสครอบครัว: การเข้าถึง ความปลอดภัย วัฒนธรรม และความต่อเนื่องของระบบสนับสนุนในสังคมเกิดน้อย จากบทเรียนสิงคโปร์สู่กรอบสำหรับประเทศไทย
 
-การขยับกรอบจาก “จำนวนเด็กเกิด” ไปสู่ “คุณภาพชีวิตของคนและครอบครัว” มีนัยสำคัญ เพราะจำนวนการเกิดเป็นผลลัพธ์ระดับประชากรที่เกิดจากหลายชั้นของเงื่อนไข ทั้งเศรษฐกิจ ที่อยู่อาศัย งาน การดูแลเด็ก สุขภาพ การมีบุตรยาก บรรทัดฐานทางสังคม ความสัมพันธ์ และความหมายที่บุคคลให้กับชีวิตครอบครัว การมีนโยบายหรือบริการจำนวนมากจึงไม่ได้แปลโดยอัตโนมัติว่าผู้คนสามารถเปลี่ยนทรัพยากรเหล่านั้นให้เป็นทางเลือกที่มีความหมายและเป็นไปได้จริงในชีวิต
+**English title:** Premarital as an Upstream Site of Family Opportunity: Access, Safety, Culture, and Continuity in a Low-Fertility Society—From Singapore’s Institutional Precedent to a Thai Conceptual Framework
 
-บทความนี้สนใจช่วงหนึ่งโดยเฉพาะ คือ **premarital** หรือช่วงก่อนสมรส
-
-Premarital ในที่นี้ไม่ได้หมายถึง “หลักสูตรก่อนแต่งงาน” เท่านั้น แต่ครอบคลุมช่วงเวลาที่บุคคลหรือคู่กำลังตัดสินใจ เตรียมตัว และเข้าสู่สถาบันครอบครัว ซึ่งอาจเกี่ยวข้องกับบริการทะเบียนสมรส การตรวจสุขภาพก่อนสมรสหรือก่อนตั้งครรภ์ การเตรียมความสัมพันธ์ การให้คำปรึกษา ศาสนาและวัฒนธรรม ระบบชุมชน การวางแผนการเงิน และการขอความช่วยเหลือด้านความปลอดภัย
-
-เหตุผลที่ช่วงนี้น่าสนใจไม่ใช่เพราะสมมติว่าคู่ทุกคู่จะมีบุตร หรือเพราะถือว่าการสมรสเป็นเส้นทางชีวิตที่ทุกคนต้องเลือก แต่เพราะสำหรับคนจำนวนหนึ่ง นี่เป็นช่วงที่หลายระบบมี “contact point” กับบุคคลหรือคู่ก่อนที่ภาระของการตั้งครรภ์ การเลี้ยงดูเด็ก ความขัดแย้ง หรือวิกฤตครอบครัวจะเกิดขึ้นเต็มรูปแบบ
-
-คำถามของบทความจึงไม่ใช่
-
-> เราควรสร้างหลักสูตรก่อนสมรสที่ยาวและครอบคลุมทุกเรื่องหรือไม่
-
-แต่คือ
-
-> ช่วงก่อนสมรสสามารถทำหน้าที่เป็นจุดเชื่อมต้นน้ำที่มีภาระต่ำ ปลอดภัย สอดคล้องกับความหมายทางวัฒนธรรม และเชื่อมต่อกับระบบช่วยเหลือที่มีอยู่แล้วได้หรือไม่
+**ผู้เขียน:** [ใส่ชื่อผู้เขียน]  
+**สังกัด:** [ใส่สังกัด]  
+**Corresponding author:** [ใส่อีเมล / โทรศัพท์]  
+**Funding:** [ระบุเมื่อพร้อม]
 
 ---
 
-# 2. ทำไมต้องเริ่มจาก premarital
+# บทคัดย่อ
 
-การเริ่มต้นจาก premarital มีข้อได้เปรียบเชิงแนวคิดสามประการ
+**วัตถุประสงค์:** บทความนี้มุ่งวิเคราะห์ “ช่วงก่อนสมรส” หรือ premarital ในฐานะพื้นที่ต้นน้ำของการสร้างครอบครัว โดยถามว่าช่วงดังกล่าวสามารถทำหน้าที่เป็นจุดเชื่อมระหว่างบุคคล/คู่กับทรัพยากรด้านความสัมพันธ์ สุขภาพก่อนตั้งครรภ์ สุขภาพจิต ความปลอดภัย การช่วยเหลือทางสังคม และระบบพัฒนาเด็กได้เพียงใด ในบริบทที่ประเทศไทยกำลังเผชิญภาวะเกิดน้อยและสังคมสูงวัย
 
-ประการแรก ช่วงก่อนสมรสอยู่ก่อนเหตุการณ์สำคัญหลายอย่างของชีวิตครอบครัว เช่น การอยู่ร่วมกันอย่างเป็นทางการ การวางแผนการเงินร่วม การตัดสินใจมีหรือไม่มีบุตร การตั้งครรภ์ การเปลี่ยนบทบาทการดูแล และการเข้าสู่เครือญาติใหม่ การแทรกแซงในช่วงนี้จึงมีลักษณะ “ต้นน้ำ” มากกว่าการรอให้ปัญหาเกิดเต็มรูปแบบ
+**รูปแบบบทความ:** บทความวิชาการเชิงแนวคิดที่ใช้การสังเคราะห์วรรณกรรมเชิงบูรณาการและเชิงทฤษฎี
 
-ประการที่สอง premarital เป็นช่วงที่ระบบต่าง ๆ อาจมี contact point อยู่แล้ว เช่น สำนักทะเบียน คลินิก preconception หรือ family planning องค์กรชุมชน ระบบศาสนา/วัฒนธรรม ผู้ให้คำปรึกษา หรือบริการดิจิทัล ดังนั้นคำถามเชิงนโยบายอาจไม่ใช่การสร้างสถาบันใหม่เสมอไป แต่อาจเป็นการทำให้ contact point ที่มีอยู่ทำหน้าที่เป็น “ประตูเข้าสู่ระบบ” ได้ดีขึ้น
+**วิธีการ:** ใช้ structured literature search ร่วมกับ integrative/theory-oriented synthesis, backward/forward citation chaining, claim–evidence matrix และ claim-level falsifier audit เพื่อเชื่อมองค์ความรู้จากประชากรศาสตร์ สังคมวิทยาครอบครัว จิตวิทยาความสัมพันธ์ สาธารณสุข capability approach, access-to-care, administrative burden, life-course perspective, family stress, nurturing care, integrated people-centred services, network governance, cultural adaptation, reproductive autonomy และ phenomenology พร้อมเปรียบเทียบระบบประเทศไทยกับกรณีสิงคโปร์
 
-ประการที่สาม ช่วงก่อนสมรสช่วยให้เห็นความแตกต่างระหว่าง “การให้ข้อมูล” กับ “การสร้างศักยภาพ” ได้ชัดเจน คู่หนึ่งอาจได้รับข้อมูลจำนวนมาก แต่ยังไม่มีเวลา เงิน ความปลอดภัย ภาษา หรือช่องทางที่จะเปลี่ยนความรู้นั้นไปเป็นการกระทำได้จริง
+**ผลการสังเคราะห์หลัก:** หลักฐานไม่รองรับการมอง premarital education เป็นมาตรการเพิ่ม fertility โดยตรง หรือเป็นหลักสูตรเดียวที่เหมาะกับทุกคู่ อย่างไรก็ตาม มีเหตุผลเชิงทฤษฎีและหลักฐานบางส่วนที่สนับสนุนการศึกษาช่วงก่อนสมรสในฐานะ access window โดยเฉพาะการเชื่อมต่อไปสู่ help-seeking ภายหลัง ความรู้และบริการ preconception การจัดช่องทางส่วนตัวเมื่อมีความเสี่ยงด้าน coercion/violence และการรักษาเส้นทางกลับเข้าสู่บริการ กรอบสังเคราะห์เสนอว่า structural resources จะกลายเป็น family capability ได้เมื่อผ่าน conversion conditions อย่างน้อยสี่ด้าน ได้แก่ effective access, temporal feasibility, safety/autonomy และ cultural meaning และการส่งต่อจำเป็นต้องพิจารณา availability, connectivity, capacity, quality และ governance ของบริการปลายทาง
 
-จากมุมนี้ premarital จึงเป็นวัตถุที่อยู่ระหว่างหลายสาขา ได้แก่ ประชากรศาสตร์ สังคมศาสตร์ครอบครัว สาธารณสุข การพัฒนาเด็ก วัฒนธรรมศึกษา เศรษฐศาสตร์บริการ และการออกแบบระบบช่วยเหลือ
+**สรุปและข้อเสนอแนะ:** ประเทศไทยไม่จำเป็นต้องเริ่มจากการสร้างหลักสูตรก่อนสมรสมาตรฐานขนาดใหญ่ แต่ควรเริ่มจากการทำแผนที่ระบบ ตรวจสอบช่องว่างด้าน safety/referral ทดสอบหน้าที่ที่ไม่ควรถูกเลื่อนเมื่อผู้ใช้มีเวลาน้อย และประเมินว่าการมี private access, return route และ capacity-aware referral เพิ่ม appropriate help-seeking และ family capability ได้จริงหรือไม่ โดยไม่ลดทอนความหลากหลายทางวัฒนธรรมและ autonomy ของบุคคล
 
----
-
-# 3. สิงคโปร์: ตัวอย่างของระบบที่เชื่อม “การแต่งงาน” เข้ากับนโยบายครอบครัว
-
-สิงคโปร์เป็นตัวอย่างที่มีประโยชน์ เพราะนโยบาย Marriage & Parenthood ไม่ได้จำกัดอยู่ที่การรณรงค์ให้คนแต่งงานหรือมีบุตร แต่ประกอบด้วยมาตรการหลายด้าน เช่น housing, childcare, parental leave, financial support, fertility and maternity health และการสนับสนุนความสัมพันธ์
-
-ในปี 2026 รัฐบาลสิงคโปร์ประกาศมาตรการ Marriage & Parenthood ชุดใหม่ที่เพิ่มการสนับสนุนด้าน leave, financial support, preschool และ housing และระบุชัดว่าต้องการให้การสนับสนุนดำเนินต่อเนื่องตลอดช่วงการเลี้ยงดูบุตร ไม่จำกัดเฉพาะช่วงต้นของชีวิตเด็ก (Singapore Government, 2026)
-
-ในระดับ marriage preparation โปรแกรมที่ได้รับการรับรองจาก Ministry of Social and Family Development ครอบคลุมหัวข้ออย่าง family of origin, communication, conflict resolution, intimacy, family planning/fertility awareness, financial planning, roles and expectations และ in-law relationships ขณะเดียวกันยังมีรูปแบบ online และ bite-sized learning เพื่อเพิ่มความยืดหยุ่นในการเข้าถึง (MSF, 2025–2026)
-
-ที่สำคัญ ระบบมุสลิมของสิงคโปร์มีตัวอย่างที่ชัดของการเชื่อมก่อนและหลังสมรสผ่าน **Bersamamu** โดย Kadi/Naib Kadi เริ่มติดต่อคู่ก่อน solemnisation และสนับสนุนต่อเนื่องในช่วงสองปีแรกของชีวิตสมรส รวมถึงสามารถชี้ช่องหรือส่งต่อไปยังหน่วยงานระดับชาติเมื่อจำเป็น (Our Marriage Journey/ROMM, 2026)
-
-ตัวอย่างเหล่านี้ทำให้สิงคโปร์มีคุณค่าในฐานะ **institutional precedent** อย่างน้อยสามประการ
-
-หนึ่ง การเตรียมก่อนสมรสถูกวางอยู่ในระบบนโยบายครอบครัวที่กว้างกว่าตัวหลักสูตร
-
-สอง มีความพยายามลดภาระการเข้าถึงผ่านรูปแบบเรียนรู้ที่ยืดหยุ่นและหลายช่องทาง
-
-สาม มีตัวอย่างของ continuity ที่ไม่ยุติทันทีเมื่อพิธีสมรสเสร็จสิ้น
-
-อย่างไรก็ตาม การใช้สิงคโปร์เป็นตัวอย่างไม่ควรจบที่การถามว่า “ประเทศไทยควรทำเหมือนสิงคโปร์หรือไม่”
-
-คำถามที่บทความนี้ต้องการพาไปไกลกว่านั้นคือ
-
-> แม้ประเทศหนึ่งจะมีมาตรการจำนวนมาก มี marriage preparation และมี continuity บางรูปแบบแล้ว อะไรเป็นเงื่อนไขที่ทำให้ทรัพยากรเหล่านั้นกลายเป็น “โอกาสที่ใช้ได้จริง” สำหรับบุคคลและคู่ที่มีชีวิต เวลา ความเสี่ยง และวัฒนธรรมแตกต่างกัน
-
-กล่าวอีกอย่างหนึ่ง สิงคโปร์ช่วยแสดงให้เห็นว่า **provision สามารถถูกจัดให้เป็นระบบได้** แต่บทความนี้สนใจขั้นต่อไป คือ **conversion** จาก provision ไปสู่ lived and usable opportunity
+**คำสำคัญ:** ก่อนสมรส; การสร้างครอบครัว; การเข้าถึงบริการ; วัฒนธรรม; คุณภาพชีวิตเด็ก
 
 ---
 
-# 4. จาก provision ไปสู่ conversion: ช่องว่างที่ยังต้องเปิดออก
+# Abstract
 
-ตรรกะนโยบายทั่วไปมักเขียนโดยนัยว่า
+**Purpose:** This paper examines the premarital period as an upstream social and service site through which individuals and couples may connect to relationship support, preconception health, mental health, safety services, social support, and wider family systems in the context of sustained low fertility.
+
+**Design:** Conceptual academic article using integrative and theory-oriented synthesis.
+
+**Methods:** A structured literature search was combined with integrative synthesis, citation chaining, claim–evidence mapping, and claim-level falsifier auditing. The analysis draws on demography, family sociology, relationship science, public health, the Capability Approach, access-to-care theory, administrative burden, life-course perspectives, family stress, nurturing care, integrated people-centred services, network governance, cultural adaptation, reproductive autonomy, and phenomenology. Singapore is examined as an institutional precedent and contrasted with Thailand’s plural service landscape.
+
+**Main findings:** Current evidence does not support treating premarital education as a direct fertility intervention or as a single standardized programme suitable for all couples. It does, however, justify testing the premarital period as an access window, particularly for later help-seeking, preconception navigation, private safeguarding pathways, and return access. The paper proposes that structural resources become substantive family capability through conversion conditions including effective access, temporal feasibility, safety/autonomy, and cultural meaning. Referral also depends on the availability, connectivity, capacity, quality, and governance of receiving services.
+
+**Conclusion and recommendations:** Thailand should not begin with nationwide expansion of a new standardized premarital curriculum. Priority should instead be given to national service mapping, safeguarding and referral audits, testing minimum non-deferrable functions under time constraints, dual shared/private access, alternative return-access models, and capacity-aware referral. Fertility should remain a distal population outcome rather than the sole measure of success.
+
+**Keywords:** premarital; family formation; service access; culture; child well-being
+
+---
+
+# 1. ความเป็นมาและความสำคัญของปัญหา
+
+ประเทศไทยกำลังเข้าสู่การเปลี่ยนแปลงโครงสร้างประชากรที่มีผลต่อทั้งเศรษฐกิจ สถาบันครอบครัว ระบบสวัสดิการ และการพัฒนาคนในระยะยาว รายงานสถานการณ์ประชากรไทยปี 2569 ของสถาบันวิจัยประชากรและสังคม มหาวิทยาลัยมหิดล ระบุว่าในปี 2568 ประเทศไทยมีเด็กเกิด 416,574 คน ขณะที่มีผู้เสียชีวิต 559,684 คน ทำให้จำนวนตายสูงกว่าจำนวนเกิด 143,110 คน และอัตราเพิ่มประชากรติดลบ<sup>1</sup> ภาวะดังกล่าวเกิดควบคู่กับการเพิ่มขึ้นของประชากรสูงอายุและการหดตัวของประชากรวัยแรงงาน ทำให้ปัญหา “เด็กเกิดน้อย” ไม่สามารถถูกมองเป็นเรื่องของการตัดสินใจส่วนบุคคลเพียงอย่างเดียว
+
+การตอบสนองต่อ fertility decline ในหลายประเทศประกอบด้วยมาตรการเงินอุดหนุน ที่อยู่อาศัย parental leave, childcare, work–family reconciliation และบริการ infertility/assisted reproduction แต่หลักฐานข้ามประเทศชี้ว่าผลของมาตรการเหล่านี้ขึ้นกับบริบททางเศรษฐกิจ แรงงาน ที่อยู่อาศัย gender relations และสถาบันครอบครัว และไม่ได้นำไปสู่การฟื้นตัวของ fertility อย่างอัตโนมัติ<sup>2,3</sup> ดังนั้น การประเมินนโยบายครอบครัวด้วยจำนวนการเกิดเพียงตัวเดียวจึงเสี่ยงต่อการมองข้ามผลลัพธ์สำคัญด้านความปลอดภัย สุขภาวะ ความสามารถในการดูแล และคุณภาพชีวิตเด็ก
+
+มิติด้านสิทธิและความหมายของชีวิตยิ่งทำให้ปัญหาซับซ้อนขึ้น การมีบุตรไม่ใช่เพียงพฤติกรรมประชากร แต่เป็นการตัดสินใจที่เชื่อมโยงกับร่างกาย ความสัมพันธ์ การงาน เครือญาติ ความเชื่อ อัตลักษณ์ และอนาคตที่บุคคลเห็นว่าเป็นไปได้ กรอบ reproductive justice จึงเตือนว่าการสนับสนุนครอบครัวต้องแยก “ผลลัพธ์ด้าน fertility” ออกจาก “reproductive agency”: การมีสิทธิที่จะมีหรือไม่มีบุตร และการสามารถเลี้ยงดูเด็กในสภาพแวดล้อมที่ปลอดภัยเป็นคุณค่าที่ต้องรักษาไปพร้อมกัน<sup>4</sup>
+
+บทความนี้เลือกวิเคราะห์ช่วง **ก่อนสมรส (premarital)** เป็นวัตถุหลัก เนื่องจากเป็นช่วงที่บุคคลหรือคู่กำลังเปลี่ยนผ่านจากการเป็นปัจเจก/คู่สัมพันธ์เข้าสู่การจัดระเบียบชีวิตครอบครัวอย่างเป็นทางการ ในหลายสังคม ช่วงนี้มี contact points กับสำนักทะเบียน ระบบสาธารณสุข ศาสนา/วัฒนธรรม ผู้ให้คำปรึกษา องค์กรชุมชน และบริการดิจิทัลอยู่แล้ว แม้แต่ละคู่จะไม่ได้ใช้บริการชุดเดียวกันก็ตาม
+
+Premarital ในบทความนี้จึงไม่ได้หมายถึง “การเข้าอบรมก่อนแต่งงาน” เท่านั้น แต่หมายถึง **ช่วงเวลา พื้นที่ทางสังคม และระบบบริการก่อนสมรส** ซึ่งมีการต่อรองเรื่องบทบาท ความสัมพันธ์ การเงิน สุขภาพ การมีบุตร ความสัมพันธ์กับครอบครัวเดิม ความปลอดภัย และความหมายของชีวิตครอบครัว
+
+คำถามสำคัญจึงไม่ใช่ว่า “ควรบังคับให้ทุกคู่เข้าอบรมหรือไม่” แต่คือ:
+
+> ในช่วงก่อนสมรส ทรัพยากรและบริการที่มีอยู่สามารถถูกเปลี่ยนให้เป็นโอกาสที่บุคคล/คู่ใช้ได้จริง ปลอดภัย และสอดคล้องกับชีวิตของตนได้อย่างไร
+
+---
+
+# 2. ขอบเขตและวิธีการสังเคราะห์องค์ความรู้
+
+บทความนี้เป็นบทความวิชาการเชิงแนวคิด ไม่ใช่ systematic review และไม่อ้างว่าครอบคลุมวรรณกรรมทุกชิ้นอย่าง exhaustive วิธีการพัฒนากรอบใช้ **structured literature search + integrative/theory-oriented synthesis** เพื่อทำงานกับวรรณกรรมต่างสาขาที่ใช้หน่วยวิเคราะห์และตัวชี้วัดไม่เหมือนกัน
+
+แหล่งองค์ความรู้ถูกจัดเป็นหกกลุ่ม ได้แก่ (1) demography และ family policy (2) marriage/premarital and relationship education (3) preconception and reproductive health (4) safety, intimate partner violence และ reproductive coercion (5) family, caregiving และ child development และ (6) service access, implementation, integration และ network governance
+
+การสังเคราะห์ไม่ได้ถือว่า citation คือเหตุผลในตัวเอง แต่ใช้การตรวจสอบ claim-by-claim โดยถามทุกข้อว่า หลักฐานรองรับอะไร ไม่รองรับอะไร มีผลต่างกันในประชากรใด มี counterevidence ใด และ observation แบบใดที่จะทำให้ข้อเสนออ่อนลง
+
+นอกจากนี้ กรอบแนวคิดถูกนำไป “ชน” กับ parent theories ที่มีอยู่แล้ว ได้แก่ Capability Approach<sup>5</sup>, access-to-care<sup>6,7</sup>, administrative burden<sup>8</sup>, life-course approach<sup>9</sup>, bioecological theory<sup>10</sup>, Family Stress Model<sup>11</sup>, Nurturing Care Framework<sup>12</sup>, integrated people-centred health services<sup>13</sup>, network governance<sup>14</sup> และ cultural adaptation<sup>15</sup> เพื่อหลีกเลี่ยงการตั้ง construct ใหม่ในสิ่งที่วงการอธิบายไว้แล้ว
+
+ดังนั้น จุดประสงค์ของบทความไม่ใช่การสร้าง “ทฤษฎีใหม่” ที่ครอบคลุมครอบครัวทั้งหมด แต่เป็นการใช้ทฤษฎีที่มีอยู่เพื่อเปิดคำถามเฉพาะเกี่ยวกับ premarital และระบุความสัมพันธ์ที่ยังต้องทดสอบในบริบทประเทศไทย
+
+---
+
+# 3. ภูมิทัศน์นโยบายและ intervention ในสังคมเกิดน้อย
+
+นโยบายเกิดน้อยมักเริ่มจากสมมติฐานว่า หากรัฐลดต้นทุนของการมีลูกผ่านเงิน ที่อยู่อาศัย การลา และ childcare ประชาชนจะมีความพร้อมที่จะมีบุตรมากขึ้น สมมติฐานนี้มีเหตุผลบางส่วน เพราะต้นทุนจริงของครอบครัวมีความสำคัญต่อ fertility intentions และการตัดสินใจมีบุตร แต่ประสบการณ์ของประเทศรายได้สูงแสดงให้เห็นว่า “การมีมาตรการ” ไม่เท่ากับ “การขจัดข้อจำกัด”
+
+หากเขียนตรรกะนโยบายอย่างง่าย:
 
 \[
-Policy\ Supply
-\rightarrow
-Outcome
+Policy\ Supply \rightarrow Family\ Outcome
 \]
 
-แต่ระหว่างสองจุดนี้ยังมีขั้นตอนจำนวนมาก:
+สมการนี้ซ่อนกระบวนการหลายขั้นไว้ตรงกลาง:
 
 \[
 Provision
@@ -115,205 +117,121 @@ Continuity
 Outcome
 \]
 
-ดังนั้นความสัมพันธ์ต่อไปนี้ไม่ควรถูกถือว่าเท่ากัน:
+ปัญหาจึงไม่จำเป็นต้องเกิดจากการไม่มี resource เท่านั้น แต่อาจเกิดจาก resource ที่ประชาชนไม่รู้จัก เข้าไม่ถึง ไม่สามารถใช้ภายใต้ข้อจำกัดของเวลา ภาษา ความปลอดภัย หรือโครงสร้างครอบครัว หรือใช้ได้แต่บริการปลายทางไม่มี capacity รองรับ
 
-\[
-Resources \neq Access
-\]
+Capability Approach มีประโยชน์ต่อการเปิดช่องว่างนี้ เพราะแยก resources ออกจาก substantive opportunities และชี้ว่าทรัพยากรเดียวกันสามารถถูกแปลงเป็นความสามารถจริงได้ไม่เท่ากันตาม conversion factors ของแต่ละบุคคลและบริบท<sup>5</sup> ในอีกสายหนึ่ง งาน access-to-care แสดงว่าการเข้าถึงไม่ได้หมายถึงระยะทางหรือการมีคลินิกเพียงอย่างเดียว แต่เป็นความสัมพันธ์ระหว่างระบบบริการกับความสามารถของผู้ใช้ในการรับรู้ แสวงหา เข้าถึง จ่าย และ engage กับบริการ<sup>6,7</sup> ขณะที่ administrative burden ทำให้เห็นต้นทุนการเรียนรู้ การปฏิบัติตามขั้นตอน และต้นทุนทางจิตใจที่เกิดขึ้นแม้บริการนั้นเปิดให้ใช้โดยทางการแล้ว<sup>8</sup>
 
-\[
-Access \neq Capability
-\]
-
-\[
-ServiceAvailable \neq ServiceUsable
-\]
-
-\[
-CourseCompletion \neq FamilyReadiness
-\]
-
-\[
-RelationshipPersistence \neq Safety
-\]
-
-\[
-Fertility \neq FamilyWellbeing
-\]
-
-แนวคิดเหล่านี้ไม่ใช่สิ่งที่บทความนี้อ้างว่าเป็นของใหม่ Capability Approach ได้แยกทรัพยากรออกจาก substantive opportunities มานานแล้ว งาน access-to-care แสดงว่าการเข้าถึงมีหลายมิติ Administrative burden อธิบายต้นทุนการเรียนรู้ การปฏิบัติตาม และต้นทุนทางจิตใจ Life-course perspective อธิบาย timing และ transition ส่วน integrated people-centred care เน้นการประสานบริการและ continuity
-
-สิ่งที่บทความนี้ทำคือ **นำกรอบเหล่านี้มาชนกันที่วัตถุเฉพาะ คือ premarital** แล้วถามว่า ในช่วงก่อนสมรส ทรัพยากรที่มีอยู่ถูกแปลงเป็นความสามารถในการเริ่มต้นครอบครัวจริงหรือไม่
+ดังนั้น คำถามของ premarital ไม่ควรตั้งต้นว่า “เพิ่มเนื้อหาอะไรในหลักสูตร” แต่ควรถามว่า “ช่วงก่อนสมรสจะช่วยลดช่องว่างระหว่าง provision กับ usable opportunity ได้อย่างไร”
 
 ---
 
-# 5. กรอบสังเคราะห์: จากทรัพยากรเชิงโครงสร้างสู่ศักยภาพครอบครัว
+# 4. สิงคโปร์ในฐานะ institutional precedent และเหตุผลที่ต้องพาโจทย์ไปไกลกว่า
 
-หลังทบทวนและลดทอนตัวแปรที่ซ้ำกับทฤษฎีเดิม สามารถเขียนแกนวิเคราะห์อย่างย่อได้เป็น
+สิงคโปร์เป็นกรณีสำคัญในการคิดเรื่อง premarital เพราะรัฐไม่ได้วาง marriage preparation ไว้โดดเดี่ยวจาก family policy แต่จัดอยู่ในระบบ Marriage & Parenthood ที่กว้างกว่า ในปี 2026 รัฐบาลสิงคโปร์ประกาศการเพิ่มมาตรการด้าน child-related leave, financial help, caregiving, preschool และ housing เพื่อสนับสนุนการเริ่มและเลี้ยงดูครอบครัว<sup>16</sup> กล่าวได้ว่า การแต่งงานและการมีบุตรถูกมองเป็นกระบวนการที่เชื่อมกับโครงสร้างเศรษฐกิจและการดูแล ไม่ใช่เรื่องทักษะความสัมพันธ์เท่านั้น
 
-\[
-\boxed{
-StructuralResources
-\rightarrow
-ConversionConditions
-\rightarrow
-FamilyCapability
-\rightarrow
-LifeCourseTrajectory
-\rightarrow
-Family/ChildOutcomes
-}
-\]
+ในระดับ programme architecture, Marriage Preparation Programme (MPrep) ที่ได้รับการสนับสนุนผ่าน Families for Life ครอบคลุม family of origin, communication and conflict resolution, sexual intimacy, family planning/fertility awareness, financial planning, role relationships and expectations และ in-law relationships<sup>17</sup> รูปแบบการให้บริการยังมีความหลากหลาย ทั้งกลุ่ม คู่รายบุคคล และหลักสูตรระยะเวลาต่างกัน สะท้อนความพยายามตอบโจทย์ schedule และความต้องการที่ต่างกัน
 
-โดยชั้นแรกคือทรัพยากรและเงื่อนไขเชิงโครงสร้าง:
+สำหรับคู่มุสลิม Cinta Abadi มีหัวข้อ communication/conflict management, expectation management, financial planning, starting a family, emotional connection, in-law relationships และ community resources<sup>18</sup> ขณะที่ Bersamamu ทำให้เห็นอีกชั้นหนึ่งของ service architecture: Kadi/Naib Kadi เริ่มพบคู่ก่อน solemnisation สร้างความสัมพันธ์ พูดคุยปัญหา สนับสนุนให้เข้าร่วม marriage preparation และสามารถ refer ไปยัง national agencies เมื่อจำเป็น<sup>19</sup> เอกสารของระบบยังระบุว่าการสนับสนุนดังกล่าวเชื่อมต่อเข้าสู่สองปีแรกของชีวิตสมรส<sup>20</sup>
 
-\[
-R_{i,t}
-=
-\langle
-MaterialResources,\,
-SocialDeterminants,\,
-ServiceAvailability,\,
-NetworkCapacity
-\rangle
-\]
+กรณีสิงคโปร์จึงมีความสำคัญอย่างน้อยสามด้าน คือ (1) marriage preparation อยู่ใน policy ecology ที่กว้างกว่า (2) premarital content เชื่อม relationship, reproductive, financial และ family-system issues และ (3) บางระบบมี continuity หลังพิธีสมรส
 
-ชั้นที่สองคือเงื่อนไขการแปลง:
+อย่างไรก็ตาม การอ้างสิงคโปร์ในบทความนี้ไม่ได้มีเป้าหมายเพื่อเสนอ policy transfer แบบตรงตัว เพราะโครงสร้างรัฐ ระบบสวัสดิการ กฎหมาย ศาสนา ประชากร และขนาดประเทศแตกต่างจากประเทศไทยอย่างมาก และการมี institutional architecture ไม่ได้พิสูจน์โดยตัวมันเองว่า intervention ทุกส่วนมี causal effect ต่อ fertility, safety หรือ child outcomes
 
-\[
-K_{i,t}
-=
-\langle
-EffectiveAccess,\,
-TemporalFeasibility,\,
-Safety/Autonomy,\,
-CulturalMeaning
-\rangle
-\]
+สิ่งที่บทความนี้ “พาไปไกลกว่า” คือการถามว่า:
 
-จากนั้นจึงเกิด family capability:
+> หากประเทศหนึ่งมี provision, programme และ continuity แล้ว ขั้นตอนใดเป็นตัวตัดสินว่าทรัพยากรเหล่านั้นจะกลายเป็นโอกาสจริงในชีวิตของคนที่มีเวลา ความเสี่ยง ความหมาย และวัฒนธรรมแตกต่างกัน
 
-\[
-C^{family}_{i,t}
-=
-\Phi(
-R_{i,t},
-K_{i,t},
-PersonalRelationalConditions_{i,t}
-)
-\]
-
-และเคลื่อนไปตาม trajectory ของชีวิต:
-
-\[
-X_{i,t+1}
-=
-F(
-X_{i,t},
-C^{family}_{i,t},
-Transition_{i,t},
-Context_{i,t}
-)
-\]
-
-ผลลัพธ์ที่บทความให้ความสำคัญไม่ใช่จำนวนการเกิดเพียงตัวเดียว แต่ประกอบด้วย:
-
-\[
-Y_{i,t}
-=
-\langle
-Safety,\,
-FamilyWellbeing,\,
-CaregiverWellbeing,\,
-ChildNurturingConditions,\,
-Equity
-\rangle
-\]
-
-ส่วน fertility ถูกวางเป็นผลลัพธ์ระดับประชากรที่อยู่ไกลกว่า:
-
-\[
-Fertility_{t+1}
-=
-\mathcal R(
-\{X_{i,t}\},
-PopulationStructure,
-Economy,
-Norms,
-Biology,
-Policy
-)
-\]
-
-การวาง fertility ไว้ปลายทางมีความสำคัญ เพราะช่วยป้องกันการตีความว่าความสำเร็จของ premarital intervention ต้องวัดจากจำนวนการเกิดที่เพิ่มขึ้นเท่านั้น
+ดังนั้น สิงคโปร์ทำหน้าที่เป็น **หลักฐานว่าการเชื่อม institutional contact ก่อนและหลังสมรสสามารถถูกสร้างขึ้นได้** แต่กรอบของบทความนี้มุ่งเปิดกลไก conversion, private safety, cultural meaning, temporal feasibility และ capacity/governance ที่อยู่ระหว่าง “การมีระบบ” กับ “การใช้ระบบได้จริง”
 
 ---
 
-# 6. เงื่อนไขการแปลงที่สำคัญในช่วง premarital
+# 5. ช่วงก่อนสมรสในฐานะ intervention window
 
-## 6.1 Effective access: มีบริการไม่เท่ากับใช้บริการได้
+Life-course perspective ให้เหตุผลว่าการเปลี่ยนแปลงของสุขภาพและชีวิตไม่ได้เกิดแบบจุดเดียว แต่เกิดผ่าน trajectories, transitions, timing, linked lives และ accumulation ของประสบการณ์<sup>9</sup> WHO ในกรอบ life-course ปี 2025 ก็เน้น person-centredness, equity, early/temporal action, collaboration across sectors และ continuity across life stages<sup>9</sup>
 
-ประเทศไทยมีชิ้นส่วนของ premarital อยู่ในหลายระบบ ทั้งทะเบียนสมรส ระบบสาธารณสุข งานพัฒนาครอบครัว บริการสุขภาพจิต องค์กรชุมชน และระบบวัฒนธรรม/ศาสนา
+จากมุมนี้ premarital สามารถถูกมองเป็น transition point หนึ่ง แต่บทความนี้ไม่ได้ถือว่าเป็น transition ที่เหนือกว่าช่วงอื่นโดยธรรมชาติ เหตุผลที่เลือกศึกษา premarital คือเป็นช่วงที่อาจมี contact point อยู่แล้วและเกิดก่อนภาระบางประเภทจะสะสมเต็มที่
 
-ปัญหาที่ควรศึกษาไม่ใช่เพียง “มีหรือไม่มีบริการ” แต่คือ ผู้ใช้รู้หรือไม่ว่าบริการนั้นอยู่ที่ไหน เข้าได้หรือไม่ เข้าเมื่อใด ต้องใช้เอกสารอะไร เสียค่าใช้จ่ายเท่าใด และหากเข้าผิดประตูจะถูกส่งต่ออย่างไร
+การเรียกช่วงก่อนสมรสว่า “intervention window” จึงต้องระวังสองข้อ
 
-ดังนั้น effective access ต้องถูกมองเป็นสิ่งที่เกิดจากปฏิสัมพันธ์ระหว่างระบบกับผู้ใช้ ไม่ใช่เป็นคุณสมบัติของบริการฝ่ายเดียว
+ข้อแรก ไม่ควรตีความว่า intervention ก่อนสมรสสามารถป้องกันทุกปัญหาในอนาคต หลักฐาน relationship education แม้พบผลเชิงบวกด้าน communication และ relationship quality โดยเฉลี่ย<sup>21,22</sup> แต่ผลมี heterogeneity ตามประชากร ความเสี่ยง โปรแกรม และ outcome และไม่สามารถเท่ากับการป้องกัน divorce, violence หรือปัญหาการเลี้ยงดูทุกกรณี
 
-## 6.2 Temporal feasibility: เวลาไม่ใช่แค่จำนวนวัน
+ข้อที่สอง ไม่ควรตีความว่า “ยิ่งเรียนเยอะยิ่งดี” meta-analysis ของ Hawkins และคณะพบว่าโปรแกรมระดับ moderate dose 9–20 ชั่วโมงให้ผลต่อ communication และ relationship quality สูงกว่า low-dose 1–8 ชั่วโมงโดยเฉลี่ย แต่ high dose ไม่ได้เหนือกว่า moderate dose อย่างชัดเจนใน controlled studies<sup>23</sup> สิ่งนี้เตือนทั้งสองด้าน: โปรแกรมสั้นมากไม่ควรถูกโฆษณาว่าเทียบเท่าโปรแกรมฝึกทักษะที่ลึกกว่า และโปรแกรมยาวมากก็ไม่ควรถูกถือว่าดีกว่าโดยอัตโนมัติ
 
-หลักฐานจาก marriage/relationship education ชี้ว่าปริมาณและความเข้มของโปรแกรมสัมพันธ์กับผลลัพธ์บางด้าน และโปรแกรมที่สั้นมากไม่ควรถูกถือว่าให้ผลด้านทักษะเท่ากับโปรแกรมที่ลึกกว่า ขณะเดียวกันเวลา งาน ภาระดูแล และความเครียดก็เป็นอุปสรรคต่อ participation และ adherence
-
-ดังนั้นบทความนี้ไม่ใช้การแบ่ง “urgent” กับ “non-urgent” เป็นประเภทตายตัว แต่ใช้แนวคิด temporal feasibility:
+ดังนั้น แทนที่จะใช้คู่ตรงข้าม “urgent vs non-urgent” บทความนี้เสนอให้ใช้ **temporal feasibility** ซึ่งรวมเวลา งาน ภาระดูแล ความเครียด การเดินทาง และ programme effort
 
 \[
 TemporalFeasibility
 =
 f(
-TimeAvailable,
-WorkLoad,
-CareLoad,
-Stress,
-Travel,
+TimeAvailable,\,
+WorkLoad,\,
+CareLoad,\,
+Stress,\,
+Travel,\,
 ProgrammeEffort
 )
 \]
 
-จากนั้นถามว่า เมื่อ temporal feasibility ต่ำ **อะไรคือหน้าที่ที่ไม่ควรถูกเลื่อนออกไป**
+โจทย์จึงเปลี่ยนจาก “หลักสูตรขั้นต่ำกี่ชั่วโมง” เป็น:
 
-คำว่า “minimum sufficient course” จึงถูกหลีกเลี่ยง เพราะหลักฐานยังไม่ยืนยันว่ามี package สั้นตัวใดที่เพียงพอสำหรับทุกผลลัพธ์
+> ภายใต้ข้อจำกัดของเวลาที่ต่างกัน อะไรคือหน้าที่ที่ไม่ควรถูกเลื่อนออกไป และอะไรสามารถเรียนรู้ภายหลังเมื่อมีความเกี่ยวข้องจริง
 
-คำถามที่เหมาะสมกว่าคือ
+---
+
+# 6. หลักฐานจาก premarital และ relationship interventions
+
+วรรณกรรม marriage and relationship education (MRE) เป็นฐานหลักฐานที่ตรงกับ premarital มากที่สุดสายหนึ่ง Meta-analysis ของ Hawkins และคณะจาก 117 studies พบ effect เชิงบวกโดยเฉลี่ยต่อ relationship quality และ communication skills แต่ยังมีข้อจำกัดด้าน diversity ของตัวอย่างและ outcome อย่าง relationship stability/aggression ที่ศึกษาไม่มากในเวลานั้น<sup>21</sup> งานต่อมาได้ขยายคำถามไปยังกลุ่มรายได้น้อย heterogeneity และ aggression มากขึ้น
+
+ประเด็นสำคัญสำหรับบทความนี้ไม่ได้อยู่ที่การพิสูจน์ว่า “premarital education works” แบบรวมทุกอย่าง แต่คือการแยกผลลัพธ์ตามกลไก เพราะ programme อาจเพิ่ม communication skill โดยไม่เปลี่ยน safety หรือเพิ่ม satisfaction โดยไม่เปลี่ยน service use
+
+หลักฐานที่มีความหมายต่อ architecture ของบทความนี้มากเป็นพิเศษคือ “gateway effect” Williamson และคณะพบในงานปี 2014 ว่าผู้ที่เคยได้รับ premarital education มีแนวโน้มใช้ couple counselling ภายหลังมากกว่า<sup>24</sup> และงาน longitudinal ในคู่ newlywed 431 คู่ที่อาศัยในชุมชนรายได้น้อยพบว่าคู่ที่เคยได้รับ premarital education มีสัดส่วนเข้ารับ therapy ภายหลังสูงกว่า รวมทั้งในกลุ่มที่คิดจะไป therapy ผู้ที่เคยได้รับ premarital educationมีแนวโน้ม follow-through มากกว่า และในผู้ที่เข้าสู่ therapy ผู้ที่เคยมี premarital education เข้าใช้บริการเร็วกว่าบางกลุ่ม<sup>25</sup>
+
+อย่างไรก็ตาม งานดังกล่าวเป็น observational/longitudinal association ไม่ใช่ randomized test ของ “gateway intervention” ผู้ที่เลือกเข้า premarital education อาจมี openness ต่อ help-seeking, religiosity, motivation หรือทรัพยากรต่างจากผู้ไม่เข้าอยู่แล้ว จึงยังไม่สามารถสรุปว่า premarital education “ทำให้”เกิด later help-seeking
+
+ข้อสรุปที่เหมาะสมกว่าคือ:
 
 \[
-LowTemporalFeasibility
-\Rightarrow
-WhichFunctionsCannotSafelyBeDeferred?
+PremaritalContact
+\stackrel{?}{\longrightarrow}
+LaterAppropriateHelpSeeking
 \]
 
-เช่น orientation, safety literacy, navigation, red-flag recognition และ return access อาจเป็น candidate functions ที่ต้องทดสอบ ไม่ใช่รายการที่ถือว่าพิสูจน์แล้ว
+เป็น proposition ที่มี preliminary support เฉพาะใน domain ของ relationship help-seeking และต้องทดสอบ causal mechanism เพิ่มก่อนขยายไปสู่ mental health, fertility, parenting หรือ violence services
 
-## 6.3 Safety and autonomy: ช่องทางร่วมของคู่ไม่ควรเป็นช่องทางเดียว
+หลักฐานเรื่อง risk heterogeneity ก็มีนัยสำคัญต่อการออกแบบ Williamson และคณะพบว่า baseline risk สามารถ moderate outcomes ของ relationship education ได้<sup>26</sup> ขณะที่ meta-analysis ล่าสุดเกี่ยวกับ relationship aggression เตือนว่าควรแยก prevention/relationship education ออกจาก response ต่อ violence อย่างชัดเจน และไม่ควรถือว่า programme ที่ช่วยความสัมพันธ์ทั่วไปจะเหมาะกับคู่ที่มี coercion หรือ violence ทุกประเภท<sup>27</sup>
 
-การเตรียมก่อนสมรสมักทำงานกับคู่ร่วมกัน แต่เมื่อมี fear, coercion, violence หรือ reproductive coercion ช่องทางที่ partner มองเห็นทั้งหมดอาจทำให้การเปิดเผยปัญหาไม่ปลอดภัย
+ดังนั้น relationship education เป็นองค์ประกอบหนึ่งของ premarital แต่ไม่ใช่ premarital ทั้งหมด และไม่ใช่เครื่องมือที่ควรถูกขยายไปทำหน้าที่แทน safeguarding หรือ specialist treatment
 
-หลักการ safeguarding จาก WHO และ ACOG สนับสนุนการมีพื้นที่ส่วนตัวและ confidentiality ในการประเมิน IPV และ reproductive coercion
+---
 
-ดังนั้นสถาปัตยกรรมที่ควรทดสอบคือ
+# 7. Preconception และ reproductive health: ส่วนที่ไม่ควรถูกแยกจากการเริ่มสร้างครอบครัว
+
+การเตรียมก่อนสมรสจำนวนมากเน้น communication, finances และ roles แต่หาก premarital ถูกมองเป็น upstream family window ประเด็น reproductive/preconception health ก็มีเหตุผลที่จะอยู่ในภาพเดียวกัน
+
+WHO เสนอ preconception care เป็น package ที่ครอบคลุมหลาย domain และเน้นการปรับตามบริบทของประเทศ ความเป็นไปได้ การยอมรับ การเข้าถึง และต้นทุน<sup>28</sup> Systematic reviews ของ preconception interventions ใน primary care พบว่าสามารถเปลี่ยน knowledge และ health behaviours บางด้านได้ แต่หลักฐานต่อ pregnancy outcomes มีความหลากหลาย และการนำไปใช้ขึ้นกับระบบบริการและประชากร<sup>29</sup>
+
+fertility literacy เป็นอีกจุดหนึ่งที่เกี่ยวข้อง Systematic review พบว่าความรู้เรื่อง fertility ในคนวัยเจริญพันธุ์โดยทั่วไปอยู่ในระดับต่ำถึงปานกลางและมี variation สูงตามเพศ การศึกษา และเครื่องมือที่ใช้<sup>30</sup> ในประเทศไทย งานสำรวจประชากรวัยเจริญพันธุ์ในเขตเมืองพบ knowledge gaps เกี่ยวกับช่วงอายุที่ fertility ลดลง นิยาม infertility และ fertile window แม้ความรู้เรื่องพฤติกรรมเสี่ยงบางด้านจะดีกว่า<sup>31</sup> งานไทยก่อนหน้านี้ยังสะท้อนช่องว่างความรู้เรื่อง folic acid ในช่วงก่อนและรอบการตั้งครรภ์<sup>32</sup>
+
+ข้อมูลเหล่านี้ไม่ใช่หลักฐานว่าการสอน fertility ก่อนสมรสจะเพิ่มจำนวนการเกิด แต่สนับสนุนคำถามที่แคบกว่า:
+
+> หากบุคคลต้องการมีบุตรในอนาคต เขารู้หรือไม่ว่าควรขอคำปรึกษาเมื่อใด อะไรเป็นข้อจำกัดทางชีวภาพ และต้องเข้าถึงบริการใดก่อนหรือระหว่างการพยายามตั้งครรภ์
+
+นี่เป็นตัวอย่างที่ทำให้ distinction ระหว่าง **information** กับ **navigation** มีความสำคัญ การรู้ว่าภาวะมีบุตรยากมีอยู่ไม่เท่ากับการรู้ว่าจะไปที่ใด ค่าใช้จ่ายเท่าใด หรือเมื่อใดควร seek care
+
+การนำ reproductive health เข้าสู่ premarital จึงควรอยู่บนหลัก autonomy ไม่ใช่ pronatalism บุคคลที่เลือกไม่มีบุตรหรือยังไม่ต้องการบุตรไม่ควรถูกมองว่า “ไม่พร้อม” หรือ “ล้มเหลว” และการให้ข้อมูลต้องไม่กลายเป็นแรงกดดันให้เร่ง reproduction
+
+---
+
+# 8. พื้นที่ปลอดภัย: จาก couple-based preparation สู่ dual-channel access
+
+การเตรียมก่อนสมรสโดยธรรมชาติมักทำงานกับ “คู่” แต่การถือว่าคู่เป็นหน่วยที่ปลอดภัยสำหรับการเปิดเผยทุกเรื่องอาจผิด โดยเฉพาะเมื่อมี intimate partner violence, reproductive coercion, controlling behaviour หรือความกลัวผลกระทบจากครอบครัว/ชุมชน
+
+WHO guidance สำหรับการตอบสนองต่อ intimate partner violence เน้น privacy, confidentiality, first-line support, safety assessment และการเชื่อมต่อไปยังบริการที่เหมาะสม<sup>33</sup> วรรณกรรม reproductive coercion แสดงว่าการควบคุม fertility, contraception และ pregnancy outcomes สามารถเกิดจาก partner และในบางบริบทจากสมาชิกครอบครัวอื่น<sup>34</sup>
+
+จากหลักฐานนี้ “safe space” ไม่ควรถูกนิยามเป็นเพียงบรรยากาศการเรียนที่อบอุ่น แต่เป็นสถาปัตยกรรมการเข้าถึง:
 
 \[
-SharedWhenSafe
-+
-PrivateIndividualRoute
-+
-RiskBasedEscalation
-\]
-
-ไม่ใช่ couple-only และไม่ใช่ private-only สำหรับทุกคน
-
-ประเด็นนี้ทำให้ “พื้นที่ปลอดภัย” ไม่ใช่เพียงบรรยากาศที่เป็นมิตร แต่เป็นองค์ประกอบของโครงสร้างการเข้าถึง:
-
-\[
-SafeSpace
+SafeAccess
 =
 Privacy
 +
@@ -328,202 +246,268 @@ RiskRecognition
 ProtectedReferral
 \]
 
-## 6.4 Cultural meaning: วัฒนธรรมไม่ใช่เพียงศาสนา
+บทความนี้จึงเสนอหลักการ:
 
-การเริ่มต้นชีวิตครอบครัวเกิดขึ้นในโลกของภาษา เครือญาติ บทบาทหญิงชาย ความหมายของการมีลูก การดูแลผู้สูงอายุ ความคาดหวังของครอบครัวเดิม ชั้นทางสังคม ประสบการณ์ย้ายถิ่น รุ่นอายุ และความเชื่อ
+\[
+SharedWhenSafe
++
+PrivateIndividualRoute
++
+RiskBasedEscalation
+\]
 
-ดังนั้น
+กล่าวคือ การทำงานร่วมกับคู่ยังมีคุณค่าเมื่อปลอดภัย แต่ระบบควรมีช่องทางส่วนตัวที่ผู้ใช้สามารถเข้าถึงได้โดยไม่ต้องเปิดเผยต่อคู่ และเมื่อความเสี่ยงสูงเกินกว่าจะใช้ shared processing ได้ เป้าหมายต้องเปลี่ยนจาก relationship improvement ไปสู่ safety และ professional response
+
+อย่างไรก็ดี นี่ไม่ใช่ข้อเสนอให้คัดกรองความรุนแรงทุกคู่ด้วยเครื่องมือที่ไม่เหมาะสมหรือให้ผู้ให้บริการชุมชนทำหน้าที่สอบสวนความรุนแรง การเพิ่ม private route ต้องมาพร้อม referral capacity, training, confidentiality protocol และการประเมินความเสี่ยงของช่องทางเอง เช่น การส่งข้อความที่ partner สามารถตรวจพบได้
+
+ในภาษาเชิงสังคมศาสตร์ ความปลอดภัยจึงมีทั้งมิติ objective และ lived experience: ระบบอาจมี privacy policy แต่บุคคลยังไม่รู้สึกว่าสามารถพูดได้จริง เพราะกลัวการตัดสิน กลัวการถูกพบ หรือไม่เชื่อว่าข้อมูลจะถูกเก็บเป็นความลับ
+
+ดังนั้น:
+
+\[
+SafetyProtocol
+\neq
+FeltSafety
+\]
+
+ความแตกต่างนี้ควรเป็นเรื่องที่ต้องวัด ไม่ใช่สมมติว่ามี protocol แล้วปัญหาจบ
+
+---
+
+# 9. วัฒนธรรมและความหมาย: เหตุใด “ศาสนา” จึงไม่ควรเป็น master category
+
+ระบบ premarital ในหลายประเทศรวมถึงไทยมักปรากฏผ่านสถาบันศาสนา แต่การใช้ “ศาสนา” เป็นตัวแปรหลักของวัฒนธรรมมีข้อจำกัด เพราะความหมายของการแต่งงาน การมีลูก การดูแล ความกตัญญู บทบาทเพศ ครอบครัวขยาย และชีวิตที่ดีเกิดจากองค์ประกอบที่กว้างกว่า faith identity
+
+Cultural adaptation literature เตือนว่าการปรับ intervention ให้เข้ากับผู้ใช้ต้องพิจารณาภาษา บุคคล metaphors, content, concepts, goals, methods และ context<sup>15</sup> แต่ใน premarital ประเด็นสำคัญยิ่งกว่าคือ วัฒนธรรมไม่ได้เป็นสิ่งที่บุคคล “มี” ในรูป label เท่านั้น หากเป็นสิ่งที่ถูกดำรงและตีความในชีวิตจริง
+
+ดังนั้น cultural context อาจรวม:
+
+\[
+\langle
+Language,\,
+Kinship,\,
+FamilyNorms,\,
+GenderNorms,\,
+ChildbearingMeaning,\,
+CareNorms,\,
+RitualBelief,\,
+Place,\,
+MigrationHistory,\,
+Class,\,
+Generation
+\rangle
+\]
+
+ศาสนาอาจเป็นองค์ประกอบหนึ่งใน vector นี้ แต่ไม่ควรแทนวัฒนธรรมทั้งหมด
+
+จาก phenomenological sensitivity คำถามจึงไม่ใช่เพียงว่า intervention “ตรงกับวัฒนธรรมของกลุ่มหรือไม่” แต่คือบุคคลประสบและให้ความหมายกับวัฒนธรรมนั้นอย่างไร คนสองคนที่มีศาสนา ภาษา หรือชาติพันธุ์เดียวกันอาจให้ความหมายต่อการมีลูก การแบ่งงานดูแล หรือบทบาทครอบครัวไม่เหมือนกัน
+
+จึงต้องรักษา distinctions ต่อไปนี้:
 
 \[
 Culture \neq Religion
 \]
 
-และแม้จะอยู่ในชุมชนเดียวกัน:
-
 \[
-SameCommunity
-\not\Rightarrow
-SameMeaning
+SameCommunity \not\Rightarrow SameMeaning
 \]
 
-การออกแบบที่สอดคล้องกับวัฒนธรรมต้องไม่กลายเป็นการบังคับให้บุคคลทำตามบรรทัดฐานของกลุ่ม:
-
 \[
-CulturalFit
-\neq
-CulturalConformity
+CulturalFit \neq CulturalConformity
 \]
 
-และ:
-
 \[
-CommunityNorm
-\neq
-PersonalMeaning
+CommunityNorm \neq PersonalMeaning
 \]
 
-ความสอดคล้องทางวัฒนธรรมจึงควรถูกผูกกับ safety, autonomy และ voice ของบุคคลเสมอ
+การออกแบบ premarital ที่ culturally responsive จึงไม่ควรถูกวัดด้วยความสามารถในการทำให้คน “ทำตามบรรทัดฐานของชุมชน” แต่ควรวัดว่าบุคคลสามารถใช้บริการและตัดสินใจโดยไม่สูญเสีย voice, autonomy และ safety หรือไม่
+
+นี่เป็นเหตุผลที่ระบบอิสลาม คริสต์ พุทธ หรือสถาบันชุมชนอื่นควรถูกมองเป็น **culturally embedded nodes** ที่มีจุดแข็งด้านภาษา ความไว้ใจ ความหมาย และ social legitimacy ในบางประชากร แต่ไม่ควรถูกสมมติว่ามี trust หรือ safety โดยอัตโนมัติ ทุก node ต้องถูกประเมินตาม reach, privacy, autonomy, referral performance และขอบเขตวิชาชีพของตนเอง
 
 ---
 
-# 7. ประเทศไทย: มีชิ้นส่วนของ premarital อยู่แล้ว แต่ยังต้องพิสูจน์การเชื่อมต่อ
+# 10. ภูมิทัศน์ premarital ของประเทศไทย: ไม่ได้เริ่มจากศูนย์ แต่ยังเป็นระบบพหุศูนย์
 
-การทบทวน service landscape ของประเทศไทยพบองค์ประกอบที่เกี่ยวข้องกับ premarital อยู่แล้วหลายส่วน
+ประเทศไทยมีประวัติของ premarital counselling ในระบบสุขภาพมานาน งานของ Reinprayoon และ Bunyavejchevin รายงาน premarital counselling clinic ที่โรงพยาบาลจุฬาลงกรณ์จากข้อมูลคู่ 200 คู่ในช่วง พ.ศ. 2531–2541 โดยรวม medical counselling, sex education และ family planning counselling<sup>35</sup> งานนี้มีคุณค่าในฐานะหลักฐานว่าระบบสุขภาพไทยเคยจัด premarital clinic อย่างเป็นรูปธรรม แต่ไม่ใช่หลักฐานร่วมสมัยของ outcome ด้าน relationship, help-seeking, safety, parenting หรือ child well-being
 
-ระบบทะเบียนสมรสทำหน้าที่ด้านกฎหมายและเอกสารเป็นหลัก ระบบสาธารณสุขมี preconception care การตรวจสุขภาพ การคัดกรอง และ fertility-related services ระบบพัฒนาครอบครัวมีสื่อและโครงสร้างชุมชน ระบบมุสลิมและคริสต์มีการเตรียมก่อนสมรสในหลายรูปแบบ และยังมีบริการสุขภาพจิต ความรุนแรง และการพัฒนาเด็กที่ทำงานในช่วงชีวิตหลังจากนั้น
+เมื่อมองระบบปัจจุบัน ประเทศไทยมีองค์ประกอบที่เกี่ยวข้องกับ premarital กระจายอยู่หลายแห่ง ได้แก่ civil registration, preconception and fertility services, family-development services, mental-health services, violence-response channels, community organizations, digital information และการเตรียมสมรสในระบบวัฒนธรรม/ศาสนา แต่ยังไม่มีหลักฐานระดับประเทศที่เพียงพอจะสรุปว่าองค์ประกอบเหล่านี้ถูกเชื่อมเป็น pathway เดียวที่ผู้ใช้สามารถค้นพบ เข้าใช้ ส่งต่อ และกลับเข้ามาใหม่ได้อย่างต่อเนื่อง
 
-จากเอกสารสาธารณะที่ทบทวน ยังไม่ควรสรุปว่าระบบเหล่านี้ “ล้มเหลว” หรือไม่มีการประสานงานใดเลย
+จึงควรระวังสอง extreme narratives
 
-ข้อสรุปที่ระมัดระวังกว่าคือ:
+ด้านหนึ่ง ไม่ควรกล่าวว่า “ประเทศไทยไม่มีอะไรเลย” เพราะจะลบงานและสถาบันที่ดำเนินการอยู่แล้ว
 
-> ประเทศไทยมี plural and decentralized premarital provision แต่ยังขาดหลักฐานระดับประเทศว่าชิ้นส่วนเหล่านี้ถูกเชื่อมเป็นเส้นทางที่ผู้ใช้ทั่วไปสามารถค้นพบ เข้าใช้ ส่งต่อ และกลับเข้ามาใหม่ได้อย่างต่อเนื่อง
+อีกด้านหนึ่ง ไม่ควรถือว่า “มีบริการหลายหน่วย = ระบบเชื่อมต่อแล้ว”
 
-นี่ทำให้โจทย์วิจัยเปลี่ยนจาก
+\[
+ManyServices
+\neq
+IntegratedPathway
+\]
 
-> ประเทศไทยต้องสร้างหลักสูตรก่อนสมรสใหม่หรือไม่
+บทเรียนจาก Mahidol Model ในการป้องกันและแก้ไขการตั้งครรภ์วัยรุ่นมีความเกี่ยวข้องในเชิงระบบ แม้ไม่ใช่ premarital intervention งานดังกล่าวบูรณาการ family, community, school และ health-service components และสร้างระบบ screening/referral โดยใช้บุคลากรท้องถิ่นที่มีอยู่<sup>36</sup> คุณค่าของตัวอย่างนี้ต่อบทความไม่ใช่การนำ intervention เดิมมาใช้กับ premarital แต่คือการแสดงว่า **education + community support + screening/referral + clinical service** สามารถถูกออกแบบเป็นระบบที่เชื่อมกันได้ในบริบทไทย
 
-เป็น
-
-> เราจะทำให้ระบบก่อนสมรสที่กระจายอยู่แล้วกลายเป็นทางเข้าไปสู่ระบบครอบครัวที่ใช้งานได้จริงอย่างไร โดยไม่ทำลายความหลากหลายของแต่ละวัฒนธรรมและไม่เพิ่มภาระเกินจำเป็น
+ดังนั้นคำถามสำหรับ premarital Thailand ควรเป็น “จะเชื่อมอะไรที่มีอยู่แล้วอย่างไร” ก่อนถามว่า “จะสร้างบริการใหม่อะไร”
 
 ---
 
-# 8. จากตัวอย่างสิงคโปร์ไปอีกขั้น: premarital ไม่ใช่เพียง programme แต่เป็น conversion interface
+# 11. การสังเคราะห์: ปัญหาไม่ได้มีเพียง fragmentation แต่เป็น conversion problem
 
-สิงคโปร์แสดงให้เห็นภาพสำคัญว่า marriage preparation สามารถอยู่ร่วมกับ housing, leave, childcare, fertility support และ family services และในบางระบบสามารถมี continuity หลังสมรสได้
+คำว่า service fragmentation อธิบายสถานการณ์ที่ระบบหลายส่วนไม่เชื่อมต่อกัน แต่เพียงคำนี้ยังไม่พอ เพราะแม้ระบบเชื่อมกันบนกระดาษ ผู้ใช้ก็อาจเข้าไม่ถึง
 
-บทความนี้พยายามพาแนวคิดไปอีกขั้นโดยไม่อ้างว่าสิงคโปร์ “ขาด” สิ่งเหล่านี้ทั้งหมด
-
-สิ่งที่เพิ่มเข้ามาเป็นคำถามเชิงแนวคิดมีห้าประการ
-
-### หนึ่ง — จาก programme ไปสู่ conversion interface
-
-premarital contact อาจไม่ต้องทำหน้าที่สอนทุกเรื่อง แต่ควรทดสอบว่าเป็นจุดที่ช่วยแปลงทรัพยากรภายนอกให้กลายเป็น access และ capability ได้หรือไม่
-
-### สอง — จาก one-size-fits-all ไปสู่ temporal feasibility
-
-รูปแบบที่เหมาะกับคู่ซึ่งมีเวลาเตรียมหลายเดือนอาจไม่เหมาะกับคู่ที่มีเวลาและทรัพยากรจำกัด แต่การลดเวลาไม่ควรแลกกับการตัดหน้าที่ที่เกี่ยวกับความปลอดภัยหรือความรู้ที่ไม่ควรถูกเลื่อนออกไป
-
-### สาม — จาก couple-only ไปสู่ dual-channel safety
-
-บริการที่ทำงานกับคู่ควรพิจารณาช่องทางส่วนตัวที่ปลอดภัยสำหรับความเสี่ยงที่ไม่สามารถเปิดเผยต่อหน้าคู่ได้
-
-### สี่ — จาก course completion ไปสู่ return access
-
-การจบหลักสูตรไม่ควรเป็นจุดสิ้นสุด หากเนื้อหาหลายเรื่องมีความหมายก็ต่อเมื่อเกิดเหตุการณ์จริงในภายหลัง
-
-### ห้า — จาก referral ไปสู่ capacity-aware referral
-
-การชี้ช่องหรือส่งต่อไม่เพียงพอหากบริการปลายทางรับคนเพิ่มไม่ได้หรือมี waiting time สูง
-
-ดังนั้น:
+บทความนี้จึงเสนอการอ่านปัญหาเป็น **conversion problem**:
 
 \[
-AccessImprovement
+StructuralResources
 \rightarrow
-DemandRevealed
+ConversionConditions
 \rightarrow
-CapacityCheck
+FamilyCapability
+\rightarrow
+LifeCourseTrajectory
+\rightarrow
+Family/ChildOutcomes
 \]
 
-และการตัดสินใจของระบบอาจต้องเลือกระหว่าง:
+โดย structural resources ประกอบด้วย material resources, social determinants, service availability และ network capacity
+
+ส่วน conversion conditions ซึ่งเป็นหัวใจของ premarital ในบทความนี้ประกอบด้วยอย่างน้อย:
 
 \[
-\{
-Connectivity,\,
-NewService,\,
-CapacityExpansion,\,
-Governance,\,
-Hybrid
-\}
-\]
-
----
-
-# 9. Re-entry หลังสมรส: อย่าสอนทุกอย่างก่อนแต่ง แต่ต้องรู้ว่าจะกลับมาที่ไหน
-
-หลักฐานจาก Marriage Checkup และ intervention ที่คร่อมช่วง transition to parenthood ชี้ว่าการติดต่อซ้ำหรือการสนับสนุนข้ามช่วงเปลี่ยนผ่านสามารถมีผลต่อ outcome บางด้านได้ แต่หลักฐานยังไม่ยืนยันว่า follow-up แบบใดดีที่สุดหรือคุ้มค่าที่สุด
-
-ดังนั้นคำว่า “re-entry” ควรถูกแยกเป็นสามกลไก:
-
-\[
-UserInitiatedReturn
-\]
-
-\[
-TransitionTriggeredOffer
-\]
-
-\[
-PeriodicCheckup
-\]
-
-สามกลไกนี้มีต้นทุนและความเสี่ยงด้าน equity แตกต่างกัน
-
-user-initiated return อาจต้นทุนต่ำ แต่สามารถพลาดคนที่ literacy ต่ำ มี stigma สูง หรือไม่รู้ว่าตนต้องการความช่วยเหลือ
-
-periodic checkup อาจเข้าถึงคนได้กว้างกว่า แต่มีต้นทุนและอาจสร้าง burden โดยไม่จำเป็น
-
-transition-triggered offer อาจอยู่กึ่งกลาง เช่น เสนอความช่วยเหลือเมื่อเกิด pregnancy, infertility, birth, parenting, relationship distress หรือ safety concern
-
-บทความจึงไม่ได้เสนอว่าต้องติดตามทุกครอบครัวตลอดเวลา แต่เสนอให้ทดสอบว่า
-
-\[
-KnownReturnRoute
-+
-AppropriateRecontact
-\]
-
-สามารถลดความจำเป็นในการยัดเนื้อหาทุกอย่างก่อนสมรสได้หรือไม่
-
----
-
-# 10. บทบาทของภาคประชาสังคม: เชื่อมโดยไม่แทนรัฐและผู้เชี่ยวชาญ
-
-หากระบบ premarital จะถูกขยายไปสู่ ecosystem ของครอบครัว ภาคประชาสังคมมีบทบาทที่น่าสนใจเพราะสามารถทำงานใกล้กับชุมชน ภาษา วัฒนธรรม และชีวิตประจำวันของผู้ใช้
-
-แต่ “ต้นทุนต่ำ” ไม่ควรถูกตีความว่าให้คนในชุมชนทำงานแทนแพทย์ นักจิตวิทยา นักสังคมสงเคราะห์ ผู้เชี่ยวชาญด้านความรุนแรง หรือนักกฎหมาย
-
-เงื่อนไขพื้นฐานคือ
-
-\[
-SpecialistSubstitution=0
-\]
-
-ภาคประชาสังคมอาจมีบทบาทในงานที่เบากว่า เช่น
-
-- ทำ service map ที่ตรวจสอบแล้ว
-- ช่วยให้ผู้ใช้รู้ว่าควรไปที่ใด
-- ทำ orientation สั้น
-- ช่วยระบุสัญญาณที่ต้องขอความช่วยเหลือ
-- จัดช่องทางส่วนตัวและปลอดภัย
-- เชื่อมต่อ referral
-- รักษา return route
-- สนับสนุน caregiver และ parenting ในขอบเขตที่มีหลักฐานและบุคลากรเหมาะสม
-
-แต่หากปัญหาหลักคือ housing, paid leave, childcare capacity, specialist mental health, fertility treatment หรือ protection/justice ภาคประชาสังคมไม่สามารถใช้ “การเชื่อมระบบ” แทนการลงทุนเชิงโครงสร้างเหล่านั้นได้
-
-ดังนั้น:
-
-\[
-CivilSocietyConnectivity
-\neq
-StructuralPolicyReplacement
-\]
-
----
-
-# 11. เศรษฐศาสตร์ของการเชื่อมระบบ: Missing Edge ไม่เท่ากับ Missing Node
-
-แนวคิดเดิมที่ว่า “เพิ่มเส้นเชื่อมก่อนสร้างบริการใหม่” ฟังดูประหยัด แต่หลักฐานด้าน integrated care และ patient navigation ไม่สนับสนุนให้ถือเป็นกฎสากล
-
-การเพิ่ม navigation สามารถเพิ่ม service use เพราะทำให้ unmet demand ที่เคยมองไม่เห็นเข้าสู่ระบบได้
-
-ดังนั้นบริการปลายทาง \(j\) ต้องถูกประเมินอย่างน้อยในห้ามิติ:
-
-\[
-B_j
+K
 =
+\langle
+EffectiveAccess,\,
+TemporalFeasibility,\,
+Safety/Autonomy,\,
+CulturalMeaning
+\rangle
+\]
+
+**Effective access** ถามว่าผู้ใช้รู้ เข้า และใช้บริการได้จริงหรือไม่  
+**Temporal feasibility** ถามว่าบริการเข้ากับเวลาและภาระของชีวิตจริงหรือไม่  
+**Safety/autonomy** ถามว่าการเข้าถึงเปิดช่องให้บุคคลพูดและตัดสินใจโดยไม่ถูกควบคุมหรือไม่  
+**Cultural meaning** ถามว่าบริการสามารถถูกเข้าใจและใช้ได้ภายในโลกความหมายของบุคคลโดยไม่บังคับ conformity หรือไม่
+
+จากนั้นจึงเกิด substantive family capability:
+
+\[
+C^{family}
+=
+\Phi(
+StructuralResources,\,
+ConversionConditions,\,
+Personal/RelationalConditions
+)
+\]
+
+Family capability ในที่นี้ไม่ได้หมายถึง “ความพร้อมแต่งงาน” แบบคะแนนเดียว แต่หมายถึงความสามารถที่แท้จริงในการดำเนินชีวิตครอบครัวภายใต้ทางเลือกที่บุคคลให้คุณค่า เช่น การสื่อสาร การจัดการความขัดแย้ง การเข้าถึงสุขภาพ การวางแผนการดูแล การขอความช่วยเหลือ และการปกป้องตนเองเมื่อไม่ปลอดภัย
+
+กรอบนี้สืบทอด logic หลักจาก Capability Approach, access theory และ life-course approach มากกว่าจะประกาศเป็นทฤษฎีใหม่ สิ่งที่ยังต้องทดสอบคือการจัด configuration เหล่านี้รอบวัตถุเฉพาะคือ premarital
+
+---
+
+# 12. จาก “หลักสูตรก่อนแต่ง” สู่ premarital service architecture
+
+หาก premarital ถูกนิยามเป็น conversion interface การออกแบบจะเปลี่ยนจากการเพิ่ม syllabus ไปสู่การจัด function ของระบบ
+
+## 12.1 หน้าที่ที่ไม่ควรถูกเลื่อน ภายใต้ข้อจำกัดของเวลา
+
+หลักฐานปัจจุบันยังไม่อนุญาตให้กำหนด “minimum sufficient course” ที่ใช้ได้กับทุกคู่ ดังนั้นควรเปลี่ยนคำถามเป็น:
+
+\[
+LowTemporalFeasibility
+\Rightarrow
+WhichFunctionsCannotSafelyBeDeferred?
+\]
+
+candidate functions ที่ควรทดสอบ ได้แก่ basic orientation, safety literacy, navigation, red-flag recognition และ return access
+
+ความแตกต่างสำคัญคือ candidate functions เหล่านี้ไม่ถูกอ้างว่าให้ผลเท่ากับ programme ฝึก relationship skills 9–20 ชั่วโมง การติดต่อสั้นอาจมีเป้าหมายเพียงให้คนรู้ว่า “อะไรสำคัญและจะกลับมาหาความช่วยเหลือที่ไหน” ไม่ใช่สร้าง competence ลึกในเวลาสั้นมาก
+
+## 12.2 จาก couple-only สู่ dual-channel architecture
+
+ระบบหลักอาจยังทำงานกับคู่ แต่ควรมี:
+
+\[
+SharedCoupleAccess + PrivateIndividualAccess
+\]
+
+โดย private route ไม่จำเป็นต้องแยกเป็น programme ใหม่ แต่อาจเป็นช่องทาง confidential contact, QR, phone, secure messaging หรือช่วง individual check-in ที่ออกแบบตาม safety protocol
+
+## 12.3 จาก course completion สู่ return access
+
+หลักฐาน Marriage Checkup แสดงว่า brief recurring relationship checkups สามารถปรับ outcome บางด้านได้ในบางช่วง<sup>37,38</sup> และ literature transition-to-parenthood สนับสนุน intervention ที่เชื่อมก่อนและหลัง transition บางรูปแบบ<sup>39</sup> แต่ยังไม่มีหลักฐานว่าระบบใด—user-initiated return, transition-triggered offer หรือ periodic checkup—ดีที่สุดสำหรับ premarital architecture
+
+จึงควรแยกเป็นสามกลไก:
+
+\[
+R_1=UserInitiatedReturn
+\]
+
+\[
+R_2=TransitionTriggeredOffer
+\]
+
+\[
+R_3=PeriodicCheckup
+\]
+
+การรวมทั้งหมดเป็นคำว่า “follow-up” ทำให้มองไม่เห็นทั้งต้นทุน ความเสมอภาค และ risk of missing vulnerable users
+
+## 12.4 จาก referral list สู่ referral completion
+
+การให้เบอร์โทรศัพท์หรือ directory ไม่เท่ากับการได้รับความช่วยเหลือ การส่งต่อควรถูกวัดด้วย recognition → contact → acceptance → attendance/completion → appropriate response
+
+ดังนั้น:
+
+\[
+ReferralGiven
+\neq
+ReferralCompleted
+\]
+
+และในกรณีความเสี่ยงสูง อาจต้องใช้ warm/accompanied referral มากกว่า signposting แบบเบา แต่ไม่ควร assume ว่า warm referral มีประสิทธิผลเหนือกว่าเสมอ เพราะหลักฐานเปรียบเทียบโดยตรงยังจำกัด
+
+---
+
+# 13. Re-entry หลังสมรส: continuity ที่ไม่กลายเป็นภาระติดตามทุกคนตลอดเวลา
+
+premarital programme แบบดั้งเดิมมักมี endpoint คือ “จบหลักสูตร” แต่ชีวิตครอบครัวมีปัญหาที่ไม่สามารถมีความหมายเต็มที่ก่อนเกิดเหตุจริง เช่น infertility, pregnancy, parenting stress, mental-health distress, relationship deterioration หรือ safety concern
+
+แนวคิด re-entry จึงเกิดจากข้อสังเกตว่า การ front-load ความรู้ทั้งหมดก่อนแต่งอาจมีทั้ง cognitive burden และ low relevance
+
+อย่างไรก็ตาม “เปิดให้กลับมาได้” แตกต่างจาก “ติดตามทุกคนตลอดเวลา” ระบบต้นทุนต่ำควรทดสอบว่า known return route สามารถรักษาความต่อเนื่องได้โดยไม่สร้าง follow-up burden เกินจำเป็นหรือไม่
+
+ข้อเสนอที่ต้องเปรียบเทียบ ได้แก่
+
+- **User-initiated return:** ผู้ใช้กลับมาเมื่อเห็นความต้องการเอง ต้นทุนระบบต่ำกว่า แต่อาจ bias ไปหาคน literacy/agency สูง
+- **Transition-triggered offer:** ระบบติดต่อเมื่อมี transition สำคัญ เช่น pregnancy, birth หรือ fertility difficulty ซึ่งอาจเพิ่ม relevance แต่ต้องมี data/governance ที่เหมาะสม
+- **Periodic checkup:** ทุกคนได้รับการชวนกลับในช่วงเวลาที่กำหนด อาจลด inequity บางด้านแต่มีต้นทุนสูงกว่า
+
+คำถามเชิงวิจัยจึงไม่ใช่ “ควรมี re-entry หรือไม่” แบบ binary แต่คือ “ใครควรได้รับการติดต่อ แบบใด เมื่อใด และด้วยต้นทุน/ผลกระทบเท่าใด”
+
+---
+
+# 14. เศรษฐศาสตร์ของระบบ: Missing Edge, Missing Node, Capacity และ Governance
+
+ข้อเสนอเรื่องภาคประชาสังคมมักตั้งต้นว่าการ “เชื่อมของที่มีอยู่” ถูกกว่าการสร้างบริการใหม่ สมมติฐานนี้มีเหตุผลในบางกรณี แต่ไม่ควรถูกยกเป็นกฎสากล
+
+Systematic review และ meta-analysis ของ integrated care พบว่า intervention แบบบูรณาการสามารถให้ผลลัพธ์ดีขึ้นและต้นทุนลดลงเล็กน้อยโดยเฉลี่ยในบางระบบ แต่ heterogeneity สูงและคุณภาพ economic evaluations ไม่สม่ำเสมอ<sup>40</sup> ในบาง domain เช่น cancer patient navigation มีงานจำนวนหนึ่งที่สนับสนุน service-use และ cost-effectiveness แต่ใน social prescribing/link-worker literature หลักฐานด้าน cost-effectiveness ยังอ่อนและผลด้านสุขภาพไม่สม่ำเสมอ<sup>41,42</sup>
+
+ดังนั้น:
+
+\[
+Navigation
+\neq
+AutomaticallyCostEffective
+\]
+
+ที่สำคัญ การเชื่อมที่ดีขึ้นอาจทำให้ demand ที่เคยมองไม่เห็นเข้าสู่ระบบ ซึ่งเป็นผลดีด้าน access แต่สร้าง pressure ต่อ capacity
+
+สำหรับบริการปลายทาง \(j\) ควรวิเคราะห์อย่างน้อย:
+
+\[
+B_j=
 \langle
 Availability,\,
 Connectivity,\,
@@ -533,43 +517,58 @@ Governance
 \rangle
 \]
 
-เมื่อการเชื่อมต่อดีขึ้น demand อาจกลายเป็น:
+หาก service มี capacity แต่คนหาไม่เจอ ปัญหาอาจเป็น Missing Edge  
+หากไม่มี service ที่เหมาะสม ปัญหาเป็น Missing Node  
+หาก service มีอยู่แต่เต็ม ปัญหาเป็น Missing Capacity  
+หากหลายส่วนมีปัญหาพร้อมกัน ต้องใช้ Hybrid response
+
+Network governance literature เพิ่มข้อเตือนอีกชั้นว่า network ไม่ทำงานเพียงเพราะมีเส้นเชื่อมมากขึ้น ต้องถามว่าใครกำหนดมาตรฐาน ใครรับผิดชอบ referral ใครจัดการข้อมูล ใครตรวจคุณภาพ และใครรับผิดเมื่อผู้ใช้ตกหล่น<sup>14</sup>
+
+ดังนั้น:
 
 \[
-\lambda'_j
-=
-\lambda_j
-+
-\Delta\lambda^{connection}_j
+MoreEdges
+\not\Rightarrow
+BetterGovernance
 \]
 
-ถ้าความจุของระบบไม่พอ การเพิ่ม connection อาจแค่ย้ายปัญหาจาก “หาไม่เจอ” ไปเป็น “รอนาน”
-
-จึงไม่ควรถามเพียงว่า “จะเชื่อมอย่างไร” แต่ต้องถามว่า:
-
-> จุดคอขวดจริงอยู่ที่การค้นหา การเชื่อมต่อ ความจุ คุณภาพ หรือ governance
-
-และเลือกการลงทุนจาก:
-
-\[
-\{
-Edge,\,
-Node,\,
-Capacity,\,
-Governance,\,
-Hybrid
-\}
-\]
-
-โดยคำนึงถึงต้นทุน ความปลอดภัย ความเสมอภาค คุณภาพ และ waiting time
+และต้นทุนของ “edge” ต้องรวม coordination, supervision, data governance, safeguarding และ referral maintenance ไม่ใช่เฉพาะค่าทำ platform หรือค่าอาสาสมัคร
 
 ---
 
-# 12. จาก premarital ไปสู่คุณภาพชีวิตเด็ก โดยไม่กระโดดข้ามเหตุผล
+# 15. บทบาทของภาคประชาสังคม: เชื่อมระบบโดยไม่แทนที่รัฐหรือผู้เชี่ยวชาญ
 
-การเสนอให้ premarital มีความสำคัญต่อเด็กในอนาคตต้องระวังไม่ให้กระโดดจาก “เรียนก่อนแต่ง” ไปสู่ “เด็กมีคุณภาพ” โดยตรง
+ภาคประชาสังคมมีศักยภาพเฉพาะตัว เพราะอยู่ใกล้ภาษา เครือข่าย ความหมาย และชีวิตประจำวันของชุมชนมากกว่าสถาบันส่วนกลางในหลายกรณี แต่การกล่าวว่า “ภาคประชาสังคมต้นทุนต่ำ” อาจซ่อน unpaid labour, burnout, supervision cost และความเสี่ยงจากการส่งงานวิชาชีพให้คนที่ไม่ได้รับการฝึก
 
-เส้นทางที่สมเหตุสมผลกว่าคือ:
+จึงต้องตั้ง constraint:
+
+\[
+SpecialistSubstitution=0
+\]
+
+ภาคประชาสังคมอาจมีบทบาทเหมาะสมในระดับ light-touch เช่น service mapping, orientation, navigation, peer/community support, red-flag recognition, private access gateway และ referral coordination ขณะที่ diagnosis, treatment, violence response, legal advice หรือ specialist mental-health care ต้องอยู่ในขอบเขตของผู้เชี่ยวชาญตามกฎหมายและมาตรฐานวิชาชีพ
+
+อีกข้อหนึ่งที่สำคัญคือ:
+
+\[
+CivilSocietyConnectivity
+\neq
+StructuralPolicyReplacement
+\]
+
+premarital architecture ไม่สามารถแทน affordable housing, adequate income, paid leave, childcare, universal health coverage หรือระบบคุ้มครองผู้ประสบความรุนแรงได้ หาก binding constraint อยู่ที่โครงสร้างเหล่านี้ การทำ navigation อย่างเดียวอาจเพียงทำให้มองเห็นปัญหาที่ไม่มี capacity รองรับ
+
+บทบาทของภาคประชาสังคมจึงควรถูกวางเป็น “interface” ระหว่างชีวิตคนกับระบบ ไม่ใช่ substitute ของ welfare state
+
+---
+
+# 16. จาก premarital ไปสู่คุณภาพชีวิตเด็ก: ต้องไม่ข้าม causal steps
+
+การเชื่อม premarital กับ child well-being เป็นส่วนที่มีความเสี่ยงต่อการ overclaim สูงที่สุด เพราะเด็กอาจยังไม่เกิดในช่วง intervention และเส้นทางจากการเตรียมก่อนสมรสไปสู่พัฒนาการเด็กมี mediators จำนวนมาก
+
+Nurturing Care Framework กำหนดองค์ประกอบสำคัญของการพัฒนาเด็กปฐมวัย ได้แก่ good health, adequate nutrition, safety and security, responsive caregiving และ opportunities for early learning<sup>12</sup> บทความนี้ใช้กรอบดังกล่าวเป็น child-outcome anchor แทนการสร้างนิยาม “เด็กคุณภาพ” ขึ้นเอง
+
+เส้นทางที่สมเหตุสมผลคือ:
 
 \[
 PremaritalConditions
@@ -583,33 +582,21 @@ NurturingCare
 ChildOutcomes
 \]
 
-Nurturing Care Framework ให้ outcome anchor ที่มีอยู่แล้ว ได้แก่
+Family Stress Model ช่วยอธิบายว่าความยากลำบากทางเศรษฐกิจสามารถส่งผลผ่าน economic pressure, caregiver distress, couple conflict และ parenting ไปสู่ child outcomes ได้<sup>11</sup> ทำให้เห็นว่าการมี “ความรู้เลี้ยงลูก” อย่างเดียวไม่เท่ากับความสามารถในการให้ nurturing care หากผู้ดูแลมีภาระสูงและทรัพยากรต่ำ
 
-\[
-Health
-+
-Nutrition
-+
-Safety
-+
-ResponsiveCaregiving
-+
-Learning
-\]
+ดังนั้น premarital ไม่ใช่ intervention พัฒนาการเด็กโดยตรง สิ่งที่สมเหตุสมผลกว่าคือทดสอบว่า premarital ช่วยเพิ่ม navigation, safety, expectation alignment, preconception uptake หรือ help-seeking ซึ่งต่อมาอาจสร้างเงื่อนไขที่เอื้อต่อ caregiving หรือไม่
 
-premarital จึงไม่ใช่ intervention สำหรับพัฒนาการเด็กโดยตรง แต่เป็น upstream condition ที่อาจเปลี่ยน readiness, access, safety, help-seeking หรือ caregiver capability ซึ่งต่อมาจึงสัมพันธ์กับเงื่อนไขการเลี้ยงดูเด็ก
-
-ข้อเสนอนี้ต้องถูกทดสอบในลำดับขั้น ไม่ควรสรุป causal chain ทั้งเส้นโดยไม่มีข้อมูล longitudinal
+การอ้างว่า premarital “ยกระดับคุณภาพเด็ก” ต้องรอ longitudinal evidence ที่ติดตาม causal chain หลายช่วง มิฉะนั้นจะเป็นการข้ามระดับการวิเคราะห์จาก couple-level intervention ไปสู่ child-level outcome โดยไม่มีหลักฐานเชื่อมพอ
 
 ---
 
-# 13. Fertility เป็น distal outcome ไม่ใช่คะแนนความสำเร็จของ premarital
+# 17. Fertility เป็น distal population outcome ไม่ใช่คะแนนความสำเร็จของ premarital
 
-บทความนี้เกิดขึ้นท่ามกลางบริบทเด็กเกิดน้อย แต่ไม่ได้ถือว่าการเพิ่มการเกิดเป็นเป้าหมายเพียงตัวเดียว
+บทความนี้เกิดขึ้นในบริบทของเด็กเกิดน้อย แต่ไม่ควรทำให้ทุก outcome ถูกตีความผ่าน pronatalism
 
-premarital intervention อาจทำให้บางคนมั่นใจมากขึ้นในการสร้างครอบครัว แต่ก็อาจทำให้บางคนตัดสินใจชะลอการมีบุตร ขอรับการรักษา เลือกไม่มีบุตร ออกจากความสัมพันธ์ที่ไม่ปลอดภัย หรือทบทวนแผนชีวิตใหม่
+หาก premarital support เพิ่มข้อมูลและ agency ผลลัพธ์ของคนแต่ละคนอาจต่างกัน บางคนอาจตัดสินใจมีบุตรเร็วขึ้น บางคนชะลอเพื่อแก้ปัญหาสุขภาพ บางคนตัดสินใจไม่แต่ง บางคนเลือกไม่มีบุตร หรือบางคนออกจากความสัมพันธ์ที่ไม่ปลอดภัย
 
-หากระบบเคารพ autonomy ผลลัพธ์เหล่านี้ไม่ควรถูกนับเป็น “ความล้มเหลว” เพียงเพราะไม่ทำให้ birth count เพิ่ม
+ระบบที่เคารพ autonomy ต้องยอมรับว่า outcome เหล่านี้อาจเป็น informed choices ไม่ใช่ system failure
 
 ดังนั้น:
 
@@ -627,15 +614,15 @@ MarriagePersistence
 FamilyWellbeing
 \]
 
-เป้าหมายของ premarital ในกรอบนี้คือเพิ่ม **ความสามารถในการดำเนินชีวิตครอบครัวอย่างมีข้อมูล ปลอดภัย มีความหมาย และเข้าถึงความช่วยเหลือได้** ไม่ใช่บังคับให้เกิดผลลัพธ์ชีวิตแบบเดียว
+ในเชิงประชากร fertility ยังคงเป็นผลลัพธ์สำคัญที่รัฐติดตาม แต่ causal pathway จาก premarital contact ไปสู่ TFR ยาวและถูกกำกับด้วย age structure, economy, housing, labour market, biology, migration, norms และ policy coverage จึงไม่ควรใช้ feasibility study ของ premarital ไปอ้างผลต่อ TFR
 
 ---
 
-# 14. ข้อเสนอที่สามารถถูกทดสอบและทำให้ล้มได้
+# 18. ข้อเสนอเชิงแนวคิดที่ต้องสามารถถูกทำให้ล้มได้
 
-เพื่อป้องกันไม่ให้กรอบนี้กลายเป็น architecture ที่ฟังดูดีแต่ไม่สามารถถูกพิสูจน์หรือหักล้าง บทความเสนอให้ถือข้อสัมพันธ์ต่อไปนี้เป็น working propositions
+เพื่อไม่ให้กรอบนี้กลายเป็น architecture ที่สวยแต่ตรวจสอบไม่ได้ บทความกำหนด propositions ที่มี falsifier ชัดเจน
 
-## ข้อเสนอ 1: premarital contact อาจทำหน้าที่เป็น gateway
+## Proposition 1: Premarital contact เป็น gateway ไปสู่ appropriate help-seeking
 
 \[
 PremaritalContact
@@ -643,11 +630,11 @@ PremaritalContact
 LaterAppropriateHelpSeeking
 \]
 
-ปัจจุบันมีหลักฐานเชิง association ว่าการได้รับ premarital education สัมพันธ์กับการใช้ relationship counselling ในภายหลัง แต่ causality และการขยายไปสู่บริการประเภทอื่นยังต้องทดสอบ
+หลักฐานปัจจุบันสนับสนุน association ใน relationship-help-seeking แต่ยังไม่พิสูจน์ causality หรือการขยายไปทุก service domain<sup>24,25</sup>
 
-**Falsifier:** หากการสุ่มหรือ quasi-experimental intervention ที่เพิ่ม navigation/help-seeking component ไม่ทำให้ appropriate help-seeking เพิ่มขึ้นเมื่อบริการปลายทางมีอยู่จริง ข้อเสนอ gateway จะอ่อนลงอย่างมาก
+**Falsifier:** หาก intervention ที่สุ่มเพิ่ม navigation/help-seeking component ใน premarital contact ไม่ทำให้ appropriate service use, referral completion หรือ time-to-help ดีขึ้นเมื่อปลายทางมี capacity ข้อเสนอ gateway ต้องถูกลดความสำคัญ
 
-## ข้อเสนอ 2: เมื่อเวลาน้อย บางหน้าที่อาจไม่ควรถูกเลื่อน
+## Proposition 2: ภายใต้เวลาจำกัด มีบาง function ที่ไม่ควรถูกเลื่อน
 
 \[
 LowTemporalFeasibility
@@ -655,21 +642,23 @@ LowTemporalFeasibility
 MinimumNonDeferrableFunctions
 \]
 
-**Falsifier:** หากการเลื่อน candidate functions ออกไปไม่ทำให้ safety, navigation หรือ health action แย่ลง ก็ไม่ควรถือว่าหน้าที่นั้น non-deferrable
+candidate functions ได้แก่ orientation, safety, navigation, red-flag recognition และ return access แต่ยังไม่ถือว่าได้รับการพิสูจน์
 
-## ข้อเสนอ 3: dual-channel access อาจปลอดภัยกว่า couple-only ในบางภาวะ
+**Falsifier:** หากการเลื่อน function ใดออกไปไม่เพิ่ม risk หรือทำให้ outcome ที่เกี่ยวข้องแย่ลง function นั้นไม่ควรถูกเรียกว่า non-deferrable
+
+## Proposition 3: dual-channel access เพิ่ม safety ในบางกลุ่ม
 
 \[
-SharedWhenSafe
-+
-PrivateRoute
+SharedWhenSafe+PrivateRoute
 \stackrel{?}{\longrightarrow}
 SaferDisclosure/Referral
 \]
 
-**Falsifier:** หาก private route ไม่เพิ่ม safe disclosure หรือสร้าง retaliation/privacy risk มากกว่า benefit ต้องออกแบบใหม่
+**Falsifier:** หาก private route ไม่เพิ่ม safe disclosure/appropriate referral หรือเพิ่ม retaliation/privacy risk มากกว่า benefit ต้องออกแบบใหม่
 
-## ข้อเสนอ 4: return access อาจลดการ front-load เนื้อหา
+## Proposition 4: return access สามารถลดการ front-load ได้
+
+เปรียบเทียบ:
 
 \[
 UserInitiated
@@ -679,9 +668,9 @@ Triggered
 Periodic
 \]
 
-**Falsifier:** หากรูปแบบต้นทุนต่ำพลาดกลุ่มเสี่ยงสูง ทำให้ขอความช่วยเหลือล่าช้า หรือไม่ได้ลดต้นทุนเมื่อเทียบกับ periodic contact ก็ไม่ควรเลือกเพราะราคาถูกกว่า
+**Falsifier:** หาก low-cost return model พลาดกลุ่มเสี่ยงสูง ทำให้ help-seeking ล่าช้า หรือไม่ได้ประหยัดเมื่อเทียบกับ periodic follow-up ก็ไม่ควรถูกเลือกเพียงเพราะดู “เบา”
 
-## ข้อเสนอ 5: การวินิจฉัย bottleneck ควรทำนาย intervention ที่เหมาะกว่า
+## Proposition 5: bottleneck diagnosis ช่วยเลือกการลงทุนที่เหมาะสมกว่า
 
 \[
 BottleneckDiagnosis
@@ -689,104 +678,342 @@ BottleneckDiagnosis
 BetterResourceAllocation
 \]
 
-**Falsifier:** หากการจำแนก Availability/Connectivity/Capacity/Quality/Governance ไม่ช่วยทำนายว่าการลงทุนแบบใดให้ outcome ต่อ cost ที่ดีกว่า กฎวินิจฉัยต้องถูกยุบหรือเปลี่ยน
+โดยจำแนก availability, connectivity, capacity, quality และ governance ก่อนเลือก edge/node/capacity/governance/hybrid
+
+**Falsifier:** หากการจำแนกนี้ไม่ทำนายว่าการลงทุนแบบใดให้ผลต่อทรัพยากร ความปลอดภัย และความเสมอภาคที่ดีกว่า กฎวินิจฉัยต้องถูกยุบหรือแทนที่
 
 ---
 
-# 15. นัยต่อการออกแบบงานวิจัยในประเทศไทย
+# 19. นัยต่อสังคมศาสตร์และมนุษยศาสตร์
 
-แทนการเริ่มจากการทดลอง “หลักสูตรก่อนสมรสแบบใหม่” ขนาดใหญ่ทันที การวิจัยอาจเริ่มแบบ sequential
+แม้ premarital มักถูกจัดเป็นเรื่องการให้คำปรึกษาหรือการศึกษา แต่การมองผ่านสังคมศาสตร์และมนุษยศาสตร์ทำให้เห็นว่ามันเป็นพื้นที่ที่โครงสร้างและความหมายมาบรรจบกัน
 
-### ระยะที่ 1 — service and pathway mapping
+ในระดับโครงสร้าง คู่ก่อนสมรสอยู่ภายใต้ labour market, housing, welfare, gender regime และ service system ที่พวกเขาไม่ได้ควบคุมทั้งหมด ในระดับความสัมพันธ์ การแต่งงานทำให้ linked lives ขยายจากสองคนไปสู่ครอบครัวสองฝ่าย เครือญาติ ชุมชน และสถาบัน ในระดับวัฒนธรรม คนต้องแปลความหมายของ “คู่สมรสที่ดี”, “พ่อแม่ที่ดี”, “การมีลูก”, “การดูแลผู้สูงอายุ” และ “ความสำเร็จของชีวิต” ภายใต้ทั้งบรรทัดฐานร่วมและความต้องการของตนเอง
 
-ระบุว่า premarital contact point ในประเทศไทยอยู่ที่ใดบ้าง ใครเข้าถึง ใครตกหล่น และ referral path ปัจจุบันทำงานอย่างไร
+ดังนั้น premarital ไม่ใช่พื้นที่ “ก่อนเกิดครอบครัว” ในความหมายว่าครอบครัวยังไม่มีตัวตน แต่เป็นพื้นที่ที่ family order กำลังถูกต่อรองและสร้างขึ้น
 
-### ระยะที่ 2 — minimum non-deferrable functions
+Phenomenological lens ช่วยเตือนว่าความเป็นไปได้ในเอกสารนโยบายไม่เท่ากับความเป็นไปได้ที่บุคคลประสบจริง:
 
-ทดสอบว่า orientation, safety, navigation, red-flag recognition และ return access องค์ประกอบใดจำเป็นต้องเกิดก่อนสมรสจริง
+\[
+FormalAccess
+\neq
+ExperiencedAccess
+\neq
+UsableAccess
+\]
 
-### ระยะที่ 3 — dual-channel safety
+\[
+ClockTime
+\neq
+LivedTime
+\]
 
-ทดสอบ feasibility และ safety ของช่องทางส่วนตัวควบคู่กับ couple-based contact
+\[
+CulturalFit
+\neq
+LivedMeaning
+\]
 
-### ระยะที่ 4 — return-mode comparison
-
-เปรียบเทียบ user-initiated, triggered และ periodic recontact
-
-### ระยะที่ 5 — system bottleneck and economic evaluation
-
-วัดว่าการเพิ่ม access ทำให้ demand เพิ่มเท่าใด บริการปลายทางมี capacity หรือไม่ และการลงทุนแบบ edge/node/capacity/governance/hybrid แบบใดให้คุณค่าต่อทรัพยากรสูงสุด
-
-เส้นทางนี้ทำให้การวิจัย premarital เชื่อมจาก micro-level ของคู่ ไปถึง meso-level ของเครือข่ายบริการ โดยไม่กระโดดไปสรุประดับ fertility ของประเทศทันที
-
----
-
-# 16. ข้อจำกัดของกรอบนี้
-
-ประการแรก หลักฐานจำนวนมากมาจาก relationship education, health services, IPV care, integrated care และ life-course intervention ซึ่งไม่ได้ทดสอบ premarital architecture แบบที่บทความนี้เสนอโดยตรง การยืมแนวคิดข้ามสาขาจึงต้องระบุเสมอว่าเป็น analogical support หรือ parent theory ไม่ใช่ direct evidence
-
-ประการที่สอง วัฒนธรรมไม่ควรถูก operationalise เป็นเพียง religion, ethnicity หรือ nationality เพราะภายในกลุ่มเดียวกันมีความแตกต่างด้านความหมายและอำนาจต่อรองสูง การวัด cultural meaning จึงเป็นโจทย์ที่ยังเปิดอยู่
-
-ประการที่สาม private access และ safe disclosure ต้องถูกออกแบบด้วย safeguarding จริง มิฉะนั้นช่องทางที่ตั้งใจให้ปลอดภัยอาจเพิ่มความเสี่ยงได้
-
-ประการที่สี่ ระบบ referral ที่ดีขึ้นอาจเพิ่ม demand ต่อบริการจนเกิด waiting time และ crowding-out จึงต้องประเมิน system capacity พร้อมกัน
-
-ประการที่ห้า ยังไม่มีหลักฐานเพียงพอที่จะอ้างว่า premarital intervention เพิ่ม TFR โดยตรง หรือว่าผลต่อ child well-being จะเกิดขึ้นโดยอัตโนมัติ
+ข้อแตกต่างเหล่านี้ไม่จำเป็นต้องปรากฏเป็นศัพท์ปรัชญาหนักใน intervention แต่มีประโยชน์เชิงระเบียบวิธี เพราะทำให้การประเมินถามผู้ใช้จริงว่าเขารู้สึกว่าสามารถใช้บริการหรือพูดเรื่องยากได้หรือไม่ แทนที่จะสรุปจากการมีบริการหรือการผ่านหลักสูตร
 
 ---
 
-# 17. บทสรุป
+# 20. นัยต่อระบบสุขภาพ ครอบครัว และการออกแบบบริการ
 
-สิงคโปร์แสดงให้เห็นอย่างมีนัยสำคัญว่า marriage preparation สามารถเป็นส่วนหนึ่งของระบบ Marriage & Parenthood ที่กว้างกว่า และสามารถออกแบบ continuity จากก่อนสมรสไปสู่ช่วงแรกของชีวิตคู่ได้ ตัวอย่างนี้ทำให้เห็นว่า premarital ไม่จำเป็นต้องเป็นกิจกรรมโดดเดี่ยว
+สำหรับระบบสุขภาพ กรอบนี้เสนอให้ premarital/preconception ถูกเชื่อมกับ navigation มากกว่าการให้ความรู้เพียงอย่างเดียว ผู้ใช้ควรรู้ไม่เพียงเรื่อง fertility หรือ health risk แต่รู้ด้วยว่าควรเข้ารับบริการเมื่อใด ที่ไหน และต้องทำอย่างไรหากบริการแรกไม่ตอบโจทย์
 
-แต่บทความนี้ต้องการพาโจทย์ไปอีกขั้น
+สำหรับบริการครอบครัว การประเมินความสำเร็จควรขยับจาก attendance/satisfaction ไปสู่ reach, burden, help-seeking, referral completion, safe access และ re-entry
 
-ความท้าทายไม่ใช่เพียงว่า “มีบริการหรือไม่” แต่คือ **ทรัพยากรที่มีอยู่ถูกเปลี่ยนเป็นโอกาสจริงในชีวิตของผู้คนได้อย่างไร**
+สำหรับหน่วยงานวัฒนธรรมและชุมชน การรักษา core ของตนเองสามารถอยู่ร่วมกับ common interface ได้ กล่าวคือ ไม่จำเป็นต้องทำให้ทุก node สอนหลักสูตรเดียวกัน แต่สามารถมีมาตรฐานขั้นต่ำร่วมด้าน navigation, private access, professional boundary และ referral
 
-สำหรับ premarital การแปลงดังกล่าวขึ้นอยู่กับอย่างน้อยสี่เงื่อนไข ได้แก่ การเข้าถึงที่ใช้ได้จริง ความเป็นไปได้ด้านเวลา ความปลอดภัยและ autonomy และความหมายทางวัฒนธรรม และยังต้องสัมพันธ์กับความสามารถของบริการปลายทางที่จะรับ demand ที่เพิ่มขึ้น
+สำหรับระบบนโยบาย การเชื่อม premarital ไม่ควรกลายเป็นข้อบังคับที่สร้าง administrative burden ใหม่ หากความต้องการของรัฐในการ “เตรียมคนให้พร้อม” ทำให้ขั้นตอนสมรสซับซ้อนขึ้น ค่าใช้จ่ายเพิ่ม หรือเปิดช่องให้ gatekeeping ทางศีลธรรม ระบบอาจลด access แทนที่จะเพิ่ม capability
 
-ดังนั้น premarital ไม่ควรถูกจำกัดความเป็น “หลักสูตรก่อนแต่ง” แต่สามารถถูกศึกษาว่าเป็น **upstream conversion interface** ระหว่างบุคคล/คู่กับระบบครอบครัวที่กว้างกว่า
+การออกแบบจึงควรใช้หลัก:
 
-ข้อเสนอที่สำคัญที่สุดจึงไม่ใช่การสร้างหลักสูตรที่ใหญ่ขึ้น แต่เป็นการทดสอบว่า premarital contact ที่มีภาระต่ำ สามารถทำให้ผู้ใช้:
+\[
+UniversalLowBurdenAccess
++
+TargetedIntensityWhenNeeded
+\]
 
-- รู้ว่าอะไรไม่ควรถูกเลื่อนออกไป
-- มีช่องทางขอความช่วยเหลือแบบส่วนตัวเมื่อจำเป็น
-- รู้ว่าจะกลับเข้าสู่ระบบหลังสมรสอย่างไร
-- และถูกส่งต่อไปยังบริการที่มี capacity และ governance รองรับจริง
-
-ได้หรือไม่
-
-หากทำได้ ช่วงก่อนสมรสอาจมีคุณค่าไม่ใช่เพราะมัน “ผลิตการเกิด” โดยตรง แต่เพราะช่วยเปลี่ยนทรัพยากรทางสังคมที่มีอยู่ให้กลายเป็น **ศักยภาพของครอบครัว ความปลอดภัย คุณภาพชีวิตของผู้ดูแล และเงื่อนไขที่เอื้อต่อการเติบโตของเด็ก**
-
-และหากทดสอบแล้วไม่เกิดผลดังกล่าว กรอบนี้ก็ต้องถูกยุบกลับไปเป็นเพียงการประยุกต์ทฤษฎีเดิมกับบริบท premarital โดยไม่อ้างคุณค่าทางทฤษฎีเพิ่มเติม
+เป็น hypothesis สำหรับทดสอบ ไม่ใช่สูตรสำเร็จ
 
 ---
 
-# เอกสารอ้างอิงตั้งต้น
+# 21. วาระวิจัยสำหรับประเทศไทย
 
-> รายการนี้เป็น working bibliography สำหรับ manuscript v0.1 และจะต้องผ่าน claim-level citation audit ก่อนส่งจริง
+ก่อนเสนอ rollout ระดับประเทศ ควรดำเนินการอย่างเป็นลำดับ
 
-- American College of Obstetricians and Gynecologists (ACOG). *Intimate Partner Violence*. Committee Opinion.
-- American College of Obstetricians and Gynecologists (ACOG). *Prepregnancy Counseling*. 2019.
-- American College of Obstetricians and Gynecologists (ACOG). *Reproductive and Sexual Coercion*. Committee Opinion No. 554.
-- Bronfenbrenner, U., & Morris, P. A. Bioecological model / Process–Person–Context–Time framework.
-- Cordova, J. V., et al. (2014). *The Marriage Checkup: A Randomized Controlled Trial of Annual Relationship Health Checkups*. Journal of Consulting and Clinical Psychology.
-- Feinberg, M. E., et al. Family Foundations / transition-to-parenthood randomized trials.
-- Grace, K. T., & Anderson, J. C. (2018). *Reproductive Coercion: A Systematic Review*. Trauma, Violence, & Abuse.
-- Haggerty, J. L., et al. (2003). *Continuity of care: a multidisciplinary review*. BMJ.
-- Hawkins, A. J., Stanley, S. M., Blanchard, V. L., & Albright, M. (2012). *Exploring Programmatic Moderators of the Effectiveness of Marriage and Relationship Education Programs: A Meta-Analytic Study*. Behavior Therapy, 43(1), 77–87.
-- Levesque, J.-F., Harris, M. F., & Russell, G. (2013). *Patient-centred access to health care: conceptualising access at the interface of health systems and populations*. International Journal for Equity in Health.
-- Moynihan, D., Herd, P., & Harvey, H. (2015). *Administrative Burden: Learning, Psychological, and Compliance Costs in Citizen-State Interactions*. Journal of Public Administration Research and Theory.
-- Pinquart, M., & Teubert, D. (2010). *A Meta-analytic Study of Couple Interventions During the Transition to Parenthood*. Family Relations.
-- Provan, K. G., & Kenis, P. (2008). *Modes of Network Governance: Structure, Management, and Effectiveness*. Journal of Public Administration Research and Theory, 18(2), 229–252.
-- Rocks, S., et al. (2020). *Cost and effects of integrated care: a systematic literature review and meta-analysis*. European Journal of Health Economics.
-- Sen, A. Capability approach writings.
-- Singapore Government. (2026). *Marriage & Parenthood Measures at National Day Rally 2026*. Population.gov.sg.
-- Singapore Ministry of Social and Family Development. Marriage Preparation / Marriage Support programme materials, 2025–2026.
-- Singapore Our Marriage Journey / Registry of Muslim Marriages. (2026). *Face-to-Face session (Bersamamu) with Kadi/Naib Kadi*.
-- Williamson, H. C., Trail, T. E., Bradbury, T. N., & Karney, B. R. (2014). *Does premarital education decrease or increase couples' later help-seeking?* Journal of Family Psychology.
-- Williamson, H. C., Hammett, J. F., Ross, J. M., Karney, B. R., & Bradbury, T. N. (2018). *Premarital Education and Later Relationship Help-seeking*. Journal of Family Psychology, 32(2), 276–281.
-- World Health Organization. (2013). *Preconception care: Maximizing the gains for maternal and child health*.
-- World Health Organization. (2014). *Health care for women subjected to intimate partner violence or sexual violence: a clinical handbook*.
-- World Health Organization / UNICEF / World Bank Group. *Nurturing Care Framework*.
-- สถาบันวิจัยประชากรและสังคม มหาวิทยาลัยมหิดล. (2569). *สถานการณ์ประชากรไทยปี 2569 “พลิกวิกฤตเกิดน้อย–สังคมสูงวัย”*.
+## 21.1 National Premarital Service Mapping
+
+ทำแผนที่ว่าใครทำอะไรอยู่แล้วใน civil registration, public health, hospitals, family services, cultural/faith-based systems, mental health, violence response, NGOs และ digital services
+
+วัดทั้ง node และ pathway ไม่ใช่เพียงรายชื่อหน่วยงาน
+
+## 21.2 Curriculum, Access and Safeguard Audit
+
+ตรวจ:
+
+- เนื้อหาที่สอน
+- duration และ scheduling
+- accessibility
+- language
+- cost
+- informed consent
+- privacy/confidentiality
+- violence/coercion handling
+- referral
+- return access
+- professional boundaries
+
+## 21.3 Construct and Measurement Development
+
+พัฒนาหรือเลือก measure สำหรับ:
+
+- effective access
+- temporal feasibility
+- felt safety
+- cultural meaning/meaning coherence
+- navigation literacy
+- appropriate help-seeking
+- referral completion
+
+ต้องทดสอบ construct separation และ measurement invariance ข้ามวัฒนธรรม/กลุ่มประชากรก่อนเปรียบเทียบคะแนนโดยตรง
+
+## 21.4 Co-design
+
+ร่วมออกแบบกับ:
+
+- คู่ก่อนสมรส
+- คู่แต่งใหม่
+- ผู้ที่มีและไม่มีแผนมีบุตร
+- ผู้มีบุตรยาก
+- survivors of violence/coercion
+- health professionals
+- counsellors/social workers
+- cultural/community providers
+- disability/migrant groups
+
+เพื่อป้องกันไม่ให้ระบบถูกออกแบบจากมุมผู้ให้บริการฝ่ายเดียว
+
+## 21.5 Feasibility Pilot
+
+ทดสอบ premarital interface ขนาดเล็ก เช่น:
+
+- brief orientation
+- private access option
+- service map/navigation
+- return route
+- referral completion
+
+ไม่ควรเริ่มด้วยการตั้งเป้าวัด TFR หรือ child development ในระยะสั้น
+
+## 21.6 Comparative Evaluation
+
+เปรียบเทียบอย่างน้อย:
+
+- information only
+- orientation + navigation
+- orientation + private route
+- navigation + human support
+- user-initiated vs triggered vs periodic return
+
+## 21.7 Longitudinal Follow-up
+
+ติดตาม outcomes ตาม temporal distance:
+
+**proximal:** literacy, burden, safe access, referral completion  
+**intermediate:** help-seeking, preconception uptake, relationship/mental-health outcomes  
+**later:** parenting support use, caregiver well-being, family functioning, safety  
+**distal:** child nurturing conditions, births/fertility
+
+การแยก temporal levels จะช่วยป้องกันการอ้าง causal effect ที่ไกลเกิน intervention
+
+## 21.8 Economic and System Evaluation
+
+วัด:
+
+- cost per reached user
+- cost per completed appropriate referral
+- downstream service load
+- waiting time
+- coordination/governance cost
+- equity distribution
+- opportunity cost เทียบกับการเพิ่ม capacity หรือบริการอื่น
+
+---
+
+# 22. ข้อจำกัด
+
+บทความนี้มีข้อจำกัดหลายประการ
+
+ประการแรก วรรณกรรมที่นำมาสังเคราะห์มาจากหลาย discipline และหลาย population จึงไม่สามารถถือว่า evidence จาก clinical access, IPV care, relationship education หรือ integrated care transfer มาสู่ premarital โดยตรงได้ทั้งหมด บางส่วนเป็น theoretical lineage หรือ analogical support
+
+ประการที่สอง หลักฐาน premarital โดยตรงจำนวนมากมาจากประเทศตะวันตกและ programme ที่มี self-selection จึงมีข้อจำกัดด้าน generalizability และ selection bias
+
+ประการที่สาม กรณีสิงคโปร์แสดง institutional architecture แต่ข้อมูลสาธารณะที่ใช้ไม่ได้เพียงพอสำหรับสรุป causal effectiveness ของทุก component การนำมาใช้ในบทความจึงเป็น precedent ไม่ใช่ proof
+
+ประการที่สี่ ประเทศไทยยังขาด national mapping และ standardized outcome data ของ premarital services หลายระบบ ทำให้ข้อสรุปเรื่อง fragmentation ต้องถูกวางเป็นสิ่งที่ควรตรวจสอบเชิงระบบ ไม่ใช่ verdict ว่าทุกหน่วยงานไม่มีการประสานงาน
+
+ประการที่ห้า cultural meaning, felt safety และ temporal feasibility เป็น constructs ที่ต้องระวังการซ้ำซ้อนกับตัวแปรเดิม เช่น trust, burden, stress และ acceptability หากการวัดพบว่าไม่เพิ่ม explanatory value ควรยุบ constructs แทนการเพิ่มศัพท์ใหม่
+
+ประการที่หก ยังไม่มีหลักฐานที่อนุญาตให้สรุปว่า premarital intervention เพิ่ม TFR หรือ child well-being โดยตรง และบทความนี้จงใจไม่เสนอ causal claim ดังกล่าว
+
+---
+
+# 23. บทสรุป
+
+ปัญหาเด็กเกิดน้อยทำให้สังคมมีเหตุผลที่จะถามว่าเราจะสนับสนุนการสร้างครอบครัวอย่างไร แต่การตอบด้วยการเพิ่ม birth count เพียงอย่างเดียวไม่เพียงพอ หากครอบครัวยังต้องเผชิญข้อจำกัดด้านเศรษฐกิจ เวลา ความปลอดภัย สุขภาพ การดูแล และความหมายของชีวิตที่ไม่ถูกนำมาพิจารณา
+
+บทความนี้เสนอให้มอง premarital เป็นวัตถุที่มีขอบเขตชัด: **ช่วงเวลา พื้นที่ทางสังคม และพื้นที่บริการก่อนสมรส** ซึ่งมีความน่าสนใจเพราะอยู่ต้นน้ำของหลาย trajectory และมี institutional contact อยู่แล้วในหลายระบบ
+
+สิงคโปร์แสดงให้เห็นว่า marriage preparation สามารถอยู่ภายใน architecture ของ Marriage & Parenthood ที่กว้างกว่า และสามารถเชื่อม contact ก่อนสมรสกับ support หลังสมรสได้ในบางระบบ แต่บทเรียนสำคัญของบทความนี้ไม่ใช่การคัดลอกโมเดลสิงคโปร์ หากคือการถามต่อว่า provision ถูกแปลงเป็น opportunity ได้อย่างไร
+
+ข้อสังเคราะห์หลักจึงอยู่ที่:
+
+\[
+StructuralResources
+\rightarrow
+ConversionConditions
+\rightarrow
+FamilyCapability
+\rightarrow
+LifeCourseTrajectory
+\rightarrow
+Family/ChildOutcomes
+\]
+
+โดย premarital conversion conditions ที่ควรให้ความสนใจประกอบด้วย effective access, temporal feasibility, safety/autonomy และ cultural meaning ขณะเดียวกัน referral ต้องไม่ถูกวิเคราะห์แยกจาก availability, capacity, quality และ governance ของระบบปลายทาง
+
+จากกรอบนี้ premarital ไม่จำเป็นต้องกลายเป็น “หลักสูตรใหญ่ขึ้น” อาจมีคุณค่ามากกว่าในฐานะ **จุดเชื่อมที่มีภาระต่ำและปลอดภัย** ซึ่งช่วยให้บุคคลรู้ว่าอะไรสำคัญ อะไรไม่ควรถูกเลื่อน จะเข้าถึงความช่วยเหลือแบบส่วนตัวได้อย่างไร และจะกลับเข้าสู่ระบบที่เหมาะสมเมื่อชีวิตเปลี่ยนไปได้ที่ไหน
+
+หากการวิจัยในอนาคตพบว่า premarital contact ไม่เพิ่ม appropriate help-seeking, private access ไม่เพิ่ม safety, return route ไม่เพิ่ม continuity หรือ bottleneck diagnosis ไม่ช่วยจัดสรรทรัพยากร กรอบนี้ต้องถูกยุบกลับไปเป็นเพียงการประยุกต์ทฤษฎีเดิม ไม่ควรถูกปกป้องด้วยการเพิ่มคำอธิบายภายหลัง
+
+แต่หากความสัมพันธ์เหล่านี้รอดจากการทดสอบ จุดสำคัญของ premarital จะไม่ได้อยู่ที่การ “ผลิตการเกิด” หากอยู่ที่การช่วยให้ทรัพยากรที่สังคมมีอยู่แล้วถูกเปลี่ยนเป็น **โอกาสในการสร้างชีวิตครอบครัวที่ปลอดภัย มีความหมาย และเอื้อต่อการเติบโตของเด็กในอนาคต**
+
+---
+
+# กิตติกรรมประกาศ
+
+[ระบุเมื่อพร้อม]
+
+# การมีส่วนร่วมของผู้เขียน
+
+[ระบุเมื่อพร้อม]
+
+# แหล่งทุน
+
+[ระบุเมื่อพร้อม]
+
+# ผลประโยชน์ทับซ้อน
+
+ผู้เขียนควรเปิดเผยผลประโยชน์ทับซ้อนทางวิชาการ วิชาชีพ การเงิน หรือองค์กรที่เกี่ยวข้องกับบริการก่อนสมรสหรือระบบครอบครัว หากมี
+
+# จริยธรรมการวิจัย
+
+บทความนี้เป็นบทความวิชาการเชิงแนวคิดและการสังเคราะห์เอกสาร ไม่มีการเก็บข้อมูลจากมนุษย์โดยตรง จึงไม่อยู่ภายใต้การขอรับรองจริยธรรมสำหรับการเก็บข้อมูลมนุษย์ ทั้งนี้ต้องปรับข้อความตามข้อกำหนดของวารสารเป้าหมาย
+
+# การเปิดเผยการใช้ปัญญาประดิษฐ์
+
+[จัดทำตามนโยบาย AI disclosure ของวารสาร ณ วันที่ส่งจริง โดยผู้เขียนต้องรับผิดชอบการตรวจสอบความถูกต้อง การอ้างอิง เหตุผล และข้อความทั้งหมดในต้นฉบับ]
+
+---
+
+# เอกสารอ้างอิง (Working Vancouver List)
+
+1. สถาบันวิจัยประชากรและสังคม มหาวิทยาลัยมหิดล. สถานการณ์ประชากรไทยปี 2569 “พลิกวิกฤตเกิดน้อย–สังคมสูงวัย สู่การลงทุนใน ‘คน’ เพื่ออนาคตประเทศ”. นครปฐม: มหาวิทยาลัยมหิดล; 2569. (in Thai)
+
+2. OECD. Society at a Glance 2024: OECD Social Indicators. Paris: OECD Publishing; 2024.
+
+3. Fluchtmann J, van Veen V, Adema W. Fertility, employment and family policy: a cross-country panel analysis. OECD Social, Employment and Migration Working Papers. Paris: OECD; 2023.
+
+4. Ross LJ, Solinger R. Reproductive Justice: An Introduction. Oakland: University of California Press; 2017.
+
+5. Sen A. Development as Freedom. New York: Alfred A. Knopf; 1999.
+
+6. Penchansky R, Thomas JW. The concept of access: definition and relationship to consumer satisfaction. Med Care. 1981;19(2):127-140.
+
+7. Levesque JF, Harris MF, Russell G. Patient-centred access to health care: conceptualising access at the interface of health systems and populations. Int J Equity Health. 2013;12:18.
+
+8. Moynihan D, Herd P, Harvey H. Administrative burden: learning, psychological, and compliance costs in citizen-state interactions. J Public Adm Res Theory. 2015;25(1):43-69.
+
+9. World Health Organization. Framework to implement a life course approach in practice. Geneva: WHO; 2025.
+
+10. Bronfenbrenner U, Morris PA. The bioecological model of human development. In: Damon W, Lerner RM, editors. Handbook of Child Psychology. 6th ed. Hoboken: Wiley; 2006.
+
+11. Masarik AS, Conger RD. Stress and child development: a review of the Family Stress Model. Curr Opin Psychol. 2017;13:85-90.
+
+12. World Health Organization, United Nations Children's Fund, World Bank Group. Nurturing care for early childhood development: a framework for helping children survive and thrive to transform health and human potential. Geneva: WHO; 2018.
+
+13. World Health Organization. Framework on integrated people-centred health services. Geneva: WHO; 2016.
+
+14. Provan KG, Kenis P. Modes of network governance: structure, management, and effectiveness. J Public Adm Res Theory. 2008;18(2):229-252.
+
+15. Bernal G, Bonilla J, Bellido C. Ecological validity and cultural sensitivity for outcome research: issues for the cultural adaptation and development of psychosocial treatments with Hispanics. J Abnorm Child Psychol. 1995;23(1):67-82.
+
+16. Singapore Government. Marriage & Parenthood Measures at National Day Rally 2026. Singapore: Population.gov.sg; 2026.
+
+17. Families for Life. Marriage Preparation Programme (MPrep): programme materials and current provider descriptions. Singapore; 2026.
+
+18. Families for Life. Cinta Abadi Marriage Preparation Programme. Singapore; 2026.
+
+19. Our Marriage Journey, Registry of Muslim Marriages. Face-to-Face session (Bersamamu) with Kadi/Naib Kadi. Singapore; 2026.
+
+20. Registry of Muslim Marriages. Milestones and transformation of a Muslim couple’s marriage journey. Singapore; current public guidance.
+
+21. Hawkins AJ, Blanchard VL, Baldwin SA, Fawcett EB. Does marriage and relationship education work? A meta-analytic study. J Consult Clin Psychol. 2008;76(5):723-734.
+
+22. Fawcett EB, Hawkins AJ, Blanchard VL, Carroll JS. Do premarital education programs really work? A meta-analytic study. Fam Relat. 2010;59:232-239.
+
+23. Hawkins AJ, Stanley SM, Blanchard VL, Albright M. Exploring programmatic moderators of the effectiveness of marriage and relationship education programs: a meta-analytic study. Behav Ther. 2012;43(1):77-87.
+
+24. Williamson HC, Trail TE, Bradbury TN, Karney BR. Does premarital education decrease or increase couples’ later help-seeking? J Fam Psychol. 2014.
+
+25. Williamson HC, Hammett JF, Ross JM, Karney BR, Bradbury TN. Premarital education and later relationship help-seeking. J Fam Psychol. 2018;32(2):276-281.
+
+26. Williamson HC, Rogge RD, Cobb RJ, Johnson MD, Lawrence E, Bradbury TN. Risk moderates the outcome of relationship education: a randomized controlled trial. J Consult Clin Psychol. 2015;83(3):617-629.
+
+27. Karantzas GC, Curtis A, Knox L, et al. Do relationship education programs reduce relationship aggression? A meta-analytic study. Clin Psychol Rev. 2023;104:102285.
+
+28. World Health Organization. Preconception care: maximizing the gains for maternal and child health. Geneva: WHO; 2013.
+
+29. Hussein N, Kai J, Qureshi N. The effects of preconception interventions on improving reproductive health and pregnancy outcomes in primary care: a systematic review. Eur J Gen Pract. 2016;22:42-52.
+
+30. Pedro J, Brandão T, Schmidt L, Costa ME, Martins MV. What do people know about fertility? A systematic review on fertility awareness and its associated factors. Ups J Med Sci. 2018;123:71-81.
+
+31. Na Nakhon S, Limvorapitux P, Vichinsartvichai P. Knowledge regarding factors that influence fertility in Thai reproductive-age population living in urban area: a cross-sectional study. Clin Exp Reprod Med. 2018;45(1):38-43.
+
+32. Vilaiphan P, Suphapeetiporn K, Phupong V, Shotelersuk V. An exceptionally low percentage of Thai expectant mothers and medical personnel with folic acid knowledge and peri-conceptional consumption urges an urgent education program and/or food fortification. Int J Food Sci Nutr. 2007;58(4):297-303.
+
+33. World Health Organization. Health care for women subjected to intimate partner violence or sexual violence: a clinical handbook. Geneva: WHO; 2014.
+
+34. Grace KT, Anderson JC. Reproductive coercion: a systematic review. Trauma Violence Abuse. 2018;19(4):371-390.
+
+35. Reinprayoon D, Bunyavejchevin S. Premarital counseling clinic at Chulalongkorn Hospital. J Med Assoc Thai. 1998;81(12):993-997.
+
+36. เรืองกาญจนเศรษฐ์ ส, และคณะ. มหิดลโมเดล: รูปแบบการป้องกันและแก้ไขปัญหาการตั้งครรภ์ของวัยรุ่นในพื้นที่อย่างบูรณาการ. วารสารวิชาการสาธารณสุข. 2563;29(1). (in Thai)
+
+37. Cordova JV, et al. The Marriage Checkup: a randomized controlled trial of annual relationship health checkups. J Consult Clin Psychol. 2014;82(4):592-604.
+
+38. Trillingsgaard T, et al. A randomized controlled trial of the Marriage Checkup adapted for private practice. J Consult Clin Psychol. 2016;84(12):1145-1152.
+
+39. Pinquart M, Teubert D. A meta-analytic study of couple interventions during the transition to parenthood. Fam Relat. 2010;59:221-231.
+
+40. Rocks S, et al. Cost and effects of integrated care: a systematic literature review and meta-analysis. Eur J Health Econ. 2020.
+
+41. Bernardo BM, et al. The efficacy and cost-effectiveness of patient navigation programs across the cancer continuum: a systematic review. Cancer. 2019.
+
+42. Kiely B, et al. Effect of social prescribing link workers on health outcomes and costs for adults in primary care and community settings: a systematic review. BMJ Open. 2022;12:e062951.
+
+---
+
+## Editorial notes before submission
+
+1. จำกัด abstract ไม่เกิน 350 คำตาม journal target
+2. จำกัด keywords ไม่เกิน 5 คำ
+3. ตรวจ word count ทั้ง main text + tables + references ให้อยู่ในเพดาน Academic Article/Review ของวารสาร
+4. แปลง citation ทั้งหมดเป็น superscript Vancouver ตาม journal style
+5. ตรวจ bibliographic metadata/DOI ทุก reference ก่อนส่ง
+6. ระบุ "(in Thai)" หลัง references ภาษาไทย
+7. ตรวจ AI disclosure, conflict of interest, funding และ author contribution ตามนโยบาย ณ วันที่ส่ง
+8. ถ้าจะส่งหมวด Academic Article ให้รักษา framing เป็น conceptual/integrative scholarly synthesis และไม่ใช้ภาษาเลียนแบบ systematic review
