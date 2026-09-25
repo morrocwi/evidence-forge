@@ -1,109 +1,71 @@
 # Conceptual core
 
-## Working model name
+## Working question
 
-**Family-Transition Gateway Model (FTGM)** — provisional.
+How can the transition into marriage be used as a practical entry point to wider family support without turning premarital preparation into a burdensome one-size-fits-all course, and without erasing existing civil, health, Islamic, Christian or community systems?
 
-## Working title
+## Starting observation
 
-**From Premarital Course to Family-Transition Gateway: A Conceptual Model for Safe, Temporally Adaptive, and Re-Enterable Family Support**
-
-Thai working title:
-
-**จากหลักสูตรก่อนสมรสสู่ประตูเชื่อมการเปลี่ยนผ่านสู่ครอบครัว: แบบจำลองเชิงแนวคิดของระบบสนับสนุนที่ปลอดภัย ยืดหยุ่นตามเวลา และกลับเข้าถึงได้**
-
-## What is established and therefore not claimed as new
-
-The paper accepts established theory that:
-
-- service availability is not identical to access;
-- access depends on fit between users and systems;
-- fragmented systems create navigation problems;
-- continuity matters across providers and organizations;
-- family-navigation models already exist.
-
-The theoretical contribution must therefore be narrower.
-
-## Focal phenomenon
-
-The transition into marriage creates a distinctive service opportunity because several systems may already contact people at or near that point:
+Thailand already has multiple institutions that touch family formation and family life:
 
 - civil registration
 - public health and preconception care
 - Islamic premarital / nikah preparation
 - Christian premarital / pastoral preparation
 - family-development services
-- digital services
+- mental-health services
+- violence-response services
+- fertility and infertility services
+- parenting and child-development services
 
-The conceptual puzzle is:
+The analytical problem is not simply whether services exist.
 
-> How can a one-time premarital contact become a durable gateway to family support without becoming a burdensome universal course or erasing existing institutional identities?
+The central distinction is:
 
-## Four candidate theoretical extensions
+\`\`\`text
+SERVICE AVAILABILITY
+        ≠
+EFFECTIVE FAMILY-SUPPORT ACCESS
+\`\`\`
 
-### 1. Temporal bifurcation
+A service can exist while remaining difficult to discover, difficult to enter, unsafe to use privately, mismatched to timing, disconnected from the next service, or unavailable for later re-entry.
 
-~~~text
-Rapid / urgent marriage preparation
-vs
-Planned / non-urgent preparation
-~~~
+## Assumptions that should be tested rather than accepted
 
-The model predicts that useful preparation depends on **temporal fit**, not duration alone.
+1. Premarital preparation is necessarily a one-time course.
+2. All couples have similar preparation time.
+3. Couple-facing access is sufficient for every issue.
+4. More content or more hours always mean better preparation.
+5. Existing religious systems must be replaced to modernize preparation.
+6. Relationship persistence is always a suitable success indicator.
+7. A formally available service is effectively accessible.
+8. A completed course implies readiness.
+9. Fertility outcomes can stand in for family well-being or child development.
 
-### 2. Safety bifurcation
+## Working architecture
 
-~~~text
-Shared couple channel
-vs
-Private confidential safe-space channel
-~~~
-
-**พื้นที่ปลอดภัย / safe space** is treated as a structural access condition, not merely a supportive atmosphere.
-
-### 3. Institutional core + extension
-
-Existing Islamic, Christian, health, civil, and community systems retain their own legitimate core functions while adding cross-cutting navigation, safety, referral, and re-entry functions.
-
-### 4. Premarital gateway + persistent re-entry
-
-The premarital encounter does not have to contain every future topic.
-
-It creates an access relationship that can later be reactivated for:
-
-- fertility
-- infertility
-- pregnancy
-- parenting
-- conflict
-- mental health
-- violence/coercion
-- separation
-
-## Architecture
-
-~~~text
-TRUSTED ENTRY NODE
-(civil / health / Islamic / Christian / family / digital)
+\`\`\`text
+EXISTING ENTRY POINT
+civil / health / Islamic / Christian / family / digital
                     |
                     v
-             UNIVERSAL CORE
+             ESSENTIAL CORE
                     |
         +-----------+-----------+
         |                       |
         v                       v
- RAPID PATHWAY            PLANNED PATHWAY
- urgent timeline          deeper preparation
+ RAPID PREPARATION        PLANNED PREPARATION
+ short timeline           more preparation time
         |                       |
         +-----------+-----------+
                     |
                     v
-             PERSISTENT RE-ENTRY
+             LATER RE-ENTRY
                     |
         +-----------+-----------+
         |                       |
         v                       v
- SHARED COUPLE CHANNEL    PRIVATE SAFE-SPACE CHANNEL
+ SHARED COUPLE ACCESS     PRIVATE SAFE-SPACE ACCESS
         |                       |
         +-----------+-----------+
                     |
@@ -113,10 +75,10 @@ TRUSTED ENTRY NODE
                     v
  health / fertility / mental health / family /
  violence / parenting / legal-social support
-~~~
+\`\`\`
 
-## Central theoretical statement
+## Working statement
 
-Premarital preparation may create greater long-term family-support value when it functions as a **gateway** rather than a one-time information event: it should match the couple's time horizon, preserve trusted institutional legitimacy, make a private **พื้นที่ปลอดภัย** structurally accessible, and allow persistent re-entry into appropriate services as family needs change.
+Premarital preparation may be more useful when it does not try to front-load every future family problem into one course, but instead gives people an appropriate level of preparation for the time they actually have, a clear route back to support later, a private **พื้นที่ปลอดภัย** when shared access is unsafe, and reliable referral to specialised services.
 
-This is a theoretical statement for testing, not an empirical conclusion.
+This is a working analytical statement to be tested against evidence.
