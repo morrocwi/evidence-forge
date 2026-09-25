@@ -1,31 +1,30 @@
-# Construct lineage and adaptation map
+# Prior frameworks and source lineage
 
-| Current construct | Closest established lineage | What this project should claim |
+This file prevents the paper from presenting established ideas as if they originated here.
+
+| Working variable / distinction | Established literature to check | Use in this paper |
 |---|---|---|
-| Structural Service Availability | Penchansky & Thomas; Levesque et al. | imported / adapted, not new |
-| Entry Burden | access barriers / accommodation / affordability | adapted to premarital entry |
-| Navigation Literacy | access abilities; navigation literature | adapted; measurement may be new in this context |
-| Referral Continuity | continuity-of-care literature | imported / adapted |
-| Institutional Legitimacy | acceptability / cultural fit | adapted to faith/civil/health entry nodes |
-| Temporal Fit | accommodation/appropriateness + programme dose literature | **candidate extension:** rapid vs planned marriage timelines |
-| Safe-Space Accessibility | survivor-centred/confidential care | **candidate extension:** structural bifurcation of couple vs private channel |
-| Persistent Re-entry | continuity / longitudinal access | **candidate extension:** reactivation from a premarital gateway across family life events |
-| Modular Relevance | just-in-time / tailored interventions | adapted to family transition |
-| Service Fragmentation | continuity/navigation literature | established problem, applied cross-sector |
-| Family Readiness | relationship / reproductive / practical preparedness literatures | integrative multidimensional construct; novelty must be tested |
-| Family-Transition Gateway | no single direct equivalent identified yet | **main candidate focal construct/model** |
+| Structural service availability | Penchansky & Thomas; Levesque et al. | established access literature |
+| Entry burden | access barriers, accommodation, affordability, administrative burden | apply to marriage/family preparation |
+| Navigation knowledge | access abilities; patient/family navigation | use existing lineage |
+| Referral continuity | continuity-of-care literature | use existing lineage |
+| Institutional/cultural legitimacy | acceptability / cultural fit / trust | apply across faith, civil and health nodes |
+| Temporal fit | accommodation/appropriateness, programme dose, time scarcity | test rapid vs planned preparation |
+| Safe/private accessibility | survivor-centred and confidential care | apply structurally to couple vs private access |
+| Re-entry over time | continuity, longitudinal access, stepped/just-in-time support | apply across family-life transitions |
+| Modular relevance | tailored / just-in-time interventions | use where supported |
+| Service fragmentation | continuity/navigation literature | established systems problem |
+| Family readiness | relationship, reproductive, practical and help-seeking preparedness | integrate cautiously; test dimensions separately |
+| Premarital contact as later access point | search for close precedents before making any strong claim | compare with Singapore Bersamamu and other systems |
 
-## Main novelty discipline
+## Use rule
 
-The paper should distinguish three levels:
+For every major variable:
 
-### Imported
-Already established elsewhere; cite and use.
+1. locate the established literature;
+2. identify the original/seminal source where feasible;
+3. identify current synthesis;
+4. identify criticism or contradictory evidence;
+5. state only the context-specific relation that is actually needed.
 
-### Adapted
-Existing construct altered for the marriage/family-transition context.
-
-### Proposed
-A new relation, configuration, or mechanism that the paper contributes.
-
-Theoretical novelty should reside mostly in the **configuration and propositions**, not in renaming established constructs.
+Do not announce that a construct is new. If the configuration differs meaningfully from existing work, that should become visible through comparison and citation.
