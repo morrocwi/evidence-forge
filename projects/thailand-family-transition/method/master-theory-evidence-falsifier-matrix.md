@@ -337,3 +337,60 @@ The architecture now fails if it cannot demonstrate at least one of the followin
 5. predictive validity of bottleneck diagnosis for selecting edge/node/capacity/governance/hybrid investment.
 
 If none of these survives prospective testing, the conceptual paper should be reframed as an integrative application of established frameworks rather than a distinct theoretical architecture.
+
+
+---
+
+# Q. Round-3 construct-collision update — seven weak points
+
+This section complements Section P. Section P adjudicates the **five surviving project-specific relations**. Section Q adjudicates **seven weaker constructs/implementation concepts** that could otherwise inflate the visible theory.
+
+| Weak point | Closest established framework | Round-3 decision | Final-paper role |
+|---|---|---|---|
+| Meaning coherence | self-concordance + meaning-in-life + autonomy | **ABSORB / NARROW** | use endorsed-values / meaning compatibility inside conversion conditions; do not claim a new broad construct |
+| Experienced access | Levesque/Fortney perceived access | **ABSORB** | perceived component of effective access |
+| Felt safety | IPV disclosure + trust/privacy/confidentiality | **NARROW / ABSORB** | perceived safety-for-disclosure readout within safe/private access |
+| Culturally embedded entry | cultural adaptation + trusted community delivery | **RETAIN / NARROW** | contingent implementation condition; cultural embeddedness does not guarantee trust/safety |
+| Tiered support | stepped care + proportionate universalism | **ABSORB** | service-design architecture, not a new theory construct |
+| Opportunity cost | economics + temporal access + treatment burden | **REMOVE AS SEPARATE CONSTRUCT** | include in entry burden / time / financial-workload cost |
+| Transportability | RE-AIM + CFIR + causal transportability | **REMOVE AS THEORY CONSTRUCT** | mandatory evidence/implementation gate |
+
+## Consequence for construct count
+
+The final paper should not expose all internal development variables as distinct constructs.
+
+The compressed visible logic remains:
+
+```text
+Structural Conditions
+→ Effective Possibility
+→ Family Capability
+→ Choice / Action
+→ Family / Child Outcomes
+```
+
+with conversion conditions grouped under:
+
+```text
+Access
++ Time/Burden
++ Safety/Autonomy
++ Culture/Meaning
++ Capacity/Continuity
+```
+
+## Non-collapse after compression
+
+Compression does **not** authorize the following collapses:
+
+- formal availability = perceived/usable access;
+- privacy protocol = perceived safety for disclosure;
+- cultural embeddedness = trust;
+- cultural fit = conformity;
+- light-touch support = sufficient support;
+- lower provider cost = lower total social/user cost;
+- evidence from another context = transportable evidence.
+
+## New kill rule
+
+If a proposed subconstruct adds no incremental prediction, measurement distinction, design rule or boundary beyond its parent framework, it must stay absorbed and must not re-enter the final manuscript under a renamed label.
