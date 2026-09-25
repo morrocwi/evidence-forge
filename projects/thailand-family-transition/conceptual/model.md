@@ -1,118 +1,84 @@
-# Conceptual model
+# Working equation structure
 
-## Core theoretical distinction
+This file records the mathematical structure only. The full derivation is in \`../math/equation-first-reconstruction.md\`.
 
-~~~text
-Structural availability
+## Main distinction
+
+\`\`\`text
+Structural service availability
         ≠
-Functional family-support access
-~~~
-
-The model explains why multiple services can coexist while users still experience practical discontinuity.
-
-## Working functional-access expression
+Effective family-support access
+\`\`\`
 
 Let:
 
-- **A** = structural availability
-- **N** = navigation/discoverability
-- **T** = temporal fit
-- **S** = safe-space accessibility
-- **R** = referral continuity
-- **L** = institutional legitimacy
+- \(A^{formal}\) = formal service availability
+- \(N\) = navigation/discoverability
+- \(T\) = temporal fit
+- \(S\) = safe/private access
+- \(R\) = referral continuity
+- \(L\) = institutional/cultural legitimacy
 
-Then:
+Then use a general function rather than prematurely imposing a multiplicative empirical form:
 
-~~~text
-FFA = A × N × T × S × R × L
-~~~
+\[
+A^{eff}
+=
+\mathcal{A}
+(
+A^{formal},
+N,
+T,
+S,
+R,
+L
+)
+\]
 
-Where **FFA** is Functional Family-Support Access.
+The empirical shape of \(\mathcal{A}\) remains open.
 
-This is a conceptual expression, not an estimated statistical equation.
+## Dynamic form
 
-### Why multiplicative?
+\[
+X_{i,t+1}
+=
+\mathcal{F}
+(
+X_{i,t},
+U_{i,t},
+B_{i,t},
+c_{i,t},
+\tau_{i,t}
+)
+\]
 
-The multiplicative form encodes a weakest-link mechanism.
+The same support can have different consequences depending on prior state, barriers, context and timing.
 
-Examples:
+## Main chain
 
-- high availability + near-zero discoverability -> low functional access
-- good content + poor temporal fit -> low functional access
-- trusted course + no safe private channel -> low functional access for some users
-- strong navigation + no referral capacity -> low completed access
+\[
+Policy\ supply
+\neq
+Effective\ access
+\neq
+Family\ capability
+\neq
+Realized\ family\ opportunity
+\neq
+Population\ fertility
+\]
 
-## Antecedent
+## Outcomes that must remain separate
 
-**Service fragmentation** lowers one or more components of FFA by separating:
-
-- timing
-- institutional ownership
-- entry criteria
-- information
-- confidentiality
-- referral
-- re-entry
-
-## Architecture mechanisms
-
-~~~text
-Trusted entry node
-     ↓
-Lower entry burden
-     ↓
-Universal core
-     ↓
-Temporal matching
-  ↙             ↘
-Rapid          Planned
-                /
-      ↓         ↓
-Navigation literacy
-      ↓
-Persistent re-entry
-      ↓
-Shared couple channel + private safe-space channel
-      ↓
-Referral continuity
-      ↓
-Functional family-support access
-~~~
-
-## Proximal outcomes
-
-The model should first be judged on outcomes close to the mechanism:
-
-- reach
-- comprehension
-- navigation literacy
-- perceived safe access
-- help-seeking
-- referral initiation
-- referral completion
-- re-entry
-- burden / acceptability
-
-## Intermediate outcomes
-
-Only after proximal mechanisms are supported should studies test:
-
+- reach and take-up
+- safe/private access
+- navigation and referral completion
 - relationship quality
 - mental health
 - reproductive-health access
-- fertility-treatment access
 - parenting readiness
 - family well-being
-- violence-related help-seeking
+- child/human development
+- population fertility
 
-## Distal outcomes
-
-Population-level fertility is a distal outcome.
-
-The model does **not** propose:
-
-~~~text
-premarital course -> higher TFR
-~~~
-
-Instead, if fertility behaviour is affected at all, the path is expected to be indirect and conditioned by economic, social, biological, relational, and policy factors.
+No downstream outcome should be inferred from an upstream one without evidence.
