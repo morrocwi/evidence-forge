@@ -1,0 +1,18 @@
+# Claim record template
+claim_id: C000
+claim_text: ""
+status: draft
+claim_type: descriptive
+scope:
+  population: ""
+  geography: ""
+  time_period: ""
+sources: []
+support:
+  direct: []
+  indirect: []
+contradictory_evidence: []
+limitations: []
+inference_required: false
+manuscript_sections: []
+notes: ""
