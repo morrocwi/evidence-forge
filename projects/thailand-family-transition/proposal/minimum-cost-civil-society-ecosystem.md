@@ -306,27 +306,48 @@ fertility\ service
 \tag{13}
 \]
 
-In many settings, adding a new specialist node is expensive:
+A new specialist node may cost more than a navigation/referral interface, but this is **not a universal economic law**.
+
+The correct first task is bottleneck diagnosis.
+
+For service node \(j\), let:
+
+- \(\lambda_j\) = baseline demand reaching the node;
+- \(\Delta\lambda^{edge}_j\) = additional demand revealed after better navigation/referral;
+- \(\mu_j\) = usable service capacity.
+
+Then:
 
 \[
-c_{node}^{specialist}
-\gg
-c_{edge}^{navigation/referral}
+\lambda'_j
+=
+\lambda_j
++
+\Delta\lambda^{edge}_j
 \tag{14}
 \]
 
-Therefore the first civil-society strategy should be:
+and:
 
 \[
-\min NewNodes
-\quad
-\text{while}
-\quad
-\max SafeUsableEdges
+Slack_j
+=
+\mu_j-\lambda'_j
 \tag{15}
 \]
 
-This does not mean that new services are never needed. It means that the lowest-cost first move is to test whether existing capacity is being lost because the graph is disconnected.
+If \(Slack_j>0\) and the main loss occurs at search/referral/coordination, edge investment is plausible.
+
+If \(Slack_j\le0\), an edge-only intervention can simply expose a capacity shortage and increase waiting.
+
+Therefore the candidate action set is:
+
+\[
+a\in\{Edge,\ Node,\ Hybrid\}
+\tag{15a}
+\]
+
+and the choice must be evaluated rather than assumed.
 
 ---
 
@@ -464,33 +485,78 @@ This keeps universal cost low.
 
 ---
 
-## 6.4 Two preparation speeds
+## 6.4 Preparation intensity should follow temporal feasibility
 
-For marriage preparation:
+Direct evidence for a binary “urgent versus non-urgent marriage” classification is limited.
+
+Use a continuous variable first:
 
 \[
-ShortTimeline
-\Rightarrow
-MinimumSufficientCore
+TemporalFeasibility_{i,t}
+=
+f(
+TimeAvailable,\,
+WorkLoad,\,
+CareLoad,\,
+Stress,\,
+Travel,\,
+ProgrammeEffort
+)
+\tag{20}
+\]
+
+Marriage/relationship-education evidence indicates that moderate programme dose often produces stronger relationship outcomes than very low dose, while time constraints and programme effort can reduce participation and adherence.
+
+Therefore a short pathway should **not** be treated as an equally effective compressed version of deeper preparation.
+
+Use two practical service bands only where operationally useful:
+
+### Short-horizon band
+
+Primary outcomes:
+
+\[
+Orientation
++
+SafetyLiteracy
++
+HealthNavigation
++
+RedFlagRecognition
 +
 ReturnRoute
 \tag{20a}
 \]
 
+### Longer-horizon band
+
+Primary outcomes:
+
 \[
-LongerTimeline
-\Rightarrow
 Core
 +
-OptionalDeeperModules
+SkillsPractice
 +
-Practice
+DeeperModules
++
+OptionalCounselling
 \tag{20b}
 \]
 
-Do not force an urgent couple to complete the same time-intensive pathway as a couple preparing months in advance.
+Thus:
 
-Do not treat the rapid pathway as inferior. Its objective is different.
+\[
+RapidCore \neq CompressedFullProgramme
+\tag{20c}
+\]
+
+and:
+
+\[
+CourseDuration \neq TemporalFit
+\tag{20d}
+\]
+
 
 ---
 
@@ -546,43 +612,73 @@ For harder-to-navigate or high-risk cases, warm or accompanied referral may be w
 
 ---
 
-## 6.7 Re-entry
+## 6.7 Keep a known route back; trigger additional contact when it becomes useful
 
-Give people a persistent way back:
+Evidence from recurrent relationship checkups and interventions spanning pregnancy-to-postpartum supports repeated or transition-spanning contact, but does not establish that continuous follow-up for everyone is necessary.
 
-- QR code;
-- LINE / WhatsApp / secure messaging;
-- phone;
-- community contact;
-- scheduled check-in;
-- culturally trusted community mentor or faith/community contact where appropriate.
-
-Re-entry should be possible at:
+The lowest-cost design to test is:
 
 \[
-\{
-fertility,\,
-infertility,\,
-pregnancy,\,
-birth,\,
-parenting,\,
-school\ transition,\,
-conflict,\,
-mental\ health,\,
-violence,\,
-separation
-\}
+KnownReturnRoute
++
+TransitionTriggeredContact
++
+OptionalPeriodicCheckup
 \tag{23}
 \]
 
-A major cost-saving implication follows:
+Let:
 
 \[
-\text{Do not teach everything now}
+R^{option}_{i,t}=1
+\]
+
+mean that the person knows how to return and can do so safely.
+
+Additional contact occurs when:
+
+\[
+Trigger_{i,t}=1
+\]
+
+where triggers may include:
+
+\[
+\{
+user\ request,\,
+fertility\ difficulty,\,
+pregnancy,\,
+birth,\,
+parenting,\,
+relationship\ distress,\,
+mental\ health,\,
+safety\ concern
+\}
+\tag{23a}
+\]
+
+Then:
+
+\[
+Contact_{i,t}
+=
+R^{option}_{i,t}
+\times
+Trigger_{i,t}
+\tag{23b}
+\]
+
+Periodic checkups can be tested separately from user-initiated or transition-triggered support.
+
+The cost-saving principle is therefore not “follow everyone forever,” but:
+
+\[
+DoNotFrontLoadEverything
 \quad\Rightarrow\quad
-\text{make later access reliable}
+PreserveReliableReturnAccess
 \tag{24}
 \]
+
 
 ---
 
@@ -988,33 +1084,68 @@ The package should be expanded only when evaluation shows a bottleneck that the 
 
 ---
 
-# 14. The design rule: add edges before adding nodes
+# 14. Diagnose the bottleneck before choosing edge, node, or hybrid investment
 
-Before creating a new service, test:
+Before creating or connecting a service, test:
 
-1. Does an adequate service already exist?
+1. Does an adequate service exist?
 2. Do people know it exists?
 3. Can they enter it?
 4. Is the route safe?
 5. Can they complete referral?
 6. Can they return later?
-7. Is the service culturally/institutionally acceptable?
-8. Is capacity sufficient?
+7. Is the service culturally meaningful and autonomy-preserving?
+8. Can the receiving service absorb additional demand?
+9. Is waiting time already excessive?
+10. Which option produces the largest outcome gain per additional cost?
 
-If the answer fails at 2–7, improve the edge.
-
-If it fails at 1 or 8, a new node/capacity may actually be required.
-
-Thus:
+Classify the problem as:
 
 \[
-MissingNode
-\neq
-MissingEdge
+\{
+MissingEdge,\,
+MissingNode,\,
+MissingCapacity,\,
+Mixed
+\}
 \tag{39}
 \]
 
-This distinction is central to cost control.
+Then compare:
+
+\[
+MCE_{edge}
+=
+\frac{\Delta Outcome_{edge}}{\Delta Cost_{edge}}
+\tag{39a}
+\]
+
+\[
+MCE_{node}
+=
+\frac{\Delta Outcome_{node}}{\Delta Cost_{node}}
+\tag{39b}
+\]
+
+\[
+MCE_{hybrid}
+=
+\frac{\Delta Outcome_{hybrid}}{\Delta Cost_{hybrid}}
+\tag{39c}
+\]
+
+subject to:
+
+\[
+Safety\ge threshold,\quad
+Equity\ge threshold,\quad
+WaitTime\le threshold,\quad
+Quality\ge threshold
+\tag{39d}
+\]
+
+Navigation can be successful precisely because it increases service use. That means improved edges may reveal previously unmet demand and raise downstream load. Capacity therefore belongs inside the equation rather than being checked only after implementation.
+
 
 ---
 
