@@ -488,7 +488,7 @@ AppropriateSupport/Trajectory
 
 16. Singapore Government. Marriage & Parenthood Measures at National Day Rally 2026 [Internet]. Singapore: Population.gov.sg; 2026 Aug 23 [cited 2026 Sep 26]. Available from: https://www.population.gov.sg/marriage-parenthood-measures-at-national-day-rally-2026/
 
-17. Families for Life. Marriage Preparation Programme (MPrep) [Internet]. Singapore: Families for Life; [cited 2026 Sep 26]. Available from: https://familiesforlife.sg/
+17. Families for Life. Why You Should Attend a Marriage Preparation Course [Internet]. Singapore: Families for Life; [cited 2026 Sep 26]. Available from: https://familiesforlife.sg/pages/article/why-you-should-attend-a-marriage-preparation-course
 
 18. Families for Life. Cinta Abadi Marriage Preparation Programme [Internet]. Singapore: Families for Life; [cited 2026 Sep 26]. Available from: https://familiesforlife.sg/pages/Programme/CINTA-ABADI-MARRIAGE-PREPARATION-PROGRAMME-CA-PREP
 
@@ -544,11 +544,13 @@ AppropriateSupport/Trajectory
 
 ## Editorial notes before submission (v1.3)
 
-1. จำกัด abstract ไม่เกิน 350 คำตาม journal target
-2. จำกัด keywords ไม่เกิน 5 คำ
-3. ตรวจ word count ทั้ง main text + tables + references ให้อยู่ในเพดาน Academic Article/Review ของวารสาร
-4. แปลง citation ทั้งหมดเป็น superscript Vancouver ตาม journal style
-5. ตรวจ bibliographic metadata/DOI ทุก reference ก่อนส่ง
-6. ระบุ "(in Thai)" หลัง references ภาษาไทย
-7. ตรวจ AI disclosure, conflict of interest, funding และ author contribution ตามนโยบาย ณ วันที่ส่ง
-8. ถ้าจะส่งหมวด Academic Article ให้รักษา framing เป็น conceptual/integrative scholarly synthesis และไม่ใช้ภาษาเลียนแบบ systematic review
+1. English abstract structural count ≈276 words: within the current 350-word ceiling.
+2. Keywords = 5: within the current journal ceiling.
+3. Main structure compressed to 10 sections; manuscript body has been substantially reduced from v1.2.
+4. In-text citations use superscript Vancouver numbering and all references 1–42 are currently cited.
+5. Bibliographic metadata/DOIs have undergone a first reference-by-reference audit; official web sources require a final access-date check on submission day.
+6. References in Thai are marked "(in Thai)."
+7. Formal word count must still be confirmed in the final .docx because Thai word segmentation can differ across software; current journal ceiling for Academic Article/Review is 8,000 words including tables and references.
+8. Confirm author contribution, funding, conflict of interest, ethics wording, and AI disclosure against journal policy on the actual submission date.
+9. Maintain the manuscript as an Academic/Conceptual Article; do not imply PRISMA/systematic-review completeness.
+10. Final pass should focus on Thai language consistency, English terminology reduction, and claim-level citation placement rather than adding theory.
