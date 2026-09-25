@@ -695,70 +695,100 @@ Every transition in (35) must be examined.
 
 ---
 
-# 8. Time-horizon correction: urgent and non-urgent marriage preparation
+# 8. Temporal-feasibility correction
 
-Let \(h_{i,t}\) be available preparation time.
+Direct evidence for a binary urgent-versus-non-urgent premarital classification is limited.
 
-A fixed course assumes:
+Use time feasibility as a continuous state variable:
 
 \[
-u^{prep}_{i,t}=u^{fixed}
-\quad
-\forall h_{i,t}
+h_{i,t}
+=
+TimeAvailable_{i,t}
+\]
+
+and:
+
+\[
+d^{feasible}_{i,t}
+=
+g(
+h_{i,t},
+WorkLoad_{i,t},
+CareLoad_{i,t},
+Stress_{i,t},
+Travel_{i,t},
+ProgrammeEffort_{i,t}
+)
 \tag{36}
 \]
 
-Instead:
+Relationship-education evidence shows that moderate dose often produces stronger relationship outcomes than low dose, while time and effort constraints reduce adherence.
+
+Therefore:
 
 \[
 u^{prep}_{i,t}
 =
 \mathcal{P}
-\left(
-X_{i,t},
-h_{i,t},
-B^{fam}_{i,t}
-\right)
+(
+Need_{i,t},
+Risk_{i,t},
+d^{feasible}_{i,t}
+)
 \tag{37}
 \]
 
-with at least two regimes:
+A short-horizon service should target:
 
 \[
-h_{i,t}<h^{*}
-\Rightarrow
-u^{prep}=u^{minimum\ sufficient}
-\tag{38a}
-\]
-
-\[
-h_{i,t}\ge h^{*}
-\Rightarrow
-u^{prep}=u^{deeper\ modular}
-\tag{38b}
-\]
-
-The short-horizon route is not a damaged version of a long course. Its minimum functions are:
-
-\[
+O^{short}
+=
 \{
-essential\ discussion,\,
-risk\ recognition,\,
-health\ navigation,\,
-safe\ private\ access,\,
-return\ route
+Orientation,\,
+SafetyLiteracy,\,
+HealthNavigation,\,
+RedFlagRecognition,\,
+ReturnRoute
+\}
+\tag{38}
+\]
+
+A longer-horizon service can additionally target:
+
+\[
+O^{deep}
+=
+\{
+RelationshipSkill,\,
+ConflictSkill,\,
+ExpectationAlignment,\,
+DeeperModules,\,
+Counselling
 \}
 \tag{39}
 \]
 
-Thus:
+with:
 
 \[
-Course\ duration
+O^{short}
 \neq
-Temporal\ fit
+O^{deep}
 \tag{40}
 \]
+
+and:
+
+\[
+RapidCore
+\neq
+CompressedFullProgramme
+\tag{40a}
+\]
+
+The two practical service bands are implementation conveniences, not established natural categories.
+
 
 ---
 
@@ -956,59 +986,77 @@ Islamic and Christian premarital systems remain valuable cases, but they are now
 
 ---
 
-# 11. Re-entry correction: do not front-load all future problems
+# 11. Return-access correction
 
-A one-time model approaches:
+Evidence supports recurrent relationship checkups and support spanning major family transitions, but does not establish that continuous follow-up for everyone is optimal.
+
+Define a persistent access option:
 
 \[
-Support_{i,t>marriage}\approx0
-\quad
-\text{unless another system is discovered}
-\tag{48}
+R^{option}_{i,t}=1
+\tag{54}
 \]
 
-A re-entry structure instead requires:
+when a person retains a known, usable and safe route back.
+
+Additional contact occurs when:
 
 \[
-R^{return}_{i,t}>0
-\quad
-\forall t\in\mathcal{T}^{family}
-\tag{49}
+Trigger_{i,t}=1
+\tag{55}
 \]
 
 where:
 
 \[
-\mathcal{T}^{family}
-=
+Trigger
+\in
 \{
-fertility,\,
-infertility,\,
-pregnancy,\,
-birth,\,
-parenting,\,
-conflict,\,
-mental\ health,\,
-violence,\,
-separation
+UserRequest,\,
+Pregnancy,\,
+Birth,\,
+Parenting,\,
+FertilityDifficulty,\,
+RelationshipDistress,\,
+MentalHealth,\,
+SafetyConcern
 \}
-\tag{50}
+\tag{56}
 \]
 
-Premarital preparation then establishes:
+Then:
 
 \[
-knowledge\ of\ return
-+
-trusted\ route
-+
-safe\ route
-+
-referral\ continuity
-\tag{51}
+Contact_{i,t}
+=
+R^{option}_{i,t}
+\times
+Trigger_{i,t}
+\tag{57}
 \]
 
-rather than attempting to deliver every future topic before marriage.
+Periodic checkups are a separate candidate mechanism:
+
+\[
+Checkup_{periodic}
+\quad vs \quad
+TransitionTriggered
+\quad vs \quad
+UserInitiated
+\tag{58}
+\]
+
+The low-cost proposition is not “follow every family continuously.”
+
+It is:
+
+\[
+DoNotFrontLoadEverything
+\Rightarrow
+PreserveReliableReturnAccess
+\tag{59}
+\]
+
 
 ---
 
@@ -1274,6 +1322,90 @@ Population\ fertility
 The question becomes:
 
 > At which transition does provision fail to become effective access, capability, safe action, continuity, or realized opportunity — and for whom?
+
+---
+
+# 14A. Capacity-aware edge/node diagnosis
+
+Navigation can improve access by making previously hidden demand visible.
+
+For service node \(j\):
+
+\[
+\lambda'_j
+=
+\lambda_j
++
+\Delta\lambda^{edge}_j
+\tag{65a}
+\]
+
+where:
+
+- \(\lambda_j\) = baseline demand reaching the service;
+- \(\Delta\lambda^{edge}_j\) = additional demand reaching it after better connection;
+- \(\mu_j\) = usable service capacity.
+
+Define:
+
+\[
+Slack_j
+=
+\mu_j-\lambda'_j
+\tag{65b}
+\]
+
+If:
+
+\[
+Slack_j>0
+\]
+
+and the dominant barrier is search/referral/coordination, improving the edge is plausible.
+
+If:
+
+\[
+Slack_j\le0
+\]
+
+edge-only improvement can increase waiting and expose a node/capacity bottleneck.
+
+Therefore classify:
+
+\[
+Bottleneck_j
+\in
+\{
+MissingEdge,\,
+MissingNode,\,
+MissingCapacity,\,
+Mixed
+\}
+\tag{65c}
+\]
+
+and choose:
+
+\[
+a^{*}
+=
+\arg\max_{a\in\{Edge,Node,Hybrid\}}
+\frac{\Delta Y(a)}{\Delta C(a)}
+\tag{65d}
+\]
+
+subject to:
+
+\[
+Safety\ge s^{*},\quad
+Equity\ge e^{*},\quad
+WaitTime\le W^{*},\quad
+Quality\ge q^{*}
+\tag{65e}
+\]
+
+This replaces the earlier informal “add edges before nodes” rule.
 
 ---
 
