@@ -8,7 +8,7 @@
 
 ## บทคัดย่อ
 
-เด็กเกิดน้อยเป็นปัญหาใหญ่ของไทย และหลายประเทศทั่วโลกก็ยังแก้เรื่องนี้ได้ไม่ง่าย บทความนี้เสนอ **“ช่วงก่อนสมรส”** เป็นอีกจุดแทรกแซงที่ควรนำมาทดสอบ เพื่อช่วยให้คนเข้าถึงความช่วยเหลือที่เกี่ยวกับชีวิตคู่ สุขภาพก่อนตั้งครรภ์ ความปลอดภัย และครอบครัวได้เร็วขึ้น โดยมุ่งเชื่อมกับบริการที่มีอยู่แล้วแทนการสร้างบริการใหม่ทุกเรื่อง ความต่างจาก premarital ที่เน้นหลักสูตร คือข้อเสนอนี้มองช่วงก่อนสมรสเป็น **จุดเชื่อมระหว่างคนกับระบบความช่วยเหลือ**: ช่วยตั้งหลัก เปิดโอกาสให้ระบุความต้องการ นำทาง มีช่องทางส่วนตัว ส่งต่อเมื่อเกินขอบเขต และกลับเข้าสู่ระบบได้เมื่อชีวิตเปลี่ยน
+เด็กเกิดน้อยเป็นปัญหาใหญ่ของไทย และหลายประเทศทั่วโลกก็ยังแก้เรื่องนี้ได้ไม่ง่าย บทความนี้เสนอให้ทดสอบ **“ช่วงก่อนสมรส”** ในฐานะอีกจุดแทรกแซง ว่าจะช่วยให้คนเข้าถึงความช่วยเหลือที่เกี่ยวกับชีวิตคู่ สุขภาพก่อนตั้งครรภ์ ความปลอดภัย และครอบครัวได้ดีขึ้นหรือไม่ โดยมุ่งเชื่อมกับบริการที่มีอยู่แล้วแทนการสร้างบริการใหม่ทุกเรื่อง ความต่างจาก premarital ที่เน้นหลักสูตร คือข้อเสนอนี้มองช่วงก่อนสมรสเป็น **จุดเชื่อมระหว่างคนกับระบบความช่วยเหลือ**: ช่วยตั้งหลัก เปิดโอกาสให้ระบุความต้องการ นำทาง มีช่องทางส่วนตัว ส่งต่อเมื่อเกินขอบเขต และกลับเข้าสู่ระบบได้เมื่อชีวิตเปลี่ยน
 
 คำถามของบทความเริ่มจากประสบการณ์ภาคปฏิบัติของวิสาหกิจเพื่อสังคมที่ทำงานกับคู่และครอบครัวโดยตรง แล้วนำไปตรวจด้วยการสังเคราะห์องค์ความรู้แบบบูรณาการ ผ่านกลุ่มหลักฐานด้านความสัมพันธ์ สุขภาพก่อนตั้งครรภ์ ความปลอดภัย วัฒนธรรม การเข้าถึงบริการ พัฒนาการเด็ก และการจัดระบบบริการ พร้อมใช้สิงคโปร์เป็นกรณีเปรียบเทียบ ประสบการณ์หน้างานใช้เพื่อ “ตั้งคำถาม” ไม่ใช่เป็นข้อมูลวิจัยหรือหลักฐานยืนยันประสิทธิผล
 
@@ -47,7 +47,7 @@ Existing evidence does not support premarital preparation as a direct fertility 
 
 ## 3. วิธีการศึกษา / Methodology: การทบทวนและสังเคราะห์องค์ความรู้
 
-บทความนี้เป็นบทความวิชาการเชิงแนวคิด ไม่ใช่ systematic review และไม่ได้อ้างว่าครอบคลุมวรรณกรรมทั้งหมด ใช้ **structured evidence workflow** ร่วมกับการสังเคราะห์เชิงบูรณาการและเชิงทฤษฎี โดยจัดการค้นเป็นกลุ่มเรื่องนโยบายประชากรและครอบครัว การเตรียมความสัมพันธ์ สุขภาพก่อนตั้งครรภ์ ความปลอดภัยและความรุนแรง วัฒนธรรมและความเหลื่อมล้ำ การเข้าถึงบริการ พัฒนาการเด็ก และการจัดระบบส่งต่อ
+บทความนี้เป็นบทความวิชาการเชิงแนวคิด ไม่ใช่ systematic review และไม่ได้อ้างว่าครอบคลุมวรรณกรรมทั้งหมด ใช้ **กระบวนการทบทวนหลักฐานอย่างมีโครงสร้าง** ร่วมกับการสังเคราะห์เชิงบูรณาการและเชิงทฤษฎี โดยจัดการค้นเป็นกลุ่มเรื่องนโยบายประชากรและครอบครัว การเตรียมความสัมพันธ์ สุขภาพก่อนตั้งครรภ์ ความปลอดภัยและความรุนแรง วัฒนธรรมและความเหลื่อมล้ำ การเข้าถึงบริการ พัฒนาการเด็ก และการจัดระบบส่งต่อ
 
 สำหรับข้ออ้างหลัก ใช้หลักฐานสามตำแหน่งเมื่อหาได้ คือ งานต้นทางหรือกรอบหลัก งานสังเคราะห์หรือแนวทางปัจจุบัน และหลักฐานที่ให้ผลต่างหรือจำกัดขอบเขตของข้อเสนอ แหล่งสำคัญถูกตามรอยเอกสารอ้างอิงย้อนกลับและไปข้างหน้า แล้วตรวจในระดับข้ออ้างว่า ประชากร บริบท ช่วงเวลา และชนิดของความสัมพันธ์ตรงกับถ้อยคำที่ใช้หรือไม่ หลักฐานที่ไม่สนับสนุนข้อเสนอยังคงถูกเก็บไว้ในการสังเคราะห์
 
@@ -85,7 +85,7 @@ Existing evidence does not support premarital preparation as a direct fertility 
 
 ### 4.5 สิงคโปร์แสดง “หน้าที่ของระบบ” มากกว่าต้นแบบที่ต้องคัดลอก
 
-Marriage Preparation Programme และ Cinta Abadi ของสิงคโปร์ครอบคลุมประเด็นชีวิตคู่ การเงิน การวางแผนครอบครัว และแหล่งช่วยเหลือ ขณะที่ Bersamamu แสดงการเชื่อมก่อนและหลังสมรสผ่านจุดติดต่อที่ต่อเนื่องและส่งต่อได้ (Families for Life, n.d.; Registry of Muslim Marriages, 2026) นโยบาย Marriage & Parenthood ยังเชื่อมกับการลา ที่อยู่อาศัย และการดูแลครอบครัวในระดับกว้างกว่า (Singapore Government, 2026)
+Marriage Preparation Programme และ Cinta Abadi ของสิงคโปร์ครอบคลุมประเด็นชีวิตคู่ การเงิน การวางแผนครอบครัว และแหล่งช่วยเหลือ ขณะที่ Bersamamu แสดงการเชื่อมก่อนและหลังสมรสผ่านจุดติดต่อที่ต่อเนื่องและส่งต่อได้ (Families for Life, n.d.-a, n.d.-b; Registry of Muslim Marriages, 2026) นโยบาย Marriage & Parenthood ยังเชื่อมกับการลา ที่อยู่อาศัย และการดูแลครอบครัวในระดับกว้างกว่า (Singapore Government, 2026)
 
 สิ่งที่ไทยควรหยิบมาทดสอบจึงไม่ใช่ชื่อหน่วยงานหรือกฎของสิงคโปร์ แต่คือหน้าที่ของระบบ ได้แก่ **รู้ว่าจะไปที่ไหน ส่งต่อได้ และกลับมาได้**
 
@@ -158,7 +158,9 @@ Bernal, G., Bonilla, J., & Bellido, C. (1995). Ecological validity and cultural 
 
 Cordova, J. V., Eubanks Fleming, C. J., Morrill, M. I., Hawrilenko, M., Sollenberger, J. W., Harp, A. G., Gray, T. D., Darling, E. V., Blair, J. M., Meade, A. E., & Wachs, K. (2014). The Marriage Checkup: A randomized controlled trial of annual relationship health checkups. *Journal of Consulting and Clinical Psychology, 82*(4), 592–604. https://doi.org/10.1037/a0037097
 
-Families for Life. (n.d.). *Cinta Abadi Marriage Preparation Programme*. https://familiesforlife.sg/pages/Programme/CINTA-ABADI-MARRIAGE-PREPARATION-PROGRAMME-CA-PREP
+Families for Life. (n.d.-a). *Why you should attend a marriage preparation course*. https://familiesforlife.sg/pages/article/why-you-should-attend-a-marriage-preparation-course
+
+Families for Life. (n.d.-b). *Cinta Abadi Marriage Preparation Programme*. https://familiesforlife.sg/pages/Programme/CINTA-ABADI-MARRIAGE-PREPARATION-PROGRAMME-CA-PREP
 
 Fluchtmann, J., van Veen, V., & Adema, W. (2023). *Fertility, employment and family policy: A cross-country panel analysis* (OECD Social, Employment and Migration Working Papers No. 299). OECD Publishing. https://doi.org/10.1787/326844f0-en
 
@@ -168,7 +170,7 @@ Hawkins, A. J., Blanchard, V. L., Baldwin, S. A., & Fawcett, E. B. (2008). Does 
 
 Hawkins, A. J., Stanley, S. M., Blanchard, V. L., & Albright, M. (2012). Exploring programmatic moderators of the effectiveness of marriage and relationship education programs: A meta-analytic study. *Behavior Therapy, 43*(1), 77–87. https://doi.org/10.1016/j.beth.2010.12.006
 
-Levesque, J.-F., Harris, M. F., & Russell, G. (2013). Patient-centred access to health care: Conceptualising access at the interface of health systems and populations. *International Journal for Equity in Health, 12*, 18. https://doi.org/10.1186/1475-9276-12.18
+Levesque, J.-F., Harris, M. F., & Russell, G. (2013). Patient-centred access to health care: Conceptualising access at the interface of health systems and populations. *International Journal for Equity in Health, 12*, 18. https://doi.org/10.1186/1475-9276-12-18
 
 Moynihan, D., Herd, P., & Harvey, H. (2015). Administrative burden: Learning, psychological, and compliance costs in citizen-state interactions. *Journal of Public Administration Research and Theory, 25*(1), 43–69. https://doi.org/10.1093/jopart/muu009
 
@@ -203,5 +205,7 @@ World Health Organization, United Nations Children’s Fund, & World Bank Group.
 กรมสุขภาพจิต. (ม.ป.ป.). *สายด่วนสุขภาพจิต 1323*. กระทรวงสาธารณสุข. https://dmh.go.th/
 
 สถาบันวิจัยประชากรและสังคม มหาวิทยาลัยมหิดล. (2569). *สถานการณ์ประชากรไทยปี 2569 “พลิกวิกฤตเกิดน้อย–สังคมสูงวัย สู่การลงทุนใน ‘คน’ เพื่ออนาคตประเทศ”*. มหาวิทยาลัยมหิดล.
+
+สำนักบริหารการทะเบียน กรมการปกครอง. (ม.ป.ป.). *คู่มือทางการทะเบียน: การจดทะเบียนสมรส*. https://www.bora.dopa.go.th/callcenter1548/guidebook
 
 สำนักงานปลัดกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์. (2569). *คู่มือสำหรับประชาชน ประจำปีงบประมาณ พ.ศ. 2569: ช่องทางศูนย์ช่วยเหลือสังคม สายด่วน 1300 และ ESS Help Me*. https://psdg.m-society.go.th/
